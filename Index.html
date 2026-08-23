@@ -1,0 +1,568 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AureGolden 432 — Colección Áurea (Edición Limitada)</title>
+    <!-- Fuentes elegantes de Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-deep: #0A0B0B;        /* Fondo oscuro suavizado para evitar fatiga */
+            --bg-card: #121313;        /* Fondo de tarjetas carbón profundo */
+            --gold: #D4AF37;           /* Dorado metálico principal */
+            --gold-light: #F3E5AB;     /* Champaña suave para brillos y textos finos */
+            --gold-dark: #AA8222;      /* Dorado envejecido para sombras y bordes */
+            --text-light: #F5F2EB;     /* Crema cálido para el texto de lectura */
+            --text-muted: #A8A49C;     /* Gris warm para subtítulos y descripciones */
+            --border-gold: rgba(212, 175, 55, 0.2);
+        }
+
+        /* Reset y estilos base */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-deep);
+            color: var(--text-light);
+            font-family: 'Montserrat', sans-serif;
+            line-height: 1.8;
+            overflow-x: hidden;
+        }
+
+        /* Adornos geométricos */
+        .gold-divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 40px auto;
+            max-width: 250px;
+        }
+
+        .gold-divider::before, .gold-divider::after {
+            content: "";
+            flex: 1;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--gold), transparent);
+        }
+
+        .gold-divider span {
+            color: var(--gold);
+            margin: 0 15px;
+            font-size: 14px;
+            letter-spacing: 2px;
+        }
+
+        /* Encabezado Monumental */
+        header {
+            position: relative;
+            text-align: center;
+            padding: 120px 20px 80px 20px;
+            background: linear-gradient(180deg, rgba(18, 19, 19, 0.8) 0%, rgba(10, 11, 11, 0) 100%);
+            border-bottom: 1px solid var(--border-gold);
+        }
+
+        /* Esquinas decorativas del Header */
+        header::before, header::after {
+            content: "";
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            border-color: var(--gold);
+            border-style: solid;
+            pointer-events: none;
+            opacity: 0.5;
+        }
+        header::before { top: 30px; left: 30px; border-width: 1px 0 0 1px; }
+        header::after { top: 30px; right: 30px; border-width: 1px 1px 0 0; }
+
+        h1 {
+            font-family: 'Cinzel', serif;
+            color: var(--gold);
+            font-size: 3.5rem;
+            font-weight: 700;
+            margin-bottom: 5px;
+            letter-spacing: 6px;
+            text-shadow: 0 0 15px rgba(212, 175, 55, 0.15);
+        }
+
+        .subtitle {
+            font-family: 'Cinzel', serif;
+            font-size: 1.3rem;
+            letter-spacing: 4px;
+            color: var(--text-light);
+            text-transform: uppercase;
+            opacity: 0.9;
+        }
+
+        .motto {
+            font-family: 'Cinzel', serif;
+            font-style: italic;
+            color: var(--gold);
+            margin: 25px 0;
+            font-size: 1.15rem;
+            letter-spacing: 3px;
+        }
+
+        .header-description {
+            max-width: 750px;
+            margin: 25px auto 0 auto;
+            font-size: 1.05rem;
+            color: var(--text-muted);
+            font-weight: 300;
+        }
+
+        /* Contenedor y Cuadrícula */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 80px 20px;
+        }
+
+        .pre-release-badge {
+            display: inline-block;
+            background-color: rgba(212, 175, 55, 0.1);
+            border: 1px solid var(--gold);
+            color: var(--gold);
+            padding: 6px 16px;
+            font-size: 0.8rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            font-weight: 600;
+            margin-bottom: 50px;
+            border-radius: 20px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+            gap: 50px;
+            margin-top: 20px;
+        }
+
+        /* Tarjetas de Libros */
+        .card {
+            background-color: var(--bg-card);
+            border: 1px solid rgba(212, 175, 55, 0.12);
+            padding: 40px 30px;
+            position: relative;
+            transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        /* Esquinas de diseño en L en tarjetas (al pasar el cursor) */
+        .card::before, .card::after {
+            content: "";
+            position: absolute;
+            width: 15px;
+            height: 15px;
+            border-color: var(--gold);
+            border-style: solid;
+            opacity: 0;
+            transition: all 0.3s ease;
+            pointer-events: none;
+        }
+        /* Esquina superior izquierda */
+        .card::before { top: 15px; left: 15px; border-width: 1px 0 0 1px; }
+        /* Esquina inferior derecha */
+        .card::after { bottom: 15px; right: 15px; border-width: 0 1px 1px 0; }
+
+        .card:hover {
+            transform: translateY(-8px);
+            border-color: rgba(212, 175, 55, 0.4);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.6), 0 0 25px rgba(212, 175, 55, 0.05);
+        }
+
+        .card:hover::before, .card:hover::after {
+            opacity: 0.7;
+        }
+
+        /* Portadas e Ilustraciones */
+        .cover-container {
+            width: 200px;
+            height: 290px;
+            position: relative;
+            margin-bottom: 30px;
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
+            background: linear-gradient(135deg, #181919 0%, #0d0e0e 100%);
+            border: 1px solid rgba(212, 175, 55, 0.15);
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover .cover-container {
+            transform: scale(1.03);
+            border-color: var(--gold);
+        }
+
+        .cover-img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* Marcador de Libro (cuando la imagen no carga) */
+        .cover-fallback {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            color: var(--gold);
+            background: linear-gradient(135deg, #141515 0%, #070808 100%);
+        }
+
+        .cover-fallback .symbol {
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+        }
+
+        .cover-fallback .vol {
+            font-family: 'Cinzel', serif;
+            font-size: 0.85rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            opacity: 0.8;
+        }
+
+        /* Títulos y Sinopsis */
+        .card-num {
+            font-family: 'Cinzel', serif;
+            color: var(--gold);
+            font-size: 0.9rem;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            margin-bottom: 5px;
+        }
+
+        .card h3 {
+            font-family: 'Cinzel', serif;
+            color: var(--text-light);
+            font-size: 1.45rem;
+            font-weight: 600;
+            letter-spacing: 1px;
+            margin-bottom: 15px;
+            min-height: 56px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .card p {
+            font-size: 0.92rem;
+            color: var(--text-muted);
+            font-weight: 300;
+            line-height: 1.7;
+            flex-grow: 1;
+            margin-bottom: 25px;
+        }
+
+        /* Botón de Venta (Próximamente) */
+        .btn-coming {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: transparent;
+            color: var(--gold);
+            border: 1px solid var(--gold-dark);
+            padding: 12px 24px;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.85rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+            width: 100%;
+            cursor: default;
+        }
+
+        .btn-coming svg {
+            margin-right: 8px;
+            fill: var(--gold);
+            width: 14px;
+            height: 14px;
+            opacity: 0.8;
+        }
+
+        .card:hover .btn-coming {
+            background-color: rgba(212, 175, 55, 0.05);
+            border-color: var(--gold);
+            box-shadow: 0 0 15px rgba(212, 175, 55, 0.1);
+        }
+
+        /* Sección de Registro / Notificación */
+        .notify-section {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-gold);
+            max-width: 800px;
+            margin: 80px auto 20px auto;
+            padding: 60px 40px;
+            text-align: center;
+            position: relative;
+        }
+
+        /* Esquinas de la sección de notificación */
+        .notify-section::before, .notify-section::after {
+            content: "";
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            border-color: var(--gold);
+            border-style: solid;
+            opacity: 0.4;
+        }
+        .notify-section::before { top: 15px; left: 15px; border-width: 1px 0 0 1px; }
+        .notify-section::after { bottom: 15px; right: 15px; border-width: 0 1px 1px 0; }
+
+        .notify-section h2 {
+            font-family: 'Cinzel', serif;
+            color: var(--gold);
+            font-size: 1.8rem;
+            margin-bottom: 15px;
+            letter-spacing: 3px;
+        }
+
+        .notify-section p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            max-width: 550px;
+            margin: 0 auto 30px auto;
+            font-weight: 300;
+        }
+
+        /* Formulario */
+        .notify-form {
+            display: flex;
+            max-width: 500px;
+            margin: 0 auto;
+            gap: 10px;
+        }
+
+        .notify-input {
+            flex-grow: 1;
+            background-color: var(--bg-deep);
+            border: 1px solid rgba(212, 175, 55, 0.3);
+            padding: 14px 20px;
+            color: var(--text-light);
+            font-family: 'Montserrat', sans-serif;
+            font-size: 0.9rem;
+            outline: none;
+            transition: all 0.3s ease;
+        }
+
+        .notify-input:focus {
+            border-color: var(--gold);
+            box-shadow: 0 0 10px rgba(212, 175, 55, 0.1);
+        }
+
+        .notify-btn {
+            background-color: var(--gold);
+            color: var(--bg-deep);
+            border: none;
+            padding: 14px 28px;
+            font-family: 'Cinzel', serif;
+            font-weight: 700;
+            font-size: 0.9rem;
+            letter-spacing: 2px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+        }
+
+        .notify-btn:hover {
+            background-color: var(--gold-light);
+            box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 80px 20px;
+            border-top: 1px solid var(--border-gold);
+            margin-top: 100px;
+            background-color: rgba(18, 19, 19, 0.5);
+        }
+
+        footer .f-motto {
+            font-family: 'Cinzel', serif;
+            color: var(--gold);
+            letter-spacing: 4px;
+            font-size: 1.1rem;
+            margin-bottom: 20px;
+        }
+
+        footer .f-rights {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            letter-spacing: 1px;
+            font-weight: 300;
+        }
+
+        /* Responsividad */
+        @media (max-width: 768px) {
+            h1 { font-size: 2.5rem; }
+            .notify-form { flex-direction: column; }
+            .notify-btn { width: 100%; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="pre-release-badge">Campaña de Prelanzamiento</div>
+        <h1>AUREGOLDEN 432</h1>
+        <div class="subtitle">Colección Áurea</div>
+        <p class="motto">"Lux in Tenebris Lucet"</p>
+        <div class="gold-divider"><span>✦</span></div>
+        <p class="header-description">
+            Un ecosistema integrado de arte, matemáticas sagradas, neurociencia contemplativa y desarrollo del ser.
+            La Colección Áurea despliega seis tratados que guían al lector desde las frecuencias vibracionales del cosmos hasta la realización del silencio interior.
+        </p>
+    </header>
+
+    <div class="container">
+        <div class="grid">
+
+            <!-- Volumen I -->
+            <div class="card">
+                <div class="card-num">Volumen I</div>
+                <h3>El Poder del Sonido Sagrado</h3>
+                <div class="cover-container">
+                    <img src="./images/vol1_el_poder_del_sonido_sagrado.png" alt="Volumen I Cover" class="cover-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                    <div class="cover-fallback" style="display:none;">
+                        <span class="symbol">♪</span>
+                        <span class="vol">Vol. I</span>
+                    </div>
+                </div>
+                <p>Una profunda exploración de la resonancia simpática, la psicoacústica, el poder terapéutico de la tonificación consciente y la escala biológica de 432 Hz.</p>
+                <div class="btn-coming">
+                    <svg viewBox="0 0 24 24"><path d="M18 8h-1V6c0-2.76-1.24-5-4-5S9 3.24 9 6v2H8c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H10.9V6c0-1.66.3-3 1.1-3s1.1 1.34 1.1 3v2z"/></svg>
+                    Próximamente en Amazon
+                </div>
+            </div>
+
+            <!-- Volumen II -->
+            <div class="card">
+                <div class="card-num">Volumen II</div>
+                <h3>Geometría del Cosmos</h3>
+                <div class="cover-container">
+                    <img src="./images/vol2_geometria_del_cosmos.png" alt="Volumen II Cover" class="cover-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                    <div class="cover-fallback" style="display:none;">
+                        <span class="symbol">✦</span>
+                        <span class="vol">Vol. II</span>
+                    </div>
+                </div>
+                <p>El estudio matemático y espiritual de la proporción áurea (Phi), la secuencia de Fibonacci, los sólidos platónicos y los patrones visuales cimatizados del sonido.</p>
+                <div class="btn-coming">
+                    <svg viewBox="0 0 24 24"><path d="M18 8h-1V6c0-2.76-1.24-5-4-5S9 3.24 9 6v2H8c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H10.9V6c0-1.66.3-3 1.1-3s1.1 1.34 1.1 3v2z"/></svg>
+                    Próximamente en Amazon
+                </div>
+            </div>
+
+            <!-- Volumen III -->
+            <div class="card">
+                <div class="card-num">Volumen III</div>
+                <h3>Mapas de la Consciencia</h3>
+                <div class="cover-container">
+                    <img src="./images/vol3_mapas_de_la_consciencia.png" alt="Volumen III Cover" class="cover-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                    <div class="cover-fallback" style="display:none;">
+                        <span class="symbol">◎</span>
+                        <span class="vol">Vol. III</span>
+                    </div>
+                </div>
+                <p>Cartografía de la mente que conecta los estados de meditación yóguica, la psicología transpersonal y los descubrimientos de la neurociencia contemplativa.</p>
+                <div class="btn-coming">
+                    <svg viewBox="0 0 24 24"><path d="M18 8h-1V6c0-2.76-1.24-5-4-5S9 3.24 9 6v2H8c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H10.9V6c0-1.66.3-3 1.1-3s1.1 1.34 1.1 3v2z"/></svg>
+                    Próximamente en Amazon
+                </div>
+            </div>
+
+            <!-- Volumen IV -->
+            <div class="card">
+                <div class="card-num">Volumen IV</div>
+                <h3>Sabiduría Antigua</h3>
+                <div class="cover-container">
+                    <img src="./images/vol4_sabiduria_antigua.png" alt="Volumen IV Cover" class="cover-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                    <div class="cover-fallback" style="display:none;">
+                        <span class="symbol">▢</span>
+                        <span class="vol">Vol. IV</span>
+                    </div>
+                </div>
+                <p>El legado imperecedero del Hermetismo, el no-dualismo de los Upanishads, la filosofía clásica de Grecia y la práctica integradora del Taoísmo.</p>
+                <div class="btn-coming">
+                    <svg viewBox="0 0 24 24"><path d="M18 8h-1V6c0-2.76-1.24-5-4-5S9 3.24 9 6v2H8c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H10.9V6c0-1.66.3-3 1.1-3s1.1 1.34 1.1 3v2z"/></svg>
+                    Próximamente en Amazon
+                </div>
+            </div>
+
+            <!-- Volumen V -->
+            <div class="card">
+                <div class="card-num">Volumen V</div>
+                <h3>Bienestar Integral</h3>
+                <div class="cover-container">
+                    <img src="./images/vol5_bienestar_integral.png" alt="Volumen V Cover" class="cover-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                    <div class="cover-fallback" style="display:none;">
+                        <span class="symbol">✿</span>
+                        <span class="vol">Vol. V</span>
+                    </div>
+                </div>
+                <p>Una aproximación unificada al equilibrio vital que integra la interocepción del cuerpo, la Teoría Polivagal y la alimentación consciente.</p>
+                <div class="btn-coming">
+                    <svg viewBox="0 0 24 24"><path d="M18 8h-1V6c0-2.76-1.24-5-4-5S9 3.24 9 6v2H8c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H10.9V6c0-1.66.3-3 1.1-3s1.1 1.34 1.1 3v2z"/></svg>
+                    Próximamente en Amazon
+                </div>
+            </div>
+
+            <!-- Volumen VI -->
+            <div class="card">
+                <div class="card-num">Volumen VI</div>
+                <h3>El Arte de Meditar</h3>
+                <div class="cover-container">
+                    <img src="./images/vol6_el_arte_de_meditar.png" alt="Volumen VI Cover" class="cover-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                    <div class="cover-fallback" style="display:none;">
+                        <span class="symbol">☯</span>
+                        <span class="vol">Vol. VI</span>
+                    </div>
+                </div>
+                <p>Un manual técnico y contemplativo consagrado al silencio mental, al cultivo de la presencia no dual y a la estabilidad de la ecuanimidad.</p>
+                <div class="btn-coming">
+                    <svg viewBox="0 0 24 24"><path d="M18 8h-1V6c0-2.76-1.24-5-4-5S9 3.24 9 6v2H8c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H10.9V6c0-1.66.3-3 1.1-3s1.1 1.34 1.1 3v2z"/></svg>
+                    Próximamente en Amazon
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Sección de notificación -->
+        <div class="notify-section">
+            <h2>Sé el primero en saber</h2>
+            <p>Suscríbete para recibir una notificación exclusiva y un extracto de cortesía el mismo día en que la Colección Áurea sea publicada en Amazon KDP.</p>
+            <form class="notify-form" onsubmit="alert('¡Gracias! Te avisaremos tan pronto como la colección esté disponible en Amazon.'); this.reset(); return false;">
+                <input type="email" class="notify-input" placeholder="Tu dirección de correo electrónico" required>
+                <button type="submit" class="notify-btn">Notificarme</button>
+            </form>
+        </div>
+
+    </div>
+
+    <footer>
+        <p class="f-motto">Lux in Tenebris Lucet</p>
+        <p class="f-rights">© 2026 AureGolden432 — Todos los derechos reservados</p>
+    </footer>
+
+</body>
+</html>
+
+
+Gemini Notebook puede ofrecer respuestas incorrectas. Compruébalas.
