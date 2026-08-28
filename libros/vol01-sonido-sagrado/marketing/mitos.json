@@ -1,0 +1,25 @@
+{
+  "mitos": [
+    {
+      "mito": "Los 440 Hz fueron inventados por los nazis.",
+      "realidad": "La propuesta existe desde 1834."
+    },
+    {
+      "mito": "Los cuencos tibetanos cantores son milenarios.",
+      "realidad": "Su uso moderno apareció en Occidente en los años 70."
+    },
+    {
+      "mito": "Siempre existió una afinación universal.",
+      "realidad": "Cada región utilizaba afinaciones diferentes."
+    },
+    {
+      "mito": "Verdi defendía 432 Hz por razones místicas.",
+      "realidad": "Lo hacía para proteger las voces de los cantantes."
+    },
+    {
+      "mito": "La ciencia ha demostrado que 432 Hz es superior.",
+      "realidad": "Hay estudios prometedores, pero aún no concluyentes."
+    }
+  ]
+}
+`
