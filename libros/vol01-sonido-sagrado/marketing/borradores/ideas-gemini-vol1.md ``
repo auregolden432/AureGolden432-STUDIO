@@ -1,1 +1,502 @@
+{
+  "libro": {
+    "titulo": "El Poder del Sonido Sagrado",
+    "subtitulo": "Una exploración del sonido como herramienta de transformación interior",
+    "coleccion": "Colección Áurea · Volumen 01",
+    "autor": "AureGolden432",
+    "anio": 2026,
+    "web": "auregolden432.com"
+  },
+  "ideas_de_reels": [
+    {
+      "id": 1,
+      "capitulo": "Capítulo 4: 432 Hz: La Frecuencia del Universo",
+      "titulo": "La carta secreta de Giuseppe Verdi sobre los 432Hz",
+      "gancho_visual": "Sosteniendo un documento antiguo con la firma de Giuseppe Verdi.",
+      "concepto": "Explicar por qué Verdi escribió al gobierno italiano en 1884 exigiendo bajar la afinación a 432Hz para salvar la voz de los cantantes frente a la inflación del tono.",
+      "duracion_segundos": 35
+    },
+    {
+      "id": 2,
+      "capitulo": "Capítulo 4: 432 Hz: La Frecuencia del Universo",
+      "titulo": "El mito nazi del 440Hz desmontado con fechas",
+      "gancho_visual": "Línea de tiempo gráfica en pantalla comparando 1834 vs 1939.",
+      "concepto": "Desmentir la teoría de conspiración demostrando que Scheibler propuso el tono de 440Hz en Stuttgart un siglo antes por necesidades técnicas.",
+      "duracion_segundos": 38
+    },
+    {
+      "id": 3,
+      "capitulo": "Capítulo 3: La Ciencia del Sonido y el Cerebro",
+      "titulo": "La química del frisson o piel de gallina musical",
+      "gancho_visual": "Primer plano de piel de gallina reaccionando a un solo de música.",
+      "concepto": "Revelar el estudio de neuroimagen (Salimpoor/Blood) que demuestra que el frisson libera dopamina pura en el sistema de recompensa del cerebro.",
+      "duracion_segundos": 30
+    },
+    {
+      "id": 4,
+      "capitulo": "Capítulo 6: Práctica: El Sonido en la Vida Cotidiana",
+      "titulo": "El truco del humming y el óxido nítrico",
+      "gancho_visual": "Persona haciendo 'mmm' con la boca cerrada tocando su pecho y senos nasales.",
+      "concepto": "Mostrar el estudio de Weitzberg & Lundberg (2002) sobre cómo el tarareo multiplica la producción de óxido nítrico y relaja el nervio vago.",
+      "duracion_segundos": 35
+    },
+    {
+      "id": 5,
+      "capitulo": "Capítulo 2: La Historia del Sonido Sagrado",
+      "titulo": "El mapa acústico secreto de las cuevas prehistóricas",
+      "gancho_visual": "Imágenes de arte rupestre en Lascaux y Chauvet iluminadas con antorchas.",
+      "concepto": "Explicar la investigación de Reznikoff y Dauvois (1988): las pinturas paleolíticas se concentran justo en los puntos de máxima resonancia sonora.",
+      "duracion_segundos": 40
+    },
+    {
+      "id": 6,
+      "capitulo": "Capítulo 5: Instrumentos y Tradiciones de Sonido Sagrado",
+      "titulo": "La verdadera historia de los cuencos tibetanos",
+      "gancho_visual": "Frotando un cuenco de bronce mientras se muestra la portada de un disco de 1972.",
+      "concepto": "Contar con honestidad histórica que en los monasterios tradicionales no se usaban como instrumentos 'cantores', sino que su uso terapéutico despegó en los años 70 en Occidente.",
+      "duracion_segundos": 38
+    },
+    {
+      "id": 7,
+      "capitulo": "Capítulo 4: 432 Hz: La Frecuencia del Universo",
+      "titulo": "El estudio clínico en enfermeras de COVID-19 con 432Hz",
+      "gancho_visual": "Hospital o personal sanitario con auriculares relajándose.",
+      "concepto": "Analizar el ensayo clínico de Calamassi (2022) que midió reducciones objetivas en niveles de ansiedad en personal médico expuesto a música en 432Hz.",
+      "duracion_segundos": 36
+    },
+    {
+      "id": 8,
+      "capitulo": "Capítulo 1: La Vibración como Fundamento",
+      "titulo": "Dos diapasones y el principio de resonancia simpática",
+      "gancho_visual": "Golpear un diapasón y ver cómo el segundo diapasón idéntico empieza a vibrar solo sin tocarlo.",
+      "concepto": "Demostrar físicamente la resonancia y explicar cómo los órganos y células del cuerpo humano vibran en simpatía con el entorno sonoro.",
+      "duracion_segundos": 32
+    },
+    {
+      "id": 9,
+      "capitulo": "Capítulo 2: La Historia del Sonido Sagrado",
+      "titulo": "El sistro de Hathor en el antiguo Egipto",
+      "gancho_visual": "Ilustración del templo de Dendera y una sonaja sagrada egipcia.",
+      "concepto": "Explicar cómo los sacerdotes egipcios no consideraban la música como entretenimiento, sino como una tecnología sagrada y ritual para animar los sentidos.",
+      "duracion_segundos": 34
+    },
+    {
+      "id": 10,
+      "capitulo": "Capítulo 2: La Historia del Sonido Sagrado",
+      "titulo": "Pitágoras y la herrería que cambió la historia",
+      "gancho_visual": "Martillos golpeando yunques con proporciones 1:2, 2:3 y 3:4.",
+      "concepto": "La leyenda del descubrimiento pitagórico de las proporciones matemáticas de la octava, la quinta y la cuarta a partir del peso de los martillos.",
+      "duracion_segundos": 35
+    },
+    {
+      "id": 11,
+      "capitulo": "Capítulo 5: Instrumentos y Tradiciones de Sonido Sagrado",
+      "titulo": "Canto difónico: ¿Cómo una sola persona emite dos notas a la vez?",
+      "gancho_visual": "Cantante tradicional de Tuva o Mongolia modulando la cavidad bucal.",
+      "concepto": "Demostrar cómo la manipulación del tracto vocal aísla sobretonos armónicos agudos sobre una nota fundamental grave.",
+      "duracion_segundos": 30
+    },
+    {
+      "id": 12,
+      "capitulo": "Capítulo 5: Instrumentos y Tradiciones de Sonido Sagrado",
+      "titulo": "El Didgeridoo aborigen: 1.500 años de respiración circular",
+      "gancho_visual": "Aborigen australiano tocando el tronco de eucalipto hueco por termitas.",
+      "concepto": "Explicar las frecuencias ultrabajas y el impacto vibracional en el cuerpo del instrumento de sonido continuo más antiguo.",
+      "duracion_segundos": 35
+    },
+    {
+      "id": 13,
+      "capitulo": "Capítulo 3: La Ciencia del Sonido y el Cerebro",
+      "titulo": "El sonido llega a tus emociones antes que a tu pensamiento",
+      "gancho_visual": "Animación 3D del cerebro mostrando el puente directo entre el córtex auditivo y el sistema límbico.",
+      "concepto": "Explicar por qué una melodía te hace llorar o te relaja antes de que tu mente consciente pueda razonar lo que está pasando.",
+      "duracion_segundos": 33
+    },
+    {
+      "id": 14,
+      "capitulo": "Capítulo 4: 432 Hz: La Frecuencia del Universo",
+      "titulo": "La afinación científica de Sauveur: El Do en 256Hz",
+      "gancho_visual": "Cálculo matemático mostrando 2 elevado a la 8ª potencia (2⁸ = 256).",
+      "concepto": "Explicar la afinación física en la que todas las octavas de Do son potencias binarias limpias, dando un La en torno a 430.5Hz.",
+      "duracion_segundos": 36
+    },
+    {
+      "id": 15,
+      "capitulo": "Capítulo 6: Práctica: El Sonido en la Vida Cotidiana",
+      "titulo": "Monji Dokugo: El arte zen de escuchar el sonido de una sola mano",
+      "gancho_visual": "Persona sentada en silencio absoluto prestando atención a los micro-sonidos de la habitación.",
+      "concepto": "Cómo la escucha consciente sin juicio transforma el ruido cotidiano en una meditación profunda y ecuanimidad sensorial.",
+      "duracion_segundos": 35
+    },
+    {
+      "id": 16,
+      "capitulo": "Capítulo 1: La Vibración como Fundamento",
+      "titulo": "Cimática: Mandalas invisibles en el agua y la arena",
+      "gancho_visual": "Placa de metal con polvo que cambia de figura geométrica al cambiar la frecuencia de audio.",
+      "concepto": "Mostrar cómo la frecuencia ordena físicamente la materia y crea patrones idénticos a los copos de nieve y conchas marinas.",
+      "duracion_segundos": 28
+    },
+    {
+      "id": 17,
+      "capitulo": "Capítulo 3: La Ciencia del Sonido y el Cerebro",
+      "titulo": "La verdad sobre los pulsos binaurales y las ondas cerebrales",
+      "gancho_visual": "Auriculares estéreo mostrando 200Hz en oreja izquierda y 208Hz en oreja derecha = 8Hz en el cerebro.",
+      "concepto": "Cómo el tronco cerebral sintetiza una frecuencia resultante en ondas Theta para inducir sueño reparador o meditación.",
+      "duracion_segundos": 37
+    },
+    {
+      "id": 18,
+      "capitulo": "Capítulo 6: Práctica: El Sonido en la Vida Cotidiana",
+      "titulo": "Tonificación vocal: Dónde resuena cada vocal en tu cuerpo",
+      "gancho_visual": "Silueta humana iluminando cabeza con 'MMM', pecho con 'AH' y abdomen con 'OH'.",
+      "concepto": "Guía práctica de body-scan acústico mediante la emisión consciente de vocales sostenidas.",
+      "duracion_segundos": 34
+    },
+    {
+      "id": 19,
+      "capitulo": "Capítulo 4: 432 Hz: La Frecuencia del Universo",
+      "titulo": "Los 432.000 años del Kali Yuga védico: ¿Símbolo o coincidencia?",
+      "gancho_visual": "Mandalas astronómicos y textos sánscritos antiguos.",
+      "concepto": "Distinguir con rigor entre la cosmología simbólica tradicional hindú y las afirmaciones pseudocientíficas de internet.",
+      "duracion_segundos": 40
+    },
+    {
+      "id": 20,
+      "capitulo": "Prólogo & Conclusión",
+      "titulo": "Somos instrumentos musicales andantes",
+      "gancho_visual": "Superposición del latido del corazón, el ritmo respiratorio y las ondas cerebrales.",
+      "concepto": "Reflexión final: el sonido no es algo externo que nos ocurre, es lo que somos en nuestra estructura biológica y celular.",
+      "duracion_segundos": 32
+    }
+  ],
+  "preguntas_virales": [
+    {
+      "id": 1,
+      "pregunta": "¿Sabías que Giuseppe Verdi firmó una carta oficial en 1884 pidiendo que toda Italia afinara en 432 Hz?",
+      "enfoque": "Historia y curiosidad musical"
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Alguna vez has sentido un escalofrío en la espalda con una canción? ¿Sabías que en ese segundo tu cerebro libera dopamina pura?",
+      "enfoque": "Neurociencia y emociones"
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Por qué crees que las pinturas de las cavernas de hace 30.000 años están colocadas justo donde el eco es más fuerte?",
+      "enfoque": "Arqueología y misterio"
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Prefieres la música con un tono más brillante o notas que las frecuencias más graves te dan más paz mental?",
+      "enfoque": "Debate de percepción auditiva"
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Sabías que hacer 'humming' (tararear con la boca cerrada) durante 1 minuto activa tu nervio vago y reduce el estrés al instante?",
+      "enfoque": "Salud práctica y hack biológico"
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Creías que los cuencos tibetanos cantores se usaban en los monasterios hace 2000 años o sabías que su uso actual nació en los años 70?",
+      "enfoque": "Mitos vs realidad histórica"
+    },
+    {
+      "id": 7,
+      "pregunta": "Si el 70% de tu cuerpo es agua, ¿cómo crees que le afecta el ruido constante de la ciudad a nivel celular?",
+      "enfoque": "Consciencia ambiental y bioacústica"
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Alguna vez has podido escuchar el sonido de dos notas saliendo al mismo tiempo de la garganta de una sola persona?",
+      "enfoque": "Asombro y canto difónico"
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Crees que los hospitales deberían incluir salas de terapia sonora para reducir el dolor de los pacientes?",
+      "enfoque": "Debate social y medicina integrativa"
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Sabías que antes del siglo XX cada ciudad de Europa tenía su propia afinación y no existía un tono estándar?",
+      "enfoque": "Dato histórico sorprendente"
+    },
+    {
+      "id": 11,
+      "pregunta": "¿Has probado escuchar música a 432 Hz antes de dormir? ¿Notaste un cambio real en tu descanso?",
+      "enfoque": "Testimonios y comunidad"
+    },
+    {
+      "id": 12,
+      "pregunta": "¿Por qué crees que casi todas las culturas antiguas del mundo sostenían que el universo se creó a partir de una palabra o un sonido?",
+      "enfoque": "Filosofía y mitología comparada"
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Sabías que la medicina moderna ya usa el sonido para romper piedras en el riñón sin necesidad de cirugía?",
+      "enfoque": "Ciencia y tecnología acústica"
+    },
+    {
+      "id": 14,
+      "pregunta": "¿Eres de los que necesita música constante para trabajar o prefieres el silencio absoluto para concentrarte?",
+      "enfoque": "Hábitos cotidianos"
+    },
+    {
+      "id": 15,
+      "pregunta": "¿Qué parte de tu cuerpo vibra más cuando cantas la vocal 'AH' frente a la vocal 'MMM'?",
+      "enfoque": "Experiencia somática"
+    },
+    {
+      "id": 16,
+      "pregunta": "¿Sabías que Pitágoras creía que los planetas producían una música cósmica inaudible llamada la 'Música de las Esferas'?",
+      "enfoque": "Filosofía griega y astronomía"
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Por qué crees que un bebé se calma de inmediato al escuchar el latido rítmico del corazón de su madre?",
+      "enfoque": "Vínculo emocional primario"
+    },
+    {
+      "id": 18,
+      "pregunta": "¿Conocías el estudio médico que demostró que el 432Hz redujo la ansiedad en enfermeras durante la pandemia?",
+      "enfoque": "Evidencia científica"
+    },
+    {
+      "id": 19,
+      "pregunta": "¿Qué canción o melodía es la que siempre logra sacarte del mal humor en menos de 30 segundos?",
+      "enfoque": "Interacción y recomendaciones"
+    },
+    {
+      "id": 20,
+      "pregunta": "Si somos seres hechos de átomos que vibran sin parar... ¿te has preguntado qué tipo de música estás emitiendo hoy?",
+      "enfoque": "Reflexión profunda y cierre"
+    }
+  ],
+  "curiosidades": [
+    {
+      "id": 1,
+      "capitulo": "Capítulo 4",
+      "dato": "En 1884 el gobierno italiano emitió un decreto oficial adoptando el diapasón nacional en 432 Hz tras la petición por escrito de Giuseppe Verdi; el documento se conserva hoy en el Conservatorio Giuseppe Verdi de Milán."
+    },
+    {
+      "id": 2,
+      "capitulo": "Capítulo 3",
+      "dato": "El fenómeno del 'frisson' o escalofrío musical ocurre entre el 50% y el 67% de la población mundial y activa las mismas áreas cerebrales de recompensa que el amor romántico o la comida deliciosa."
+    },
+    {
+      "id": 3,
+      "capitulo": "Capítulo 6",
+      "dato": "Un estudio del Karolinska Institute (Weitzberg & Lundberg, 2002) demostró que el humming o tarareo aumenta la concentración de óxido nítrico nasal hasta 15 veces en comparación con la respiración silenciosa."
+    },
+    {
+      "id": 4,
+      "capitulo": "Capítulo 2",
+      "dato": "En las cuevas de Lascaux y Niaux, los arqueólogos Reznikoff y Dauvois descubrieron que los puntos con mayor concentración de pinturas rupestres tienen una resonancia acústica hasta 3 veces superior al resto de la galería."
+    },
+    {
+      "id": 5,
+      "capitulo": "Capítulo 4",
+      "dato": "La afinación estándar moderna de 440 Hz (ISO 16) no se formalizó internacionalmente hasta 1955, tras la reunión clave de mayo de 1939 en Broadcasting House (Londres)."
+    },
+    {
+      "id": 6,
+      "capitulo": "Capítulo 4",
+      "dato": "El primer científico en construir un tonómetro de precisión con decenas de diapasones fue Johann Heinrich Scheibler en 1834, proponiendo los 440 Hz a la Sociedad Alemana de Naturalistas en Stuttgart."
+    },
+    {
+      "id": 7,
+      "capitulo": "Capítulo 5",
+      "dato": "La primera referencia discográfica documentada en Occidente sobre los 'cuencos cantores tibetanos' como instrumento sonoro de meditación data de 1972 (disco de Karma Moffett y Alain Presencer)."
+    },
+    {
+      "id": 8,
+      "capitulo": "Capítulo 5",
+      "dato": "El didgeridoo australiano solo cuenta con evidencia arqueológica en pinturas rupestres datada con certeza en 1.500 años, a pesar de las leyendas populares que le atribuyen 40.000 años de antigüedad ininterrumpida."
+    },
+    {
+      "id": 9,
+      "capitulo": "Capítulo 2",
+      "dato": "En el templo egipcio de Dendera se agitaba el sistro en honor a la diosa Hathor; los sacerdotes comparaban su sonido metálico con el susurro sagrado del viento meciendo los papiros del río Nilo."
+    },
+    {
+      "id": 10,
+      "capitulo": "Capítulo 2",
+      "dato": "La Teología Menfita egipcia (Piedra de Shabaka) es uno de los textos más antiguos de la humanidad y describe la creación del cosmos como un acto donde el dios Ptah concibe el mundo en su corazón y lo materializa al pronunciarlo con su lengua."
+    },
+    {
+      "id": 11,
+      "capitulo": "Capítulo 4",
+      "dato": "El físico Joseph Sauveur propuso en el siglo XVII la 'afinación científica', estableciendo el Do central en exactamente 256 Hz por ser una potencia binaria limpia (2⁸), lo que da un La natural de aproximadamente 430.5 Hz."
+    },
+    {
+      "id": 12,
+      "capitulo": "Capítulo 3",
+      "dato": "El córtex auditivo tiene conexiones neuronales tan directas y ultrarrápidas con el sistema límbico que la música puede provocar taquicardia, llanto o relajación antes de que el córtex prefrontal procese la letra o el estilo."
+    },
+    {
+      "id": 13,
+      "capitulo": "Capítulo 4",
+      "dato": "En la cosmología védica de la India, la era actual de Kali Yuga tiene una duración tradicional estipulada exactamente en 432.000 años solares."
+    },
+    {
+      "id": 14,
+      "capitulo": "Capítulo 2",
+      "dato": "Pitágoras descubrió las proporciones armónicas fundamentales (1:2 para la octava, 2:3 para la quinta y 3:4 para la cuarta) al estudiar la tensión de las cuerdas y la masa relativa de los martillos de herrería."
+    },
+    {
+      "id": 15,
+      "capitulo": "Capítulo 3",
+      "dato": "La musicoterapia hospitalaria en pacientes postoperatorios ha demostrado reducir estadísticamente la necesidad de fármacos analgésicos y disminuir la ansiedad previa a cirugías complejas."
+    },
+    {
+      "id": 16,
+      "capitulo": "Capítulo 5",
+      "dato": "En el canto de garganta de Tuva (khoomei), los cantantes pueden generar una presión sonora suficiente en las cuerdas vocales para hacer audibles hasta el 6º y 8º armónico superior de manera aislada y cristalina."
+    },
+    {
+      "id": 17,
+      "capitulo": "Capítulo 4",
+      "dato": "El ensayo clínico de Calamassi y Pomponi (Explore, 2019) evaluó a voluntarios escuchando la misma pieza idéntica en 432Hz vs 440Hz, registrando una bajada significativa en la presión arterial sistólica con 432Hz."
+    },
+    {
+      "id": 18,
+      "capitulo": "Capítulo 1",
+      "dato": "La medicina moderna utiliza el principio de resonancia mecánica en la litotripsia extracorpórea para desintegrar cálculos renales mediante ondas de choque acústicas focalizadas sin incisión quirúrgica."
+    },
+    {
+      "id": 19,
+      "capitulo": "Capítulo 4",
+      "dato": "Durante el siglo XIX, las orquestas europeas sufrieron lo que los musicólogos llaman 'la inflación del tono', subiendo la afinación hasta más de 450 Hz para lograr un sonido más brillante y penetrante en grandes teatros."
+    },
+    {
+      "id": 20,
+      "capitulo": "Capítulo 6",
+      "dato": "La práctica zen de 'monji dokugo' consiste en entrenar la mente escuchando el sonido interior o el rumor del silencio para desactivar el bucle incesante del pensamiento conceptual."
+    }
+  ],
+  "mitos_desmontados": [
+    {
+      "id": 1,
+      "mito": "El estándar de 440 Hz fue inventado por el régimen nazi en 1939 para manipular y controlar a las masas.",
+      "realidad": "La propuesta de los 440 Hz fue presentada por Johann Heinrich Scheibler en 1834 (un siglo antes) y la industria de radiodifusión la adoptó en Londres en 1939 por razones puramente técnicas de compatibilidad en transmisiones de radio."
+    },
+    {
+      "id": 2,
+      "mito": "Los cuencos tibetanos cantores frotados con baquetas son una práctica espiritual milenaria documentada en los monasterios budistas antiguos.",
+      "realidad": "Los recipientes metálicos existían en el Himalaya como cuencos rituales u ofrendas, pero su uso como instrumento de masaje sonoro continuo frotado nació y se popularizó en Occidente a partir de 1972."
+    },
+    {
+      "id": 3,
+      "mito": "Existe una afinación ancestral única y universal que toda la humanidad compartía en la antigüedad.",
+      "realidad": "Históricamente no hubo un tono único: en el Barroco se afinaba en torno a 415 Hz, en el Renacimiento variaba por ciudad y órgano eclesiástico, y en el siglo XIX oscilaba entre 430 Hz y más de 450 Hz."
+    },
+    {
+      "id": 4,
+      "mito": "Giuseppe Verdi defendía el 432 Hz por motivos místicos y secretos esotéricos del cosmos.",
+      "realidad": "La carta de Verdi de 1884 demuestra que su defensa era puramente práctica y de salud vocal: proteger a los cantantes de ópera de la fatiga producida por orquestas que afinaban a tonos agudos de 450 Hz."
+    },
+    {
+      "id": 5,
+      "mito": "El número 432 Hz coincide exactamente con la velocidad de la luz y el diámetro de la Tierra en cualquier unidad de medida.",
+      "realidad": "Muchas de estas relaciones numéricas de internet dependen de forzar unidades de medida modernas (como millas o segundos) que no existían en la antigüedad o recurren a redondeos convenientes."
+    },
+    {
+      "id": 6,
+      "mito": "La afinación de Sauveur o afinación científica fija exactamente el La en 432 Hz.",
+      "realidad": "Sauveur fijó el Do central en 256 Hz (potencia de 2); en la escala temperada esto da un La resultante de aproximadamente 430.54 Hz, no exactamente 432 Hz."
+    },
+    {
+      "id": 7,
+      "mito": "El didgeridoo de los aborígenes australianos tiene 40.000 años de antigüedad demostrada en yacimientos arqueológicos.",
+      "realidad": "La presencia humana en Australia sí es antiquísima, pero la evidencia arqueológica y rupestre verificable del instrumento data de al menos 1.500 años."
+    },
+    {
+      "id": 8,
+      "mito": "La ciencia ha demostrado de forma concluyente y absoluta que el 432 Hz es biológicamente 'superior' a cualquier otra frecuencia.",
+      "realidad": "Los estudios actuales (Calamassi et al.) son ensayos piloto prometedores con muestras de 30 a 50 personas que muestran mayor relajación y bajada de presión sistólica, pero la ciencia aún requiere ensayos a gran escala con doble ciego."
+    },
+    {
+      "id": 9,
+      "mito": "Para practicar la meditación sonora se requieren instrumentos caros como gongs o diapasones importados.",
+      "realidad": "El libro demuestra que el instrumento más accesible, potente y con mayor respaldo médico es la propia voz humana a través del humming y la tonificación vocal."
+    },
+    {
+      "id": 10,
+      "mito": "El sonido es únicamente una onda mecánica externa que viaja por el aire sin relación con nuestra biología interna.",
+      "realidad": "El cuerpo humano genera su propia sinfonía endógena (latidos, ritmos circadianos, microvibraciones celulares) y responde a la resonancia acústica mediante cambios medibles en neurotransmisores y óxido nítrico."
+    }
+  ],
+  "experimentos_practicos": [
+    {
+      "id": 1,
+      "titulo": "Prueba de Escucha a Ciegas A/B (432 Hz vs 440 Hz)",
+      "capitulo": "Capítulo 4",
+      "duracion_minutos": 5,
+      "instrucciones": "Toma una misma pista acústica exportada en 440 Hz y 432 Hz. Con los ojos cerrados y auriculares puestos, pídele a alguien que reproduzca una u otra al azar sin decirte cuál es y anota en cuál sientes mayor apertura en el pecho y menor tensión en las sienes."
+    },
+    {
+      "id": 2,
+      "titulo": "Protocolo de Humming de 2 Minutos para Calmar el Nervio Vago",
+      "capitulo": "Capítulo 6",
+      "duracion_minutos": 2,
+      "instrucciones": "Siéntate con la espalda recta, inhala profundamente por la nariz y al exhalar emite un sonido 'MMMM' continuo con los labios sellados sintiendo la vibración en los senos nasales y el esternón. Repite durante 6 respiraciones completas para aumentar el óxido nítrico y activar el sistema parasimpático."
+    },
+    {
+      "id": 3,
+      "titulo": "Resonancia Simpática Casera con Dos Guitarras o Diapasones",
+      "capitulo": "Capítulo 1",
+      "duracion_minutos": 3,
+      "instrucciones": "Coloca dos guitarras afinadas frente a frente. Toca con fuerza la 5ª cuerda (La) de una de ellas y luego mutéala con la mano: escucharás con total claridad cómo la 5ª cuerda de la otra guitarra está vibrando sola por simpatía acústica."
+    },
+    {
+      "id": 4,
+      "titulo": "Exploración Somática de las Tres Vocales (Body-Scan Acústico)",
+      "capitulo": "Capítulo 6",
+      "duracion_minutos": 6,
+      "instrucciones": "Emite la vocal 'MMM' durante 2 minutos concentrando la atención en la cabeza; cambia a la vocal 'AH' durante 2 minutos sintiendo la resonancia en el corazón y tórax; y finaliza con 'OH' durante 2 minutos llevando la vibración al plexo solar y abdomen."
+    },
+    {
+      "id": 5,
+      "titulo": "Mapeo de la Escucha Consciente del Entorno (Monji Dokugo)",
+      "capitulo": "Capítulo 6",
+      "duracion_minutos": 5,
+      "instrucciones": "Detén toda actividad, cierra los ojos y cataloga los 4 sonidos más lejanos que alcances a percibir (un pájaro, tráfico lejano, el viento). Luego enfócate en 3 sonidos cercanos y finalmente en 2 sonidos internos (tu respiración y tu tragar), sin juzgarlos como molestos o agradables."
+    },
+    {
+      "id": 6,
+      "titulo": "Cimática Casera con Altavoz y Membrana de Agua",
+      "capitulo": "Capítulo 1",
+      "duracion_minutos": 10,
+      "instrucciones": "Coloca un recipiente plano con una capa fina de agua sobre un altavoz Bluetooth. Genera un tono puro de 432 Hz y observa cómo la superficie del agua genera círculos concéntricos y mandalas geométricos estables."
+    },
+    {
+      "id": 7,
+      "titulo": "Sincronización Hemisférica con Pulsos Binaurales Theta (8 Hz)",
+      "capitulo": "Capítulo 3",
+      "duracion_minutos": 15,
+      "instrucciones": "Con auriculares estéreo obligatorios, reproduce un tono de 200 Hz en el oído izquierdo y 208 Hz en el oído derecho. Permanece acostado 15 minutos en penumbra para permitir que el cerebro sincronice sus ondas en el rango Theta de relajación profunda."
+    },
+    {
+      "id": 8,
+      "titulo": "Detección del 'Escalofrío Musical' (Test de Frisson)",
+      "capitulo": "Capítulo 3",
+      "duracion_minutos": 4,
+      "instrucciones": "Selecciona el pasaje culminante de tu pieza musical favorita de todos los tiempos. Escúchala a oscuras con auriculares a buen volumen, monitorizando el momento exacto en que sientes la piel de gallina para identificar tu pico de liberación de dopamina."
+    },
+    {
+      "id": 9,
+      "titulo": "Baño de Sonido en Reposo con Cuenco o Frecuencia Continua",
+      "capitulo": "Capítulo 5 y 6",
+      "duracion_minutos": 10,
+      "instrucciones": "Acuéstate boca arriba sobre una esterilla, coloca una almohada bajo las rodillas y reproduce un dron armónico en 432 Hz o sonido de cuenco. No intentes meditar ni controlar pensamientos: simplemente permite que la vibración envuelva el cuerpo físico como un masaje térmico."
+    },
+    {
+      "id": 10,
+      "titulo": "Reto de 7 Días de Desintoxicación Sonora",
+      "capitulo": "Conclusión",
+      "duracion_minutos": 15,
+      "instrucciones": "Durante una semana, sustituye las noticias o podcasts intensos de los primeros 15 minutos de la mañana y los últimos 15 minutos antes de dormir por paisajes sonoros puros afinados a 432 Hz o silencio consciente, registrando tus niveles de calidad de sueño y fatiga mental al despertar."
+    }
+  ]
+}
+lightbulb_tips
 
