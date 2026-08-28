@@ -32,7 +32,15 @@ Por generar.
 
 Por generar.
 
+
+## Locución
+
+Pendiente
+
 ## Vídeo
 
-Por generar.
-``
+Pendiente
+
+## Publicado
+
+No
