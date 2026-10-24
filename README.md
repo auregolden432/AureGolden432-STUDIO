@@ -1,5 +1,7 @@
 # 🌟 Auregolden432hz: Colección Áurea
 
+🌐 **Web oficial:** [auregolden432.com](https://auregolden432.com)
+
 > *"Lux in Tenebris Lucet"* — El sonido es la más íntima de las artes: penetra en nosotros sin permiso y nos recuerda que somos, antes que todo, seres que vibran. Que los 432 Hz sean tu sintonía de regreso a casa.
 
 ---
@@ -176,4 +178,4 @@ Este proyecto nace bajo la premisa de la honestidad intelectual, separando el va
 
 ---
 
-*Desarrollado y mantenido con devoción al sonido, el arte y la presencia por **Auregolden432** (2026).*
+*Desarrollado y mantenido con devoción al sonido, el arte y la presencia por **Auregolden432** (2026).* · [auregolden432.com](https://auregolden432.com)
