@@ -17,7 +17,7 @@ Bienvenida o bienvenido. Tómate un momento para llegar. Suelta lo que puedas so
 ## Bloque 2 · `09-libertad-financiera_b02.mp3`
 
 ```text
-Hoy la reflexión gira en torno a la libertad financiera. Y lo primero que quiero hacer es desmontar un poco esa frase, porque se usa mucho y no siempre se explora con honestidad. <break time="2s" /> La libertad financiera no es un número mágico en una cuenta bancaria. No es dejar de trabajar para siempre en una playa. No es algo que se manifiesta con solo desearlo. Es un concepto mucho más personal, más tranquilo y más gradual de lo que suelen contarnos. <break time="2s" /> Para algunas personas, libertad financiera significa no tener que tomar decisiones importantes bajo presión económica. Para otras, significa poder elegir a qué dedicar su tiempo. Para otras, simplemente, significa poder dormir sin que el dinero sea la primera preocupación al despertar. <break time="2s" /> ¿Qué significa para ti? No la versión de las redes sociales. La tuya.
+Hoy la reflexión gira en torno a la libertad financiera. Y lo primero que quiero hacer es desmontar un poco esa frase, <break time="1s" /> porque se usa mucho y no siempre se explora con honestidad. <break time="2s" /> La libertad financiera no es un número mágico en una cuenta bancaria. No es dejar de trabajar para siempre en una playa. No es algo que se manifiesta con solo desearlo. Es un concepto mucho más personal, <break time="1s" /> más tranquilo y más gradual de lo que suelen contarnos. <break time="2s" /> Para algunas personas, libertad financiera significa no tener que tomar decisiones importantes bajo presión económica. Para otras, significa poder elegir a qué dedicar su tiempo. Para otras, simplemente, significa poder dormir sin que el dinero sea la primera preocupación al despertar. <break time="2s" /> ¿Qué significa para ti? No la versión de las redes sociales. La tuya.
 ```
 
 *Silencio después: 12 s*
@@ -25,7 +25,7 @@ Hoy la reflexión gira en torno a la libertad financiera. Y lo primero que quier
 ## Bloque 3 · `09-libertad-financiera_b03.mp3`
 
 ```text
-La libertad financiera, en la medida en que es alcanzable, y no es igualmente accesible para todos, porque las circunstancias de partida importan, suele construirse con decisiones pequeñas y sostenidas en el tiempo. No con un golpe de suerte ni con un solo movimiento brillante. <break time="2s" /> Se construye con hábitos: gastar un poco menos de lo que entra, cuando es posible. Entender a dónde va tu dinero. Distinguir entre lo que necesitas y lo que deseas, sin culpa por ninguna de las dos cosas. Aprender poco a poco, con humildad, sobre las herramientas financieras que existen.
+La libertad financiera, en la medida en que es alcanzable, y no es igualmente accesible para todos, <break time="1s" /> porque las circunstancias de partida importan, suele construirse con decisiones pequeñas y sostenidas en el tiempo. No con un golpe de suerte ni con un solo movimiento brillante. <break time="2s" /> Se construye con hábitos: gastar un poco menos de lo que entra, cuando es posible. Entender a dónde va tu dinero. Distinguir entre lo que necesitas y lo que deseas, <break time="1s" /> sin culpa por ninguna de las dos cosas. Aprender poco a poco, con humildad, sobre las herramientas financieras que existen.
 ```
 
 *Silencio después: 6 s*
@@ -41,7 +41,7 @@ Y se construye también con realismo. No todas las personas parten del mismo lug
 ## Bloque 5 · `09-libertad-financiera_b05.mp3`
 
 ```text
-Hay una pregunta que vale la pena hacerse de vez en cuando: ¿mis decisiones financieras reflejan lo que realmente valoro? A veces gastamos en cosas que en realidad no nos importan, por hábito o por presión social. Y a veces dejamos de invertir en lo que sí nos importa por miedo o por inercia. <break time="2s" /> No necesitas responder ahora. Solo dejar que la pregunta circule.
+Hay una pregunta que vale la pena hacerse de vez en cuando: ¿mis decisiones financieras reflejan lo que realmente valoro? A veces gastamos en cosas que en realidad no nos importan, <break time="1s" /> por hábito o por presión social. Y a veces dejamos de invertir en lo que sí nos importa por miedo o por inercia. <break time="2s" /> No necesitas responder ahora. Solo dejar que la pregunta circule.
 ```
 
 *Silencio después: 12 s*

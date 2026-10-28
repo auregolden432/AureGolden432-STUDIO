@@ -8,53 +8,53 @@
   "promesa": "Redescubrir la riqueza que ya existe en lo cotidiano.",
   "bloques": [
    {
-    "texto": "Bienvenida o bienvenido a este momento que has elegido para ti. No necesitas hacer nada especial. No necesitas prepararte de ninguna manera concreta. Solo estar aquí, tal como estás ahora mismo, es suficiente. <break time=\"2s\" /> Si te apetece, puedes cerrar los ojos. Si prefieres mantenerlos abiertos, con la mirada relajada hacia un punto tranquilo, eso también está bien. Encuentra la posición que te resulte más cómoda y permite que tu cuerpo se asiente donde está. <break time=\"2s\" /> Respira a tu propio ritmo. No hace falta forzar nada, ni respiraciones profundas, ni un patrón particular. Simplemente nota cómo el aire entra y sale, como ha hecho todo el día sin que le prestaras atención.",
+    "texto": "Bienvenida o bienvenido a este momento que has elegido para ti. No necesitas hacer nada especial. No necesitas prepararte de ninguna manera concreta. Solo estar aquí, tal como estás ahora mismo, es suficiente. <break time=\"2s\" /> Si te apetece, puedes cerrar los ojos. Si prefieres mantenerlos abiertos, <break time=\"1s\" /> con la mirada relajada hacia un punto tranquilo, eso también está bien. Encuentra la posición que te resulte más cómoda y permite que tu cuerpo se asiente donde está. <break time=\"2s\" /> Respira a tu propio ritmo. No hace falta forzar nada, ni respiraciones profundas, ni un patrón particular. Simplemente nota cómo el aire entra y sale, <break time=\"1s\" /> como ha hecho todo el día sin que le prestaras atención.",
     "silencio_despues": 6,
     "archivo": "01-abundancia_b01.mp3",
-    "caracteres": 698,
+    "caracteres": 738,
+    "breaks": 4
+   },
+   {
+    "texto": "Vamos a explorar juntos una idea sencilla: la abundancia. No como una promesa de riqueza material, <break time=\"1s\" /> ni como un objetivo que conquistar, sino como una forma de mirar. <break time=\"2s\" /> Piensa en las últimas veinticuatro horas. En algún momento de ese tiempo, algo funcionó. Quizá algo muy pequeño: el agua caliente al abrir el grifo, una conversación breve con alguien, <break time=\"1s\" /> el sabor de algo que te gustó, un instante de silencio que llegó sin buscarlo.",
+    "silencio_despues": 6,
+    "archivo": "01-abundancia_b02.mp3",
+    "caracteres": 488,
+    "breaks": 3
+   },
+   {
+    "texto": "No se trata de ignorar lo difícil. Las dificultades existen y merecen su espacio. Pero al lado de lo difícil, casi siempre hay algo que también funciona, algo que sostiene, <break time=\"1s\" /> algo que pasa desapercibido precisamente porque está ahí con regularidad. <break time=\"2s\" /> La abundancia, en su sentido más honesto, empieza ahí: en la atención. En la capacidad de notar lo que ya existe antes de buscar lo que falta.",
+    "silencio_despues": 6,
+    "archivo": "01-abundancia_b03.mp3",
+    "caracteres": 429,
     "breaks": 2
    },
    {
-    "texto": "Vamos a explorar juntos una idea sencilla: la abundancia. No como una promesa de riqueza material, ni como un objetivo que conquistar, sino como una forma de mirar. <break time=\"2s\" /> Piensa en las últimas veinticuatro horas. En algún momento de ese tiempo, algo funcionó. Quizá algo muy pequeño: el agua caliente al abrir el grifo, una conversación breve con alguien, el sabor de algo que te gustó, un instante de silencio que llegó sin buscarlo.",
-    "silencio_despues": 6,
-    "archivo": "01-abundancia_b02.mp3",
-    "caracteres": 448,
-    "breaks": 1
-   },
-   {
-    "texto": "No se trata de ignorar lo difícil. Las dificultades existen y merecen su espacio. Pero al lado de lo difícil, casi siempre hay algo que también funciona, algo que sostiene, algo que pasa desapercibido precisamente porque está ahí con regularidad. <break time=\"2s\" /> La abundancia, en su sentido más honesto, empieza ahí: en la atención. En la capacidad de notar lo que ya existe antes de buscar lo que falta.",
-    "silencio_despues": 6,
-    "archivo": "01-abundancia_b03.mp3",
-    "caracteres": 409,
-    "breaks": 1
-   },
-   {
-    "texto": "Imagina que sales a caminar por un lugar que conoces bien, una calle de tu barrio, un parque cercano, un camino que has recorrido muchas veces. Hoy, en lugar de ir pensando en lo siguiente que tienes que hacer, decides mirar como si fuera la primera vez. Notas un árbol que siempre estuvo ahí, la textura de una pared, la luz a esa hora particular del día. <break time=\"2s\" /> Nada ha cambiado en el paisaje. Lo que ha cambiado es la calidad de tu atención. Y eso, curiosamente, lo transforma todo.",
+    "texto": "Imagina que sales a caminar por un lugar que conoces bien, una calle de tu barrio, <break time=\"1s\" /> un parque cercano, un camino que has recorrido muchas veces. Hoy, en lugar de ir pensando en lo siguiente que tienes que hacer, <break time=\"1s\" /> decides mirar como si fuera la primera vez. Notas un árbol que siempre estuvo ahí, la textura de una pared, <break time=\"1s\" /> la luz a esa hora particular del día. <break time=\"2s\" /> Nada ha cambiado en el paisaje. Lo que ha cambiado es la calidad de tu atención. Y eso, curiosamente, lo transforma todo.",
     "silencio_despues": 6,
     "archivo": "01-abundancia_b04.mp3",
-    "caracteres": 498,
-    "breaks": 1
+    "caracteres": 558,
+    "breaks": 4
    },
    {
-    "texto": "La abundancia también vive en las personas. En las habilidades que has desarrollado sin darte cuenta. En los aprendizajes que vinieron de momentos difíciles. En los recursos internos que descubres solo cuando los necesitas. <break time=\"2s\" /> No tienes que sentirte agradecido a la fuerza. No tienes que convencerte de nada. Solo te invito a observar, con curiosidad tranquila, qué recursos ya están a tu alcance, materiales, relacionales, internos, que quizá hoy no estás viendo.",
+    "texto": "La abundancia también vive en las personas. En las habilidades que has desarrollado sin darte cuenta. En los aprendizajes que vinieron de momentos difíciles. En los recursos internos que descubres solo cuando los necesitas. <break time=\"2s\" /> No tienes que sentirte agradecido a la fuerza. No tienes que convencerte de nada. Solo te invito a observar, con curiosidad tranquila, qué recursos ya están a tu alcance, <break time=\"1s\" /> materiales, relacionales, internos, que quizá hoy no estás viendo.",
     "silencio_despues": 12,
     "archivo": "01-abundancia_b05.mp3",
-    "caracteres": 481,
-    "breaks": 1
+    "caracteres": 501,
+    "breaks": 2
    },
    {
-    "texto": "Cuando pensamos en abundancia, es fácil caer en la comparación: lo que otros tienen, lo que todavía nos falta, la distancia entre donde estamos y donde creemos que deberíamos estar. Esa distancia a veces es real, y a veces es una ilusión de la prisa. <break time=\"2s\" /> Hoy, solo por estos minutos, suelta la comparación. No como un mandato, sino como un experimento. ¿Qué pasa si, durante un momento breve, dejas de medir y simplemente miras lo que hay?",
+    "texto": "Cuando pensamos en abundancia, es fácil caer en la comparación: lo que otros tienen, <break time=\"1s\" /> lo que todavía nos falta, la distancia entre donde estamos y donde creemos que deberíamos estar. Esa distancia a veces es real, y a veces es una ilusión de la prisa. <break time=\"2s\" /> Hoy, solo por estos minutos, suelta la comparación. No como un mandato, sino como un experimento. ¿Qué pasa si, durante un momento breve, <break time=\"1s\" /> dejas de medir y simplemente miras lo que hay?",
     "silencio_despues": 6,
     "archivo": "01-abundancia_b06.mp3",
-    "caracteres": 455,
-    "breaks": 1
+    "caracteres": 495,
+    "breaks": 3
    },
    {
-    "texto": "La abundancia no es un estado permanente. Es un momento de claridad que aparece, se va y puede volver. No necesitas retenerla. Solo necesitas saber que puedes buscarla otra vez cuando quieras, simplemente prestando atención. <break time=\"2s\" /> Poco a poco, sin prisa, empieza a regresar al espacio donde estás. Nota la superficie donde descansa tu cuerpo, los sonidos del lugar, la temperatura del aire. <break time=\"2s\" /> Cuando estés lista o listo, abre los ojos si los tenías cerrados. Mueve suavemente los dedos de las manos y los pies. <break time=\"2s\" /> Llévate de estos minutos lo que te haya servido, y deja aquí lo que no necesites. Gracias por tu tiempo.",
+    "texto": "La abundancia no es un estado permanente. Es un momento de claridad que aparece, se va y puede volver. No necesitas retenerla. Solo necesitas saber que puedes buscarla otra vez cuando quieras, simplemente prestando atención. <break time=\"2s\" /> Poco a poco, sin prisa, empieza a regresar al espacio donde estás. Nota la superficie donde descansa tu cuerpo, los sonidos del lugar, la temperatura del aire. <break time=\"2s\" /> Cuando estés lista o listo, abre los ojos si los tenías cerrados. Mueve suavemente los dedos de las manos y los pies. <break time=\"2s\" /> Llévate de estos minutos lo que te haya servido, <break time=\"1s\" /> y deja aquí lo que no necesites. Gracias por tu tiempo.",
     "silencio_despues": 0,
     "archivo": "01-abundancia_b07.mp3",
-    "caracteres": 667,
-    "breaks": 3
+    "caracteres": 687,
+    "breaks": 4
    }
   ]
  },
@@ -74,18 +74,18 @@
     "breaks": 1
    },
    {
-    "texto": "Hoy vamos a hablar de confianza. No de la confianza que se proclama en voz alta, ni del optimismo obligatorio. Hablamos de algo más silencioso: esa sensación interior de que, aunque no sepas exactamente cómo, vas a encontrar la manera de responder a lo que venga. <break time=\"2s\" /> No de controlarlo todo. No de tener certeza. Sino de responder.",
+    "texto": "Hoy vamos a hablar de confianza. No de la confianza que se proclama en voz alta, ni del optimismo obligatorio. Hablamos de algo más silencioso: esa sensación interior de que, <break time=\"1s\" /> aunque no sepas exactamente cómo, vas a encontrar la manera de responder a lo que venga. <break time=\"2s\" /> No de controlarlo todo. No de tener certeza. Sino de responder.",
     "silencio_despues": 6,
     "archivo": "02-confianza_b02.mp3",
-    "caracteres": 347,
-    "breaks": 1
+    "caracteres": 367,
+    "breaks": 2
    },
    {
-    "texto": "Piensa en un momento pasado en el que no sabías qué hacer. Un momento en el que el camino no estaba claro, quizá un cambio inesperado, una decisión difícil, una situación que te superaba. Tómate unos segundos para recordar cómo te sentías entonces.",
+    "texto": "Piensa en un momento pasado en el que no sabías qué hacer. Un momento en el que el camino no estaba claro, quizá un cambio inesperado, <break time=\"1s\" /> una decisión difícil, una situación que te superaba. Tómate unos segundos para recordar cómo te sentías entonces.",
     "silencio_despues": 6,
     "archivo": "02-confianza_b03.mp3",
-    "caracteres": 248,
-    "breaks": 0
+    "caracteres": 268,
+    "breaks": 1
    },
    {
     "texto": "Ahora observa un hecho sencillo: ese momento ya pasó. No porque fuera fácil, sino porque encontraste alguna manera de atravesarlo. Quizá no fue la manera perfecta. Quizá pediste ayuda, quizá improvisaste, quizá simplemente aguantaste un día más. Pero aquí estás. <break time=\"2s\" /> Esa capacidad de responder, imperfecta y humana, es la confianza de la que hablamos. No es arrogancia. No es negar el miedo. Es reconocer que ya has navegado aguas inciertas antes, y que puedes volver a hacerlo.",
@@ -95,18 +95,18 @@
     "breaks": 1
    },
    {
-    "texto": "La confianza no significa ausencia de duda. Las personas que más confían en sí mismas suelen ser las que mejor conocen sus dudas, las que han aprendido a convivir con ellas sin que las paralicen. <break time=\"2s\" /> Imagina la duda como una compañera de viaje. No necesitas expulsarla ni obedecerla ciegamente. Puedes escuchar lo que tiene que decir, a veces trae información útil, y después decidir tú.",
+    "texto": "La confianza no significa ausencia de duda. Las personas que más confían en sí mismas suelen ser las que mejor conocen sus dudas, <break time=\"1s\" /> las que han aprendido a convivir con ellas sin que las paralicen. <break time=\"2s\" /> Imagina la duda como una compañera de viaje. No necesitas expulsarla ni obedecerla ciegamente. Puedes escuchar lo que tiene que decir, <break time=\"1s\" /> a veces trae información útil, y después decidir tú.",
     "silencio_despues": 6,
     "archivo": "02-confianza_b05.mp3",
-    "caracteres": 403,
-    "breaks": 1
+    "caracteres": 443,
+    "breaks": 3
    },
    {
-    "texto": "Hay una diferencia entre no sé si puedo y no sé cómo, pero voy a intentarlo. Las dos frases contienen incertidumbre. Pero la segunda deja espacio para el movimiento. <break time=\"2s\" /> Ahora, piensa en algo que te preocupa estos días. Algo que todavía no has resuelto. No necesitas encontrar la solución ahora mismo. Solo pregúntate: ¿qué pequeño paso podría dar, no para resolverlo todo, sino para acercarme un poco?",
+    "texto": "Hay una diferencia entre no sé si puedo y no sé cómo, <break time=\"1s\" /> pero voy a intentarlo. Las dos frases contienen incertidumbre. Pero la segunda deja espacio para el movimiento. <break time=\"2s\" /> Ahora, piensa en algo que te preocupa estos días. Algo que todavía no has resuelto. No necesitas encontrar la solución ahora mismo. Solo pregúntate: ¿qué pequeño paso podría dar, <break time=\"1s\" /> no para resolverlo todo, sino para acercarme un poco?",
     "silencio_despues": 12,
     "archivo": "02-confianza_b06.mp3",
-    "caracteres": 418,
-    "breaks": 1
+    "caracteres": 458,
+    "breaks": 3
    },
    {
     "texto": "La confianza se construye con pasos así, pequeños, concretos, imperfectos. No con grandes declaraciones. Cada vez que das un paso sin tener toda la información, estás practicando confianza. Cada vez que pides ayuda, también.",
@@ -116,11 +116,11 @@
     "breaks": 0
    },
    {
-    "texto": "Lentamente, trae tu atención de vuelta a este momento. Nota el peso de tu cuerpo, la textura de lo que tocas, el sonido más cercano a ti. <break time=\"2s\" /> No necesitas salir de aquí sintiéndote invencible. Solo necesitas recordar que ya has respondido antes, y que esa capacidad no se ha ido a ninguna parte. <break time=\"2s\" /> Cuando estés preparada o preparado, regresa suavemente al ritmo de tu día. Gracias por estos minutos.",
+    "texto": "Lentamente, trae tu atención de vuelta a este momento. Nota el peso de tu cuerpo, la textura de lo que tocas, <break time=\"1s\" /> el sonido más cercano a ti. <break time=\"2s\" /> No necesitas salir de aquí sintiéndote invencible. Solo necesitas recordar que ya has respondido antes, <break time=\"1s\" /> y que esa capacidad no se ha ido a ninguna parte. <break time=\"2s\" /> Cuando estés preparada o preparado, regresa suavemente al ritmo de tu día. Gracias por estos minutos.",
     "silencio_despues": 0,
     "archivo": "02-confianza_b08.mp3",
-    "caracteres": 433,
-    "breaks": 2
+    "caracteres": 473,
+    "breaks": 4
    }
   ]
  },
@@ -140,46 +140,46 @@
     "breaks": 1
    },
    {
-    "texto": "Hoy vamos a reflexionar sobre la disciplina. Pero no la disciplina del castigo, de la rigidez o de la fuerza bruta. Hablamos de otra cosa: del cuidado silencioso que hay en hacer algo pequeño, una y otra vez, con amabilidad hacia ti misma o ti mismo. <break time=\"2s\" /> Piensa en algo que haces todos los días sin pensarlo demasiado. Lavarte los dientes. Preparar el café. Saludar a alguien al llegar. Son gestos tan pequeños que casi no los notas, y sin embargo, los haces con una constancia admirable. <break time=\"2s\" /> Nadie te da un premio por lavarte los dientes. Pero lo haces. Ahí hay disciplina, la más básica, la más genuina: hacer lo que necesita hacerse, sin que dependa del aplauso.",
+    "texto": "Hoy vamos a reflexionar sobre la disciplina. Pero no la disciplina del castigo, de la rigidez o de la fuerza bruta. Hablamos de otra cosa: del cuidado silencioso que hay en hacer algo pequeño, <break time=\"1s\" /> una y otra vez, con amabilidad hacia ti misma o ti mismo. <break time=\"2s\" /> Piensa en algo que haces todos los días sin pensarlo demasiado. Lavarte los dientes. Preparar el café. Saludar a alguien al llegar. Son gestos tan pequeños que casi no los notas, <break time=\"1s\" /> y sin embargo, los haces con una constancia admirable. <break time=\"2s\" /> Nadie te da un premio por lavarte los dientes. Pero lo haces. Ahí hay disciplina, la más básica, <break time=\"1s\" /> la más genuina: hacer lo que necesita hacerse, sin que dependa del aplauso.",
     "silencio_despues": 6,
     "archivo": "03-disciplina_b02.mp3",
-    "caracteres": 697,
-    "breaks": 2
+    "caracteres": 757,
+    "breaks": 5
    },
    {
-    "texto": "El problema con la palabra disciplina es que muchas veces la hemos asociado con vergüenza. Con esa voz interior que dice deberías haber hecho más, no tienes fuerza de voluntad, otra vez has fallado. Esa voz no es disciplina. Esa voz es miedo disfrazado de exigencia. <break time=\"2s\" /> La disciplina real se parece más al jardinero que riega una planta cada mañana. No la riega con rabia si ayer se le olvidó. No le grita a la planta para que crezca más rápido. Simplemente retoma la acción hoy, sin drama, sin juicio.",
+    "texto": "El problema con la palabra disciplina es que muchas veces la hemos asociado con vergüenza. Con esa voz interior que dice deberías haber hecho más, <break time=\"1s\" /> no tienes fuerza de voluntad, otra vez has fallado. Esa voz no es disciplina. Esa voz es miedo disfrazado de exigencia. <break time=\"2s\" /> La disciplina real se parece más al jardinero que riega una planta cada mañana. No la riega con rabia si ayer se le olvidó. No le grita a la planta para que crezca más rápido. Simplemente retoma la acción hoy, sin drama, sin juicio.",
     "silencio_despues": 6,
     "archivo": "03-disciplina_b03.mp3",
-    "caracteres": 519,
-    "breaks": 1
+    "caracteres": 539,
+    "breaks": 2
    },
    {
-    "texto": "¿Hay algo en tu vida que te gustaría hacer con más constancia? Algo pequeño, no una transformación radical, sino un hábito sencillo que te importa. Puede ser leer unas páginas, caminar un rato, revisar tus cuentas con calma, dedicar unos minutos a algo que te da paz.",
+    "texto": "¿Hay algo en tu vida que te gustaría hacer con más constancia? Algo pequeño, no una transformación radical, sino un hábito sencillo que te importa. Puede ser leer unas páginas, caminar un rato, <break time=\"1s\" /> revisar tus cuentas con calma, dedicar unos minutos a algo que te da paz.",
     "silencio_despues": 12,
     "archivo": "03-disciplina_b04.mp3",
-    "caracteres": 267,
-    "breaks": 0
+    "caracteres": 287,
+    "breaks": 1
    },
    {
-    "texto": "Ahora imagina que mañana lo haces. Solo mañana. No necesitas comprometerte con el resto del año, ni con una racha perfecta. Solo un día. Y si pasado mañana no lo haces, no pasa nada. Puedes volver al día siguiente. <break time=\"2s\" /> La constancia no es una línea recta. Es más bien como un río que a veces se desvía, a veces se estrecha, pero sigue encontrando su camino. Cada vez que retomas algo después de haberlo dejado, estás siendo disciplinado. Retomar también cuenta.",
+    "texto": "Ahora imagina que mañana lo haces. Solo mañana. No necesitas comprometerte con el resto del año, ni con una racha perfecta. Solo un día. Y si pasado mañana no lo haces, no pasa nada. Puedes volver al día siguiente. <break time=\"2s\" /> La constancia no es una línea recta. Es más bien como un río que a veces se desvía, <break time=\"1s\" /> a veces se estrecha, pero sigue encontrando su camino. Cada vez que retomas algo después de haberlo dejado, estás siendo disciplinado. Retomar también cuenta.",
     "silencio_despues": 6,
     "archivo": "03-disciplina_b05.mp3",
-    "caracteres": 477,
-    "breaks": 1
+    "caracteres": 497,
+    "breaks": 2
    },
    {
-    "texto": "Hay compasión en la disciplina bien entendida. Es decirte: Esto me importa lo suficiente como para intentarlo otra vez, sin castigarme por las veces que no pude. <break time=\"2s\" /> No necesitas ser la versión más productiva de ti. Necesitas ser una versión que se trate con respeto.",
+    "texto": "Hay compasión en la disciplina bien entendida. Es decirte: Esto me importa lo suficiente como para intentarlo otra vez, <break time=\"1s\" /> sin castigarme por las veces que no pude. <break time=\"2s\" /> No necesitas ser la versión más productiva de ti. Necesitas ser una versión que se trate con respeto.",
     "silencio_despues": 6,
     "archivo": "03-disciplina_b06.mp3",
-    "caracteres": 283,
-    "breaks": 1
+    "caracteres": 303,
+    "breaks": 2
    },
    {
-    "texto": "Despacio, empieza a notar de nuevo el espacio a tu alrededor. Los sonidos, la luz, la superficie donde estás. <break time=\"2s\" /> Llévate, si quieres, una sola intención: algo pequeño que puedas hacer hoy, sin presión, sin culpa, simplemente porque te importa. <break time=\"2s\" /> Gracias por tu presencia aquí. Nos vemos la próxima vez.",
+    "texto": "Despacio, empieza a notar de nuevo el espacio a tu alrededor. Los sonidos, la luz, la superficie donde estás. <break time=\"2s\" /> Llévate, si quieres, una sola intención: algo pequeño que puedas hacer hoy, <break time=\"1s\" /> sin presión, sin culpa, simplemente porque te importa. <break time=\"2s\" /> Gracias por tu presencia aquí. Nos vemos la próxima vez.",
     "silencio_despues": 0,
     "archivo": "03-disciplina_b07.mp3",
-    "caracteres": 337,
-    "breaks": 2
+    "caracteres": 357,
+    "breaks": 3
    }
   ]
  },
@@ -192,25 +192,25 @@
   "promesa": "Soltar la urgencia y habitar el ritmo propio.",
   "bloques": [
    {
-    "texto": "Bienvenida o bienvenido a este espacio. Llegas con todo lo que traes hoy: tu energía, tu cansancio, tus pensamientos, tus pendientes. Todo eso puede estar aquí contigo. No necesitas dejarlo en la puerta. <break time=\"2s\" /> Encuentra tu comodidad. Si puedes sentarte, si prefieres recostarte, si estás en algún rincón robándole unos minutos al día, todo vale. Permite que tu cuerpo se relaje lo que pueda, sin forzar. <break time=\"2s\" /> Nota tu respiración. No la cambies. Solo obsérvala, como quien mira pasar nubes.",
+    "texto": "Bienvenida o bienvenido a este espacio. Llegas con todo lo que traes hoy: tu energía, tu cansancio, tus pensamientos, tus pendientes. Todo eso puede estar aquí contigo. No necesitas dejarlo en la puerta. <break time=\"2s\" /> Encuentra tu comodidad. Si puedes sentarte, si prefieres recostarte, <break time=\"1s\" /> si estás en algún rincón robándole unos minutos al día, todo vale. Permite que tu cuerpo se relaje lo que pueda, sin forzar. <break time=\"2s\" /> Nota tu respiración. No la cambies. Solo obsérvala, como quien mira pasar nubes.",
     "silencio_despues": 6,
     "archivo": "04-paciencia_b01.mp3",
-    "caracteres": 518,
-    "breaks": 2
+    "caracteres": 538,
+    "breaks": 3
    },
    {
-    "texto": "Hoy reflexionamos sobre la paciencia. No la paciencia resignada de no me queda más remedio que esperar, sino algo más activo: la decisión consciente de no acelerar lo que necesita su tiempo. <break time=\"2s\" /> Vivimos rodeados de velocidad. Respuestas inmediatas, resultados visibles, métricas en tiempo real. Y cuando algo importante no avanza al ritmo que quisiéramos, sentimos que algo está mal. Que estamos haciendo algo mal. <break time=\"2s\" /> Pero hay cosas que simplemente no se aceleran. Aprender un idioma. Construir una relación de confianza. Recuperarse de algo difícil. Que una semilla se convierta en árbol.",
+    "texto": "Hoy reflexionamos sobre la paciencia. No la paciencia resignada de no me queda más remedio que esperar, <break time=\"1s\" /> sino algo más activo: la decisión consciente de no acelerar lo que necesita su tiempo. <break time=\"2s\" /> Vivimos rodeados de velocidad. Respuestas inmediatas, resultados visibles, métricas en tiempo real. Y cuando algo importante no avanza al ritmo que quisiéramos, sentimos que algo está mal. Que estamos haciendo algo mal. <break time=\"2s\" /> Pero hay cosas que simplemente no se aceleran. Aprender un idioma. Construir una relación de confianza. Recuperarse de algo difícil. Que una semilla se convierta en árbol.",
     "silencio_despues": 6,
     "archivo": "04-paciencia_b02.mp3",
-    "caracteres": 622,
-    "breaks": 2
+    "caracteres": 642,
+    "breaks": 3
    },
    {
-    "texto": "Imagina que plantas una semilla en una maceta. Sabes que es una buena semilla, que la tierra es adecuada, que has puesto agua suficiente. ¿Qué haces ahora? La observas. Tal vez riegas mañana otra vez. Pero no la desentierras para comprobar si ha crecido. No la riegas tres veces seguidas para que vaya más rápido. <break time=\"2s\" /> Hay una inteligencia en saber esperar después de haber hecho lo que te correspondía.",
+    "texto": "Imagina que plantas una semilla en una maceta. Sabes que es una buena semilla, que la tierra es adecuada, <break time=\"1s\" /> que has puesto agua suficiente. ¿Qué haces ahora? La observas. Tal vez riegas mañana otra vez. Pero no la desentierras para comprobar si ha crecido. No la riegas tres veces seguidas para que vaya más rápido. <break time=\"2s\" /> Hay una inteligencia en saber esperar después de haber hecho lo que te correspondía.",
     "silencio_despues": 6,
     "archivo": "04-paciencia_b03.mp3",
-    "caracteres": 418,
-    "breaks": 1
+    "caracteres": 438,
+    "breaks": 2
    },
    {
     "texto": "Piensa en algo que estás esperando ahora mismo. Un resultado, un cambio, una respuesta. Algo que ya has trabajado pero que todavía no llega.",
@@ -227,11 +227,11 @@
     "breaks": 0
    },
    {
-    "texto": "La paciencia no es pasividad. Es la habilidad de seguir caminando sin necesitar ver la cima a cada paso. Confiar en que el camino, aunque no lo veas entero, sigue existiendo más allá de la curva. <break time=\"2s\" /> Y también es la habilidad de descansar en el camino sin culpa. De decir: Hoy no avanzo, y eso también forma parte del proceso.",
+    "texto": "La paciencia no es pasividad. Es la habilidad de seguir caminando sin necesitar ver la cima a cada paso. Confiar en que el camino, aunque no lo veas entero, <break time=\"1s\" /> sigue existiendo más allá de la curva. <break time=\"2s\" /> Y también es la habilidad de descansar en el camino sin culpa. De decir: Hoy no avanzo, y eso también forma parte del proceso.",
     "silencio_despues": 6,
     "archivo": "04-paciencia_b06.mp3",
-    "caracteres": 342,
-    "breaks": 1
+    "caracteres": 362,
+    "breaks": 2
    },
    {
     "texto": "Hay algo profundamente valiente en la paciencia. Porque implica tolerar la incertidumbre, y la incertidumbre es incómoda. Pero es en ese espacio de no saber exactamente cuándo ni cómo donde la vida suele ofrecer sus respuestas más honestas. <break time=\"2s\" /> No necesitas sentirte paciente ahora mismo. Solo necesitas dejar abierta la posibilidad de que el ritmo adecuado no siempre es el más rápido.",
@@ -265,39 +265,39 @@
     "breaks": 1
    },
    {
-    "texto": "Hoy vamos a conversar sobre el éxito. Y lo primero que quiero decir es que no voy a definirlo por ti. Esa es precisamente la reflexión: ¿qué significa éxito para ti, realmente, cuando no te lo está definiendo nadie más? <break time=\"2s\" /> Porque el éxito que nos venden suele tener una forma muy concreta: un número en una cuenta, un cargo, un logro visible, una imagen que otros reconocen. Y no hay nada malo en querer algunas de esas cosas. Pero cuando la única definición de éxito que tenemos es externa, cualquier logro se siente insuficiente.",
+    "texto": "Hoy vamos a conversar sobre el éxito. Y lo primero que quiero decir es que no voy a definirlo por ti. Esa es precisamente la reflexión: ¿qué significa éxito para ti, <break time=\"1s\" /> realmente, cuando no te lo está definiendo nadie más? <break time=\"2s\" /> Porque el éxito que nos venden suele tener una forma muy concreta: un número en una cuenta, <break time=\"1s\" /> un cargo, un logro visible, una imagen que otros reconocen. Y no hay nada malo en querer algunas de esas cosas. Pero cuando la única definición de éxito que tenemos es externa, <break time=\"1s\" /> cualquier logro se siente insuficiente.",
     "silencio_despues": 6,
     "archivo": "05-exito_b02.mp3",
-    "caracteres": 548,
-    "breaks": 1
+    "caracteres": 608,
+    "breaks": 4
    },
    {
-    "texto": "Piensa en algo que hayas logrado y que, visto desde fuera, quizá no parecía gran cosa. Pero tú sabías lo que costó. Sabías los obstáculos que hubo, las veces que estuviste a punto de dejarlo, la decisión callada de seguir. ¿Eso fue éxito? Tal vez sí, aunque no apareciera en ningún titular.",
+    "texto": "Piensa en algo que hayas logrado y que, <break time=\"1s\" /> visto desde fuera, quizá no parecía gran cosa. Pero tú sabías lo que costó. Sabías los obstáculos que hubo, las veces que estuviste a punto de dejarlo, <break time=\"1s\" /> la decisión callada de seguir. ¿Eso fue éxito? Tal vez sí, aunque no apareciera en ningún titular.",
     "silencio_despues": 12,
     "archivo": "05-exito_b03.mp3",
-    "caracteres": 290,
-    "breaks": 0
+    "caracteres": 330,
+    "breaks": 2
    },
    {
-    "texto": "El éxito, cuando lo miras de cerca, rara vez es un momento. Es más bien un proceso con fallos, pausas y desvíos. Los relatos de éxito que admiramos suelen editar las partes aburridas, los retrocesos, las semanas en las que no pasó nada. Pero esas partes también cuentan. <break time=\"2s\" /> Hay una trampa en la idea de que el éxito es solo el destino. Porque si solo cuenta el final, todo el camino se convierte en todavía no he llegado. Y eso es una forma agotadora de vivir.",
+    "texto": "El éxito, cuando lo miras de cerca, rara vez es un momento. Es más bien un proceso con fallos, pausas y desvíos. Los relatos de éxito que admiramos suelen editar las partes aburridas, <break time=\"1s\" /> los retrocesos, las semanas en las que no pasó nada. Pero esas partes también cuentan. <break time=\"2s\" /> Hay una trampa en la idea de que el éxito es solo el destino. Porque si solo cuenta el final, <break time=\"1s\" /> todo el camino se convierte en todavía no he llegado. Y eso es una forma agotadora de vivir.",
     "silencio_despues": 6,
     "archivo": "05-exito_b04.mp3",
-    "caracteres": 477,
-    "breaks": 1
+    "caracteres": 517,
+    "breaks": 3
    },
    {
-    "texto": "¿Y si el éxito también incluyera saber descansar? ¿Saber decir esto no es para mí y cambiar de rumbo? ¿Saber pedir ayuda cuando la necesitas? ¿Mantener relaciones que te importan mientras persigues lo que quieres? <break time=\"2s\" /> No se trata de bajar el listón. Se trata de que el listón lo pongas tú, consciente de tus valores, tus circunstancias y tu momento actual. El éxito que se define desde la comparación con otros es un pozo sin fondo. El que se define desde la honestidad contigo misma o contigo mismo tiene suelo firme.",
+    "texto": "¿Y si el éxito también incluyera saber descansar? ¿Saber decir esto no es para mí y cambiar de rumbo? ¿Saber pedir ayuda cuando la necesitas? ¿Mantener relaciones que te importan mientras persigues lo que quieres? <break time=\"2s\" /> No se trata de bajar el listón. Se trata de que el listón lo pongas tú, consciente de tus valores, <break time=\"1s\" /> tus circunstancias y tu momento actual. El éxito que se define desde la comparación con otros es un pozo sin fondo. El que se define desde la honestidad contigo misma o contigo mismo tiene suelo firme.",
     "silencio_despues": 6,
     "archivo": "05-exito_b05.mp3",
-    "caracteres": 534,
-    "breaks": 1
+    "caracteres": 554,
+    "breaks": 2
    },
    {
-    "texto": "Los reveses no son lo opuesto del éxito. Son parte de él. Cada persona que admiras ha tenido fracasos que probablemente no conoces. Lo que las distingue no es que no cayeron, sino que encontraron una razón para levantarse, a su manera, a su ritmo, con sus recursos. <break time=\"2s\" /> Hoy no necesitas resolver nada. Solo te invito a preguntarte, con curiosidad genuina: si nadie estuviera mirando, ¿qué significaría para ti vivir una vida que consideres exitosa?",
+    "texto": "Los reveses no son lo opuesto del éxito. Son parte de él. Cada persona que admiras ha tenido fracasos que probablemente no conoces. Lo que las distingue no es que no cayeron, sino que encontraron una razón para levantarse, <break time=\"1s\" /> a su manera, a su ritmo, con sus recursos. <break time=\"2s\" /> Hoy no necesitas resolver nada. Solo te invito a preguntarte, con curiosidad genuina: si nadie estuviera mirando, <break time=\"1s\" /> ¿qué significaría para ti vivir una vida que consideres exitosa?",
     "silencio_despues": 12,
     "archivo": "05-exito_b06.mp3",
-    "caracteres": 464,
-    "breaks": 1
+    "caracteres": 504,
+    "breaks": 3
    },
    {
     "texto": "Poco a poco, deja que esa pregunta se quede contigo sin necesidad de responderla ahora. Vuelve al espacio donde estás, a los sonidos del momento, al contacto con tu cuerpo. <break time=\"2s\" /> Llévate la pregunta como compañera de los próximos días. No necesita una respuesta definitiva, puede ir cambiando, y eso está bien. Gracias por escuchar.",
@@ -317,32 +317,32 @@
   "promesa": "Detenerse lo suficiente para notar lo que ya está.",
   "bloques": [
    {
-    "texto": "Bienvenida o bienvenido a estos minutos. No te pido que traigas una actitud especial. No necesitas sentirte agradecido antes de empezar, eso sería como pedir que ya tengas lo que viniste a buscar. Solo necesitas estar aquí, tal como llegas. <break time=\"2s\" /> Acomódate. Si estás tensa o tenso, no intentes relajarte a la fuerza; simplemente nota dónde hay tensión y déjala estar. A veces, solo con notarla, se suaviza sola. <break time=\"2s\" /> Respira como tu cuerpo quiera respirar ahora mismo.",
+    "texto": "Bienvenida o bienvenido a estos minutos. No te pido que traigas una actitud especial. No necesitas sentirte agradecido antes de empezar, <break time=\"1s\" /> eso sería como pedir que ya tengas lo que viniste a buscar. Solo necesitas estar aquí, tal como llegas. <break time=\"2s\" /> Acomódate. Si estás tensa o tenso, no intentes relajarte a la fuerza; simplemente nota dónde hay tensión y déjala estar. A veces, solo con notarla, se suaviza sola. <break time=\"2s\" /> Respira como tu cuerpo quiera respirar ahora mismo.",
     "silencio_despues": 6,
     "archivo": "06-gratitud_b01.mp3",
-    "caracteres": 497,
-    "breaks": 2
+    "caracteres": 517,
+    "breaks": 3
    },
    {
-    "texto": "La gratitud tiene un problema de imagen. Se ha convertido en una obligación, en una lista que hay que rellenar cada mañana, en una fórmula para la felicidad que, si no funciona, te hace sentir que encima eres desagradecido. Vamos a dejar eso a un lado. <break time=\"2s\" /> La gratitud de la que hablamos aquí no es un ejercicio forzado. Es más bien un momento en el que logras ver algo que estaba ahí y que, por la velocidad del día, no habías notado.",
+    "texto": "La gratitud tiene un problema de imagen. Se ha convertido en una obligación, en una lista que hay que rellenar cada mañana, <break time=\"1s\" /> en una fórmula para la felicidad que, si no funciona, te hace sentir que encima eres desagradecido. Vamos a dejar eso a un lado. <break time=\"2s\" /> La gratitud de la que hablamos aquí no es un ejercicio forzado. Es más bien un momento en el que logras ver algo que estaba ahí y que, <break time=\"1s\" /> por la velocidad del día, no habías notado.",
     "silencio_despues": 6,
     "archivo": "06-gratitud_b02.mp3",
-    "caracteres": 451,
-    "breaks": 1
+    "caracteres": 491,
+    "breaks": 3
    },
    {
-    "texto": "Piensa en tu cuerpo. No en lo que te gustaría cambiar de él, sino en algo que hoy ha funcionado. Tus manos, que te permiten sostener cosas. Tus oídos, que ahora mismo están escuchando esto. Tu capacidad de estar sentado, de pie, recostado, el simple hecho de que tu cuerpo te ha traído hasta este momento. <break time=\"2s\" /> No necesitas sentir un arrebato de emoción. Solo notarlo. Eso ya es suficiente.",
+    "texto": "Piensa en tu cuerpo. No en lo que te gustaría cambiar de él, <break time=\"1s\" /> sino en algo que hoy ha funcionado. Tus manos, que te permiten sostener cosas. Tus oídos, que ahora mismo están escuchando esto. Tu capacidad de estar sentado, de pie, recostado, <break time=\"1s\" /> el simple hecho de que tu cuerpo te ha traído hasta este momento. <break time=\"2s\" /> No necesitas sentir un arrebato de emoción. Solo notarlo. Eso ya es suficiente.",
     "silencio_despues": 6,
     "archivo": "06-gratitud_b03.mp3",
-    "caracteres": 405,
-    "breaks": 1
+    "caracteres": 445,
+    "breaks": 3
    },
    {
-    "texto": "Ahora piensa en una persona. Alguien que, de alguna manera, ha hecho tu vida un poco más llevadera. No tiene que ser una relación perfecta. Quizá es alguien que te dijo algo que necesitabas oír, o que simplemente estuvo ahí en un momento difícil, o que te hizo reír cuando no lo esperabas.",
+    "texto": "Ahora piensa en una persona. Alguien que, de alguna manera, ha hecho tu vida un poco más llevadera. No tiene que ser una relación perfecta. Quizá es alguien que te dijo algo que necesitabas oír, <break time=\"1s\" /> o que simplemente estuvo ahí en un momento difícil, o que te hizo reír cuando no lo esperabas.",
     "silencio_despues": 12,
     "archivo": "06-gratitud_b04.mp3",
-    "caracteres": 289,
-    "breaks": 0
+    "caracteres": 309,
+    "breaks": 1
    },
    {
     "texto": "La gratitud también puede ser silenciosa. No siempre necesitas decirla en voz alta. A veces basta con detenerte un momento y reconocer internamente: Esto importa. Esta persona importa. Este momento importa.",
@@ -359,18 +359,18 @@
     "breaks": 1
    },
    {
-    "texto": "Antes de terminar, te invito a un gesto simple: elige una sola cosa de hoy, algo pequeño, concreto, real, por la que sientas un destello de aprecio. No necesitas justificarla. Solo sostenla un momento en tu atención, como quien sostiene algo frágil y bonito.",
+    "texto": "Antes de terminar, te invito a un gesto simple: elige una sola cosa de hoy, <break time=\"1s\" /> algo pequeño, concreto, real, por la que sientas un destello de aprecio. No necesitas justificarla. Solo sostenla un momento en tu atención, como quien sostiene algo frágil y bonito.",
     "silencio_despues": 12,
     "archivo": "06-gratitud_b07.mp3",
-    "caracteres": 258,
-    "breaks": 0
+    "caracteres": 278,
+    "breaks": 1
    },
    {
-    "texto": "Con calma, vuelve al presente. Nota la temperatura del aire, los colores que te rodean si tienes los ojos abiertos, el peso de tu cuerpo en el espacio. <break time=\"2s\" /> Gracias por estos minutos. Lo que has notado hoy no desaparece: queda contigo como una posibilidad a la que puedes volver.",
+    "texto": "Con calma, vuelve al presente. Nota la temperatura del aire, los colores que te rodean si tienes los ojos abiertos, <break time=\"1s\" /> el peso de tu cuerpo en el espacio. <break time=\"2s\" /> Gracias por estos minutos. Lo que has notado hoy no desaparece: queda contigo como una posibilidad a la que puedes volver.",
     "silencio_despues": 0,
     "archivo": "06-gratitud_b08.mp3",
-    "caracteres": 294,
-    "breaks": 1
+    "caracteres": 314,
+    "breaks": 2
    }
   ]
  },
@@ -383,11 +383,11 @@
   "promesa": "Cultivar la calma y la curiosidad ante las decisiones financieras.",
   "bloques": [
    {
-    "texto": "Bienvenida o bienvenido. Acomódate en un lugar tranquilo. Puedes cerrar los ojos o mantenerlos suaves. Respira a tu ritmo. <break time=\"2s\" /> Hoy vamos a hablar de algo que a veces genera ansiedad, confusión o incluso rechazo: las decisiones financieras. Pero lo haremos desde un lugar diferente. No vas a recibir aquí una recomendación de inversión, ni una estrategia, ni un consejo sobre qué hacer con tu dinero. Para eso existen profesionales cualificados, y consultar con ellos es siempre una decisión inteligente. <break time=\"2s\" /> Lo que haremos es reflexionar sobre la relación que tienes con esas decisiones. Sobre los pensamientos y las emociones que aparecen cuando piensas en invertir, ahorrar o gestionar tus recursos.",
+    "texto": "Bienvenida o bienvenido. Acomódate en un lugar tranquilo. Puedes cerrar los ojos o mantenerlos suaves. Respira a tu ritmo. <break time=\"2s\" /> Hoy vamos a hablar de algo que a veces genera ansiedad, <break time=\"1s\" /> confusión o incluso rechazo: las decisiones financieras. Pero lo haremos desde un lugar diferente. No vas a recibir aquí una recomendación de inversión, <break time=\"1s\" /> ni una estrategia, ni un consejo sobre qué hacer con tu dinero. Para eso existen profesionales cualificados, y consultar con ellos es siempre una decisión inteligente. <break time=\"2s\" /> Lo que haremos es reflexionar sobre la relación que tienes con esas decisiones. Sobre los pensamientos y las emociones que aparecen cuando piensas en invertir, <break time=\"1s\" /> ahorrar o gestionar tus recursos.",
     "silencio_despues": 6,
     "archivo": "07-inversion-inteligente_b01.mp3",
-    "caracteres": 733,
-    "breaks": 2
+    "caracteres": 793,
+    "breaks": 5
    },
    {
     "texto": "¿Qué sientes cuando piensas en el dinero? Tómate un momento para notarlo sin juzgarlo. Quizá hay preocupación. Quizá curiosidad. Quizá confusión. Quizá una mezcla de todo. Cualquier respuesta es válida.",
@@ -397,32 +397,32 @@
     "breaks": 0
    },
    {
-    "texto": "Muchas de nuestras emociones alrededor del dinero vienen de muy lejos: de lo que vimos en casa, de experiencias pasadas, de mensajes culturales. A veces tomamos decisiones financieras desde el miedo, o desde la urgencia de resolver algo rápido, o desde la fantasía de un resultado garantizado. Y a veces, simplemente evitamos tomar decisiones porque el tema nos abruma. <break time=\"2s\" /> La primera inversión inteligente no es financiera: es invertir atención. Dedicar tiempo a entender, con calma y sin presión, los conceptos básicos que te permitan hacer preguntas mejores.",
+    "texto": "Muchas de nuestras emociones alrededor del dinero vienen de muy lejos: de lo que vimos en casa, <break time=\"1s\" /> de experiencias pasadas, de mensajes culturales. A veces tomamos decisiones financieras desde el miedo, <break time=\"1s\" /> o desde la urgencia de resolver algo rápido, o desde la fantasía de un resultado garantizado. Y a veces, simplemente evitamos tomar decisiones porque el tema nos abruma. <break time=\"2s\" /> La primera inversión inteligente no es financiera: es invertir atención. Dedicar tiempo a entender, con calma y sin presión, <break time=\"1s\" /> los conceptos básicos que te permitan hacer preguntas mejores.",
     "silencio_despues": 6,
     "archivo": "07-inversion-inteligente_b03.mp3",
-    "caracteres": 577,
-    "breaks": 1
+    "caracteres": 637,
+    "breaks": 4
    },
    {
-    "texto": "Hay algunos principios que los profesionales financieros suelen compartir y que merecen una reflexión tranquila. El primero: la diversificación, que es simplemente la idea de no depender de una sola fuente o un solo instrumento. Como no poner todas las manzanas en una sola cesta. <break time=\"2s\" /> El segundo: la paciencia. Las decisiones financieras bien pensadas suelen necesitar tiempo para dar frutos. La urgencia y las promesas de rendimientos rápidos merecen, como mínimo, una pausa de reflexión. <break time=\"2s\" /> El tercero: la incertidumbre. Toda decisión financiera conlleva un grado de riesgo. Nadie puede garantizar resultados, y quien lo prometa merece tu escepticismo, no tu confianza.",
+    "texto": "Hay algunos principios que los profesionales financieros suelen compartir y que merecen una reflexión tranquila. El primero: la diversificación, <break time=\"1s\" /> que es simplemente la idea de no depender de una sola fuente o un solo instrumento. Como no poner todas las manzanas en una sola cesta. <break time=\"2s\" /> El segundo: la paciencia. Las decisiones financieras bien pensadas suelen necesitar tiempo para dar frutos. La urgencia y las promesas de rendimientos rápidos merecen, como mínimo, una pausa de reflexión. <break time=\"2s\" /> El tercero: la incertidumbre. Toda decisión financiera conlleva un grado de riesgo. Nadie puede garantizar resultados, y quien lo prometa merece tu escepticismo, no tu confianza.",
     "silencio_despues": 6,
     "archivo": "07-inversion-inteligente_b04.mp3",
-    "caracteres": 704,
-    "breaks": 2
+    "caracteres": 724,
+    "breaks": 3
    },
    {
-    "texto": "No necesitas saberlo todo para empezar a cuidar tu relación con el dinero. Necesitas curiosidad, humildad para reconocer lo que no sabes, y la disposición a buscar orientación profesional cuando la necesites. Eso ya te sitúa en un lugar mucho más inteligente que la mayoría de las decisiones impulsivas. <break time=\"2s\" /> Piensa en un pequeño paso que podrías dar esta semana. No una gran decisión, sino algo modesto: leer un artículo, anotar tus gastos de un día, o simplemente sentarte unos minutos a pensar en qué significa para ti la seguridad financiera.",
+    "texto": "No necesitas saberlo todo para empezar a cuidar tu relación con el dinero. Necesitas curiosidad, humildad para reconocer lo que no sabes, <break time=\"1s\" /> y la disposición a buscar orientación profesional cuando la necesites. Eso ya te sitúa en un lugar mucho más inteligente que la mayoría de las decisiones impulsivas. <break time=\"2s\" /> Piensa en un pequeño paso que podrías dar esta semana. No una gran decisión, sino algo modesto: leer un artículo, anotar tus gastos de un día, <break time=\"1s\" /> o simplemente sentarte unos minutos a pensar en qué significa para ti la seguridad financiera.",
     "silencio_despues": 12,
     "archivo": "07-inversion-inteligente_b05.mp3",
-    "caracteres": 561,
-    "breaks": 1
+    "caracteres": 601,
+    "breaks": 3
    },
    {
-    "texto": "Recuerda: la meditación no sustituye el asesoramiento profesional. Lo que puede hacer es ayudarte a llegar a esas conversaciones con más claridad, menos miedo y mejores preguntas. Ese es su papel, nada más y nada menos.",
+    "texto": "Recuerda: la meditación no sustituye el asesoramiento profesional. Lo que puede hacer es ayudarte a llegar a esas conversaciones con más claridad, <break time=\"1s\" /> menos miedo y mejores preguntas. Ese es su papel, nada más y nada menos.",
     "silencio_despues": 6,
     "archivo": "07-inversion-inteligente_b06.mp3",
-    "caracteres": 219,
-    "breaks": 0
+    "caracteres": 239,
+    "breaks": 1
    },
    {
     "texto": "Poco a poco, vuelve al presente. Nota tu cuerpo, el espacio, los sonidos. <break time=\"2s\" /> Llévate de aquí la idea de que cuidar tus finanzas empieza por cuidar la calma desde la que tomas tus decisiones. Gracias por estar aquí.",
@@ -442,46 +442,46 @@
   "promesa": "Observar lo que sientes sin necesidad de arreglarlo de inmediato.",
   "bloques": [
    {
-    "texto": "Hola. Bienvenida o bienvenido a este espacio. Hoy vamos a hacer algo muy sencillo y, al mismo tiempo, nada fácil: prestar atención a lo que sientes. No para cambiarlo, no para diagnosticarlo, no para juzgarlo. Solo para verlo con un poco más de claridad. <break time=\"2s\" /> Busca una postura cómoda. Si tu cuerpo necesita moverse, permítelo. Si necesita quietud, también. Respira como quieras respirar.",
+    "texto": "Hola. Bienvenida o bienvenido a este espacio. Hoy vamos a hacer algo muy sencillo y, al mismo tiempo, <break time=\"1s\" /> nada fácil: prestar atención a lo que sientes. No para cambiarlo, no para diagnosticarlo, no para juzgarlo. Solo para verlo con un poco más de claridad. <break time=\"2s\" /> Busca una postura cómoda. Si tu cuerpo necesita moverse, permítelo. Si necesita quietud, también. Respira como quieras respirar.",
     "silencio_despues": 6,
     "archivo": "08-gestion-emocional_b01.mp3",
-    "caracteres": 403,
-    "breaks": 1
+    "caracteres": 423,
+    "breaks": 2
    },
    {
-    "texto": "Las emociones son información. A veces son información clara y precisa; otras veces son confusas, contradictorias, desproporcionadas respecto a lo que las causó. Pero siempre están diciendo algo. Nuestro trabajo no es silenciarlas ni obedecerlas ciegamente, sino aprender a escucharlas con algo de distancia. <break time=\"2s\" /> Imagina que tus emociones fueran el clima. Algunos días sale el sol. Otros días llueve. A veces hay tormenta sin previo aviso. Tú no eres el clima; tú eres el paisaje por el que pasa. El clima cambia. El paisaje permanece.",
+    "texto": "Las emociones son información. A veces son información clara y precisa; otras veces son confusas, <break time=\"1s\" /> contradictorias, desproporcionadas respecto a lo que las causó. Pero siempre están diciendo algo. Nuestro trabajo no es silenciarlas ni obedecerlas ciegamente, <break time=\"1s\" /> sino aprender a escucharlas con algo de distancia. <break time=\"2s\" /> Imagina que tus emociones fueran el clima. Algunos días sale el sol. Otros días llueve. A veces hay tormenta sin previo aviso. Tú no eres el clima; tú eres el paisaje por el que pasa. El clima cambia. El paisaje permanece.",
     "silencio_despues": 6,
     "archivo": "08-gestion-emocional_b02.mp3",
-    "caracteres": 551,
-    "breaks": 1
+    "caracteres": 591,
+    "breaks": 3
    },
    {
-    "texto": "En este momento, ¿qué emoción notas? No busques la palabra perfecta. Solo observa: ¿hay algo pesado, algo ligero, algo que vibra, algo que se contrae? ¿Dónde lo notas en el cuerpo, en el pecho, en la garganta, en el estómago, en los hombros?",
+    "texto": "En este momento, ¿qué emoción notas? No busques la palabra perfecta. Solo observa: ¿hay algo pesado, algo ligero, algo que vibra, algo que se contrae? ¿Dónde lo notas en el cuerpo, en el pecho, <break time=\"1s\" /> en la garganta, en el estómago, en los hombros?",
     "silencio_despues": 12,
     "archivo": "08-gestion-emocional_b03.mp3",
-    "caracteres": 241,
-    "breaks": 0
+    "caracteres": 261,
+    "breaks": 1
    },
    {
-    "texto": "No necesitas nombrar la emoción con precisión. A veces no hay una sola palabra que la describa, y eso está perfectamente bien. Lo importante no es la etiqueta, sino la atención. <break time=\"2s\" /> Hay emociones que nos enseñaron a considerar negativas: la tristeza, la rabia, el miedo, la frustración. Pero en realidad no hay emociones malas. Hay emociones incómodas, sí. Hay emociones que preferirías no sentir. Pero cada una tiene una función: el miedo protege, la tristeza procesa, la rabia señala un límite. El problema no suele ser la emoción en sí, sino lo que hacemos con ella cuando no la entendemos.",
+    "texto": "No necesitas nombrar la emoción con precisión. A veces no hay una sola palabra que la describa, y eso está perfectamente bien. Lo importante no es la etiqueta, sino la atención. <break time=\"2s\" /> Hay emociones que nos enseñaron a considerar negativas: la tristeza, <break time=\"1s\" /> la rabia, el miedo, la frustración. Pero en realidad no hay emociones malas. Hay emociones incómodas, sí. Hay emociones que preferirías no sentir. Pero cada una tiene una función: el miedo protege, <break time=\"1s\" /> la tristeza procesa, la rabia señala un límite. El problema no suele ser la emoción en sí, <break time=\"1s\" /> sino lo que hacemos con ella cuando no la entendemos.",
     "silencio_despues": 6,
     "archivo": "08-gestion-emocional_b04.mp3",
-    "caracteres": 609,
-    "breaks": 1
+    "caracteres": 669,
+    "breaks": 4
    },
    {
-    "texto": "Una herramienta sencilla: cuando notes una emoción intensa, prueba a poner espacio entre el sentir y el actuar. No tienes que reprimir lo que sientes, ni tienes que actuar inmediatamente desde ese sentimiento. Puedes sentirlo, dejarlo estar un momento, y después decidir qué quieres hacer, si es que quieres hacer algo. <break time=\"2s\" /> Ese espacio, entre sentir y actuar, es donde vive la gestión emocional. No es control. No es frialdad. Es la pausa que te permite elegir tu respuesta en lugar de solo reaccionar.",
+    "texto": "Una herramienta sencilla: cuando notes una emoción intensa, <break time=\"1s\" /> prueba a poner espacio entre el sentir y el actuar. No tienes que reprimir lo que sientes, ni tienes que actuar inmediatamente desde ese sentimiento. Puedes sentirlo, dejarlo estar un momento, <break time=\"1s\" /> y después decidir qué quieres hacer, si es que quieres hacer algo. <break time=\"2s\" /> Ese espacio, entre sentir y actuar, es donde vive la gestión emocional. No es control. No es frialdad. Es la pausa que te permite elegir tu respuesta en lugar de solo reaccionar.",
     "silencio_despues": 6,
     "archivo": "08-gestion-emocional_b05.mp3",
-    "caracteres": 518,
-    "breaks": 1
+    "caracteres": 558,
+    "breaks": 3
    },
    {
-    "texto": "Hay días en los que ese espacio es amplio y fácil. Hay días en los que es diminuto y casi inexistente. Ambos son normales. La práctica no es lograr siempre un espacio perfecto; la práctica es recordar que ese espacio existe, incluso cuando es pequeño. <break time=\"2s\" /> Si en algún momento sientes que tus emociones te desbordan con frecuencia, o que interfieren significativamente en tu vida diaria, eso no es un fallo. Es una señal de que podrías beneficiarte del acompañamiento de un profesional de la salud mental. Pedir esa ayuda es un acto de inteligencia emocional, no de debilidad.",
+    "texto": "Hay días en los que ese espacio es amplio y fácil. Hay días en los que es diminuto y casi inexistente. Ambos son normales. La práctica no es lograr siempre un espacio perfecto; la práctica es recordar que ese espacio existe, <break time=\"1s\" /> incluso cuando es pequeño. <break time=\"2s\" /> Si en algún momento sientes que tus emociones te desbordan con frecuencia, <break time=\"1s\" /> o que interfieren significativamente en tu vida diaria, eso no es un fallo. Es una señal de que podrías beneficiarte del acompañamiento de un profesional de la salud mental. Pedir esa ayuda es un acto de inteligencia emocional, no de debilidad.",
     "silencio_despues": 6,
     "archivo": "08-gestion-emocional_b06.mp3",
-    "caracteres": 591,
-    "breaks": 1
+    "caracteres": 631,
+    "breaks": 3
    },
    {
     "texto": "Ahora, suavemente, vuelve a notar el espacio que te rodea. Los sonidos, la luz, la temperatura. Nota tus pies, tus manos, el ritmo de tu respiración. <break time=\"2s\" /> No sales de aquí con las emociones resueltas. Sales con algo más valioso: un poco más de disposición a mirarlas sin huir. Eso ya es mucho. Gracias por tu atención.",
@@ -508,18 +508,18 @@
     "breaks": 0
    },
    {
-    "texto": "Hoy la reflexión gira en torno a la libertad financiera. Y lo primero que quiero hacer es desmontar un poco esa frase, porque se usa mucho y no siempre se explora con honestidad. <break time=\"2s\" /> La libertad financiera no es un número mágico en una cuenta bancaria. No es dejar de trabajar para siempre en una playa. No es algo que se manifiesta con solo desearlo. Es un concepto mucho más personal, más tranquilo y más gradual de lo que suelen contarnos. <break time=\"2s\" /> Para algunas personas, libertad financiera significa no tener que tomar decisiones importantes bajo presión económica. Para otras, significa poder elegir a qué dedicar su tiempo. Para otras, simplemente, significa poder dormir sin que el dinero sea la primera preocupación al despertar. <break time=\"2s\" /> ¿Qué significa para ti? No la versión de las redes sociales. La tuya.",
+    "texto": "Hoy la reflexión gira en torno a la libertad financiera. Y lo primero que quiero hacer es desmontar un poco esa frase, <break time=\"1s\" /> porque se usa mucho y no siempre se explora con honestidad. <break time=\"2s\" /> La libertad financiera no es un número mágico en una cuenta bancaria. No es dejar de trabajar para siempre en una playa. No es algo que se manifiesta con solo desearlo. Es un concepto mucho más personal, <break time=\"1s\" /> más tranquilo y más gradual de lo que suelen contarnos. <break time=\"2s\" /> Para algunas personas, libertad financiera significa no tener que tomar decisiones importantes bajo presión económica. Para otras, significa poder elegir a qué dedicar su tiempo. Para otras, simplemente, significa poder dormir sin que el dinero sea la primera preocupación al despertar. <break time=\"2s\" /> ¿Qué significa para ti? No la versión de las redes sociales. La tuya.",
     "silencio_despues": 12,
     "archivo": "09-libertad-financiera_b02.mp3",
-    "caracteres": 855,
-    "breaks": 3
+    "caracteres": 895,
+    "breaks": 5
    },
    {
-    "texto": "La libertad financiera, en la medida en que es alcanzable, y no es igualmente accesible para todos, porque las circunstancias de partida importan, suele construirse con decisiones pequeñas y sostenidas en el tiempo. No con un golpe de suerte ni con un solo movimiento brillante. <break time=\"2s\" /> Se construye con hábitos: gastar un poco menos de lo que entra, cuando es posible. Entender a dónde va tu dinero. Distinguir entre lo que necesitas y lo que deseas, sin culpa por ninguna de las dos cosas. Aprender poco a poco, con humildad, sobre las herramientas financieras que existen.",
+    "texto": "La libertad financiera, en la medida en que es alcanzable, y no es igualmente accesible para todos, <break time=\"1s\" /> porque las circunstancias de partida importan, suele construirse con decisiones pequeñas y sostenidas en el tiempo. No con un golpe de suerte ni con un solo movimiento brillante. <break time=\"2s\" /> Se construye con hábitos: gastar un poco menos de lo que entra, cuando es posible. Entender a dónde va tu dinero. Distinguir entre lo que necesitas y lo que deseas, <break time=\"1s\" /> sin culpa por ninguna de las dos cosas. Aprender poco a poco, con humildad, sobre las herramientas financieras que existen.",
     "silencio_despues": 6,
     "archivo": "09-libertad-financiera_b03.mp3",
-    "caracteres": 587,
-    "breaks": 1
+    "caracteres": 627,
+    "breaks": 3
    },
    {
     "texto": "Y se construye también con realismo. No todas las personas parten del mismo lugar. Las desigualdades son reales. Las cargas familiares, las condiciones laborales, la salud, el contexto, todo influye. La libertad financiera no es un juicio moral: no eres mejor persona por tenerla ni peor por no tenerla. <break time=\"2s\" /> Lo que sí puedes hacer, desde donde estés, es cuidar tu relación con tus recursos. Eso está disponible para todos. Y cuidar esa relación empieza por mirarla con honestidad, sin vergüenza.",
@@ -529,11 +529,11 @@
     "breaks": 1
    },
    {
-    "texto": "Hay una pregunta que vale la pena hacerse de vez en cuando: ¿mis decisiones financieras reflejan lo que realmente valoro? A veces gastamos en cosas que en realidad no nos importan, por hábito o por presión social. Y a veces dejamos de invertir en lo que sí nos importa por miedo o por inercia. <break time=\"2s\" /> No necesitas responder ahora. Solo dejar que la pregunta circule.",
+    "texto": "Hay una pregunta que vale la pena hacerse de vez en cuando: ¿mis decisiones financieras reflejan lo que realmente valoro? A veces gastamos en cosas que en realidad no nos importan, <break time=\"1s\" /> por hábito o por presión social. Y a veces dejamos de invertir en lo que sí nos importa por miedo o por inercia. <break time=\"2s\" /> No necesitas responder ahora. Solo dejar que la pregunta circule.",
     "silencio_despues": 12,
     "archivo": "09-libertad-financiera_b05.mp3",
-    "caracteres": 379,
-    "breaks": 1
+    "caracteres": 399,
+    "breaks": 2
    },
    {
     "texto": "Recuerda: cualquier decisión financiera importante merece el acompañamiento de un profesional cualificado. Esta reflexión no sustituye ese asesoramiento; lo complementa. Llegar a una conversación financiera con más calma y claridad sobre lo que valoras ya es una ventaja enorme.",
@@ -567,11 +567,11 @@
     "breaks": 0
    },
    {
-    "texto": "Hoy vamos a dedicar un rato a algo que puede sonar simple pero requiere honestidad: pensar en lo que quieres. No lo que deberías querer, no lo que otros esperan de ti, no lo que suena impresionante en una conversación. Lo que tú, en tu fuero más interno, quieres construir o hacia dónde quieres caminar. <break time=\"2s\" /> La visualización de objetivos no es magia. No basta con imaginar algo para que aparezca. Pero hay algo que sí hace: cuando piensas con claridad en lo que quieres, tu mente empieza a identificar oportunidades, recursos y pasos que antes no veías. No porque hayan aparecido de la nada, sino porque ahora sabes qué buscar.",
+    "texto": "Hoy vamos a dedicar un rato a algo que puede sonar simple pero requiere honestidad: pensar en lo que quieres. No lo que deberías querer, no lo que otros esperan de ti, <break time=\"1s\" /> no lo que suena impresionante en una conversación. Lo que tú, en tu fuero más interno, quieres construir o hacia dónde quieres caminar. <break time=\"2s\" /> La visualización de objetivos no es magia. No basta con imaginar algo para que aparezca. Pero hay algo que sí hace: cuando piensas con claridad en lo que quieres, <break time=\"1s\" /> tu mente empieza a identificar oportunidades, recursos y pasos que antes no veías. No porque hayan aparecido de la nada, sino porque ahora sabes qué buscar.",
     "silencio_despues": 6,
     "archivo": "10-visualizacion-de-objetivos_b02.mp3",
-    "caracteres": 643,
-    "breaks": 1
+    "caracteres": 683,
+    "breaks": 3
    },
    {
     "texto": "Empieza por algo concreto. No quiero ser feliz, eso es demasiado amplio. Algo que puedas ver, describir, casi tocar. ¿Cómo sería un día cualquiera en la vida que quieres construir? ¿A qué hora te levantas? ¿En qué trabajas? ¿Quién está contigo? ¿Cómo te sientes en ese día ordinario?",
@@ -588,32 +588,32 @@
     "breaks": 0
    },
    {
-    "texto": "Ahora, con esa imagen en mente, pregúntate: ¿qué es lo más pequeño que podría hacer esta semana para acercarme, aunque sea un milímetro, a ese lugar? No el gran salto. No la transformación radical. Un paso. Uno solo. <break time=\"2s\" /> Puede ser una conversación, una investigación, una llamada, una decisión, un no que necesitas decir, un sí que llevas posponiendo.",
+    "texto": "Ahora, con esa imagen en mente, pregúntate: ¿qué es lo más pequeño que podría hacer esta semana para acercarme, <break time=\"1s\" /> aunque sea un milímetro, a ese lugar? No el gran salto. No la transformación radical. Un paso. Uno solo. <break time=\"2s\" /> Puede ser una conversación, una investigación, una llamada, <break time=\"1s\" /> una decisión, un no que necesitas decir, un sí que llevas posponiendo.",
     "silencio_despues": 12,
     "archivo": "10-visualizacion-de-objetivos_b05.mp3",
-    "caracteres": 367,
-    "breaks": 1
+    "caracteres": 407,
+    "breaks": 3
    },
    {
-    "texto": "Algo importante: los planes se rompen. Los objetivos se modifican. Las circunstancias cambian. Y eso no significa que hayas fracasado. Significa que estás vivo, que estás interactuando con la realidad, que estás aprendiendo. Un objetivo rígido que no admite ajustes no es un buen objetivo: es una trampa. <break time=\"2s\" /> Los mejores objetivos tienen algo de flexibilidad. Se parecen más a una brújula que a un GPS: te dan dirección, pero te permiten elegir el camino según el terreno que encuentres.",
+    "texto": "Algo importante: los planes se rompen. Los objetivos se modifican. Las circunstancias cambian. Y eso no significa que hayas fracasado. Significa que estás vivo, que estás interactuando con la realidad, que estás aprendiendo. Un objetivo rígido que no admite ajustes no es un buen objetivo: es una trampa. <break time=\"2s\" /> Los mejores objetivos tienen algo de flexibilidad. Se parecen más a una brújula que a un GPS: te dan dirección, <break time=\"1s\" /> pero te permiten elegir el camino según el terreno que encuentres.",
     "silencio_despues": 6,
     "archivo": "10-visualizacion-de-objetivos_b06.mp3",
-    "caracteres": 503,
-    "breaks": 1
+    "caracteres": 523,
+    "breaks": 2
    },
    {
-    "texto": "También quiero decir esto: descansar no es alejarse del objetivo. A veces el paso más inteligente hacia donde quieres ir es parar, recuperar energía, revisar el mapa. Hay una cultura que glorifica la acción constante, pero la acción sin pausa suele perder dirección. Date permiso para hacer pausas estratégicas. <break time=\"2s\" /> Y si hoy no tienes claro qué quieres, eso también es un lugar válido desde el que empezar. A veces la claridad no llega antes de caminar, sino mientras caminas. Puedes empezar por lo que no quieres, por lo que te incomoda, y desde ahí ir definiendo, poco a poco, lo que sí.",
+    "texto": "También quiero decir esto: descansar no es alejarse del objetivo. A veces el paso más inteligente hacia donde quieres ir es parar, <break time=\"1s\" /> recuperar energía, revisar el mapa. Hay una cultura que glorifica la acción constante, pero la acción sin pausa suele perder dirección. Date permiso para hacer pausas estratégicas. <break time=\"2s\" /> Y si hoy no tienes claro qué quieres, <break time=\"1s\" /> eso también es un lugar válido desde el que empezar. A veces la claridad no llega antes de caminar, sino mientras caminas. Puedes empezar por lo que no quieres, por lo que te incomoda, <break time=\"1s\" /> y desde ahí ir definiendo, poco a poco, lo que sí.",
     "silencio_despues": 6,
     "archivo": "10-visualizacion-de-objetivos_b07.mp3",
-    "caracteres": 605,
-    "breaks": 1
+    "caracteres": 665,
+    "breaks": 4
    },
    {
-    "texto": "Suavemente, empieza a volver. Nota tu cuerpo, la superficie donde estás, la calidad de la luz, los sonidos. <break time=\"2s\" /> Llévate de aquí lo que te sirva: una imagen, un paso, una pregunta, o simplemente la sensación de que has dedicado unos minutos a pensar en lo que realmente importa. <break time=\"2s\" /> Gracias por escuchar, y por atreverte a imaginar.",
+    "texto": "Suavemente, empieza a volver. Nota tu cuerpo, la superficie donde estás, la calidad de la luz, los sonidos. <break time=\"2s\" /> Llévate de aquí lo que te sirva: una imagen, un paso, una pregunta, <break time=\"1s\" /> o simplemente la sensación de que has dedicado unos minutos a pensar en lo que realmente importa. <break time=\"2s\" /> Gracias por escuchar, y por atreverte a imaginar.",
     "silencio_despues": 0,
     "archivo": "10-visualizacion-de-objetivos_b08.mp3",
-    "caracteres": 363,
-    "breaks": 2
+    "caracteres": 383,
+    "breaks": 3
    }
   ]
  }

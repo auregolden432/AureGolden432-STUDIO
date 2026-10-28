@@ -17,7 +17,7 @@ Aquí estás. Has decidido dedicarte unos minutos, y eso ya dice algo sobre ti. 
 ## Bloque 2 · `02-confianza_b02.mp3`
 
 ```text
-Hoy vamos a hablar de confianza. No de la confianza que se proclama en voz alta, ni del optimismo obligatorio. Hablamos de algo más silencioso: esa sensación interior de que, aunque no sepas exactamente cómo, vas a encontrar la manera de responder a lo que venga. <break time="2s" /> No de controlarlo todo. No de tener certeza. Sino de responder.
+Hoy vamos a hablar de confianza. No de la confianza que se proclama en voz alta, ni del optimismo obligatorio. Hablamos de algo más silencioso: esa sensación interior de que, <break time="1s" /> aunque no sepas exactamente cómo, vas a encontrar la manera de responder a lo que venga. <break time="2s" /> No de controlarlo todo. No de tener certeza. Sino de responder.
 ```
 
 *Silencio después: 6 s*
@@ -25,7 +25,7 @@ Hoy vamos a hablar de confianza. No de la confianza que se proclama en voz alta,
 ## Bloque 3 · `02-confianza_b03.mp3`
 
 ```text
-Piensa en un momento pasado en el que no sabías qué hacer. Un momento en el que el camino no estaba claro, quizá un cambio inesperado, una decisión difícil, una situación que te superaba. Tómate unos segundos para recordar cómo te sentías entonces.
+Piensa en un momento pasado en el que no sabías qué hacer. Un momento en el que el camino no estaba claro, quizá un cambio inesperado, <break time="1s" /> una decisión difícil, una situación que te superaba. Tómate unos segundos para recordar cómo te sentías entonces.
 ```
 
 *Silencio después: 6 s*
@@ -41,7 +41,7 @@ Ahora observa un hecho sencillo: ese momento ya pasó. No porque fuera fácil, s
 ## Bloque 5 · `02-confianza_b05.mp3`
 
 ```text
-La confianza no significa ausencia de duda. Las personas que más confían en sí mismas suelen ser las que mejor conocen sus dudas, las que han aprendido a convivir con ellas sin que las paralicen. <break time="2s" /> Imagina la duda como una compañera de viaje. No necesitas expulsarla ni obedecerla ciegamente. Puedes escuchar lo que tiene que decir, a veces trae información útil, y después decidir tú.
+La confianza no significa ausencia de duda. Las personas que más confían en sí mismas suelen ser las que mejor conocen sus dudas, <break time="1s" /> las que han aprendido a convivir con ellas sin que las paralicen. <break time="2s" /> Imagina la duda como una compañera de viaje. No necesitas expulsarla ni obedecerla ciegamente. Puedes escuchar lo que tiene que decir, <break time="1s" /> a veces trae información útil, y después decidir tú.
 ```
 
 *Silencio después: 6 s*
@@ -49,7 +49,7 @@ La confianza no significa ausencia de duda. Las personas que más confían en s�
 ## Bloque 6 · `02-confianza_b06.mp3`
 
 ```text
-Hay una diferencia entre no sé si puedo y no sé cómo, pero voy a intentarlo. Las dos frases contienen incertidumbre. Pero la segunda deja espacio para el movimiento. <break time="2s" /> Ahora, piensa en algo que te preocupa estos días. Algo que todavía no has resuelto. No necesitas encontrar la solución ahora mismo. Solo pregúntate: ¿qué pequeño paso podría dar, no para resolverlo todo, sino para acercarme un poco?
+Hay una diferencia entre no sé si puedo y no sé cómo, <break time="1s" /> pero voy a intentarlo. Las dos frases contienen incertidumbre. Pero la segunda deja espacio para el movimiento. <break time="2s" /> Ahora, piensa en algo que te preocupa estos días. Algo que todavía no has resuelto. No necesitas encontrar la solución ahora mismo. Solo pregúntate: ¿qué pequeño paso podría dar, <break time="1s" /> no para resolverlo todo, sino para acercarme un poco?
 ```
 
 *Silencio después: 12 s*
@@ -65,7 +65,7 @@ La confianza se construye con pasos así, pequeños, concretos, imperfectos. No 
 ## Bloque 8 · `02-confianza_b08.mp3`
 
 ```text
-Lentamente, trae tu atención de vuelta a este momento. Nota el peso de tu cuerpo, la textura de lo que tocas, el sonido más cercano a ti. <break time="2s" /> No necesitas salir de aquí sintiéndote invencible. Solo necesitas recordar que ya has respondido antes, y que esa capacidad no se ha ido a ninguna parte. <break time="2s" /> Cuando estés preparada o preparado, regresa suavemente al ritmo de tu día. Gracias por estos minutos.
+Lentamente, trae tu atención de vuelta a este momento. Nota el peso de tu cuerpo, la textura de lo que tocas, <break time="1s" /> el sonido más cercano a ti. <break time="2s" /> No necesitas salir de aquí sintiéndote invencible. Solo necesitas recordar que ya has respondido antes, <break time="1s" /> y que esa capacidad no se ha ido a ninguna parte. <break time="2s" /> Cuando estés preparada o preparado, regresa suavemente al ritmo de tu día. Gracias por estos minutos.
 ```
 
 *Final de la pista: la música sigue y se apaga despacio.*

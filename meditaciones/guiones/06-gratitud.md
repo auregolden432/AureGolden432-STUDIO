@@ -9,7 +9,7 @@ Pega cada bloque tal cual en ElevenLabs (ajustes en `../voz.md`) y guarda el aud
 ## Bloque 1 · `06-gratitud_b01.mp3`
 
 ```text
-Bienvenida o bienvenido a estos minutos. No te pido que traigas una actitud especial. No necesitas sentirte agradecido antes de empezar, eso sería como pedir que ya tengas lo que viniste a buscar. Solo necesitas estar aquí, tal como llegas. <break time="2s" /> Acomódate. Si estás tensa o tenso, no intentes relajarte a la fuerza; simplemente nota dónde hay tensión y déjala estar. A veces, solo con notarla, se suaviza sola. <break time="2s" /> Respira como tu cuerpo quiera respirar ahora mismo.
+Bienvenida o bienvenido a estos minutos. No te pido que traigas una actitud especial. No necesitas sentirte agradecido antes de empezar, <break time="1s" /> eso sería como pedir que ya tengas lo que viniste a buscar. Solo necesitas estar aquí, tal como llegas. <break time="2s" /> Acomódate. Si estás tensa o tenso, no intentes relajarte a la fuerza; simplemente nota dónde hay tensión y déjala estar. A veces, solo con notarla, se suaviza sola. <break time="2s" /> Respira como tu cuerpo quiera respirar ahora mismo.
 ```
 
 *Silencio después: 6 s*
@@ -17,7 +17,7 @@ Bienvenida o bienvenido a estos minutos. No te pido que traigas una actitud espe
 ## Bloque 2 · `06-gratitud_b02.mp3`
 
 ```text
-La gratitud tiene un problema de imagen. Se ha convertido en una obligación, en una lista que hay que rellenar cada mañana, en una fórmula para la felicidad que, si no funciona, te hace sentir que encima eres desagradecido. Vamos a dejar eso a un lado. <break time="2s" /> La gratitud de la que hablamos aquí no es un ejercicio forzado. Es más bien un momento en el que logras ver algo que estaba ahí y que, por la velocidad del día, no habías notado.
+La gratitud tiene un problema de imagen. Se ha convertido en una obligación, en una lista que hay que rellenar cada mañana, <break time="1s" /> en una fórmula para la felicidad que, si no funciona, te hace sentir que encima eres desagradecido. Vamos a dejar eso a un lado. <break time="2s" /> La gratitud de la que hablamos aquí no es un ejercicio forzado. Es más bien un momento en el que logras ver algo que estaba ahí y que, <break time="1s" /> por la velocidad del día, no habías notado.
 ```
 
 *Silencio después: 6 s*
@@ -25,7 +25,7 @@ La gratitud tiene un problema de imagen. Se ha convertido en una obligación, en
 ## Bloque 3 · `06-gratitud_b03.mp3`
 
 ```text
-Piensa en tu cuerpo. No en lo que te gustaría cambiar de él, sino en algo que hoy ha funcionado. Tus manos, que te permiten sostener cosas. Tus oídos, que ahora mismo están escuchando esto. Tu capacidad de estar sentado, de pie, recostado, el simple hecho de que tu cuerpo te ha traído hasta este momento. <break time="2s" /> No necesitas sentir un arrebato de emoción. Solo notarlo. Eso ya es suficiente.
+Piensa en tu cuerpo. No en lo que te gustaría cambiar de él, <break time="1s" /> sino en algo que hoy ha funcionado. Tus manos, que te permiten sostener cosas. Tus oídos, que ahora mismo están escuchando esto. Tu capacidad de estar sentado, de pie, recostado, <break time="1s" /> el simple hecho de que tu cuerpo te ha traído hasta este momento. <break time="2s" /> No necesitas sentir un arrebato de emoción. Solo notarlo. Eso ya es suficiente.
 ```
 
 *Silencio después: 6 s*
@@ -33,7 +33,7 @@ Piensa en tu cuerpo. No en lo que te gustaría cambiar de él, sino en algo que 
 ## Bloque 4 · `06-gratitud_b04.mp3`
 
 ```text
-Ahora piensa en una persona. Alguien que, de alguna manera, ha hecho tu vida un poco más llevadera. No tiene que ser una relación perfecta. Quizá es alguien que te dijo algo que necesitabas oír, o que simplemente estuvo ahí en un momento difícil, o que te hizo reír cuando no lo esperabas.
+Ahora piensa en una persona. Alguien que, de alguna manera, ha hecho tu vida un poco más llevadera. No tiene que ser una relación perfecta. Quizá es alguien que te dijo algo que necesitabas oír, <break time="1s" /> o que simplemente estuvo ahí en un momento difícil, o que te hizo reír cuando no lo esperabas.
 ```
 
 *Silencio después: 12 s*
@@ -57,7 +57,7 @@ Y hay una gratitud más sutil todavía: la gratitud hacia ti. Hacia las decision
 ## Bloque 7 · `06-gratitud_b07.mp3`
 
 ```text
-Antes de terminar, te invito a un gesto simple: elige una sola cosa de hoy, algo pequeño, concreto, real, por la que sientas un destello de aprecio. No necesitas justificarla. Solo sostenla un momento en tu atención, como quien sostiene algo frágil y bonito.
+Antes de terminar, te invito a un gesto simple: elige una sola cosa de hoy, <break time="1s" /> algo pequeño, concreto, real, por la que sientas un destello de aprecio. No necesitas justificarla. Solo sostenla un momento en tu atención, como quien sostiene algo frágil y bonito.
 ```
 
 *Silencio después: 12 s*
@@ -65,7 +65,7 @@ Antes de terminar, te invito a un gesto simple: elige una sola cosa de hoy, algo
 ## Bloque 8 · `06-gratitud_b08.mp3`
 
 ```text
-Con calma, vuelve al presente. Nota la temperatura del aire, los colores que te rodean si tienes los ojos abiertos, el peso de tu cuerpo en el espacio. <break time="2s" /> Gracias por estos minutos. Lo que has notado hoy no desaparece: queda contigo como una posibilidad a la que puedes volver.
+Con calma, vuelve al presente. Nota la temperatura del aire, los colores que te rodean si tienes los ojos abiertos, <break time="1s" /> el peso de tu cuerpo en el espacio. <break time="2s" /> Gracias por estos minutos. Lo que has notado hoy no desaparece: queda contigo como una posibilidad a la que puedes volver.
 ```
 
 *Final de la pista: la música sigue y se apaga despacio.*

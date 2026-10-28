@@ -4,12 +4,12 @@ Ajustes de ElevenLabs elegidos el 24-10-2026. **Usa siempre estos**, para que to
 
 | Ajuste | Valor |
 |---|---|
-| Voz | David Martin – Clear, Calm and Elegant |
+| Voz | **AureGolden432hz** (voz propia clonada, 28-10-2026). Alternativa: David Martin – Clear, Calm and Elegant |
 | Modelo | Eleven Multilingual v2 (nunca modelos alpha/beta) |
-| Velocidad | Lenta (≈ 0,8). Comprueba el número exacto pasando el ratón por el control |
+| Velocidad | Al mínimo (del todo a la izquierda). Si aún va rápida: Audacity → Cambiar tempo -5 % a -8 %, alta calidad |
 | Estabilidad | 88 % |
 | Similitud | Alta (≈ 90 %) |
-| Exageración de estilo | Muy baja (≈ 10 %) |
+| Exageración de estilo | 0 % |
 | Idioma | Automático |
 
 ## Cómo escribir el texto
@@ -21,4 +21,4 @@ Ajustes de ElevenLabs elegidos el 24-10-2026. **Usa siempre estos**, para que to
 ## Licencia
 - Generar **solo mientras el plan de pago esté activo**. Lo generado así se puede vender para siempre.
 - Descargar cada audio al momento y guardar la factura del mes.
-- La voz es de la biblioteca de la comunidad: está añadida a "Mis voces". Revisa su periodo de aviso por si el creador la retira.
+- Con la voz propia clonada no hay riesgo de que la retiren de la biblioteca.

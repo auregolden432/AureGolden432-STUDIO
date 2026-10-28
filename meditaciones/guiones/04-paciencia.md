@@ -9,7 +9,7 @@ Pega cada bloque tal cual en ElevenLabs (ajustes en `../voz.md`) y guarda el aud
 ## Bloque 1 · `04-paciencia_b01.mp3`
 
 ```text
-Bienvenida o bienvenido a este espacio. Llegas con todo lo que traes hoy: tu energía, tu cansancio, tus pensamientos, tus pendientes. Todo eso puede estar aquí contigo. No necesitas dejarlo en la puerta. <break time="2s" /> Encuentra tu comodidad. Si puedes sentarte, si prefieres recostarte, si estás en algún rincón robándole unos minutos al día, todo vale. Permite que tu cuerpo se relaje lo que pueda, sin forzar. <break time="2s" /> Nota tu respiración. No la cambies. Solo obsérvala, como quien mira pasar nubes.
+Bienvenida o bienvenido a este espacio. Llegas con todo lo que traes hoy: tu energía, tu cansancio, tus pensamientos, tus pendientes. Todo eso puede estar aquí contigo. No necesitas dejarlo en la puerta. <break time="2s" /> Encuentra tu comodidad. Si puedes sentarte, si prefieres recostarte, <break time="1s" /> si estás en algún rincón robándole unos minutos al día, todo vale. Permite que tu cuerpo se relaje lo que pueda, sin forzar. <break time="2s" /> Nota tu respiración. No la cambies. Solo obsérvala, como quien mira pasar nubes.
 ```
 
 *Silencio después: 6 s*
@@ -17,7 +17,7 @@ Bienvenida o bienvenido a este espacio. Llegas con todo lo que traes hoy: tu ene
 ## Bloque 2 · `04-paciencia_b02.mp3`
 
 ```text
-Hoy reflexionamos sobre la paciencia. No la paciencia resignada de no me queda más remedio que esperar, sino algo más activo: la decisión consciente de no acelerar lo que necesita su tiempo. <break time="2s" /> Vivimos rodeados de velocidad. Respuestas inmediatas, resultados visibles, métricas en tiempo real. Y cuando algo importante no avanza al ritmo que quisiéramos, sentimos que algo está mal. Que estamos haciendo algo mal. <break time="2s" /> Pero hay cosas que simplemente no se aceleran. Aprender un idioma. Construir una relación de confianza. Recuperarse de algo difícil. Que una semilla se convierta en árbol.
+Hoy reflexionamos sobre la paciencia. No la paciencia resignada de no me queda más remedio que esperar, <break time="1s" /> sino algo más activo: la decisión consciente de no acelerar lo que necesita su tiempo. <break time="2s" /> Vivimos rodeados de velocidad. Respuestas inmediatas, resultados visibles, métricas en tiempo real. Y cuando algo importante no avanza al ritmo que quisiéramos, sentimos que algo está mal. Que estamos haciendo algo mal. <break time="2s" /> Pero hay cosas que simplemente no se aceleran. Aprender un idioma. Construir una relación de confianza. Recuperarse de algo difícil. Que una semilla se convierta en árbol.
 ```
 
 *Silencio después: 6 s*
@@ -25,7 +25,7 @@ Hoy reflexionamos sobre la paciencia. No la paciencia resignada de no me queda m
 ## Bloque 3 · `04-paciencia_b03.mp3`
 
 ```text
-Imagina que plantas una semilla en una maceta. Sabes que es una buena semilla, que la tierra es adecuada, que has puesto agua suficiente. ¿Qué haces ahora? La observas. Tal vez riegas mañana otra vez. Pero no la desentierras para comprobar si ha crecido. No la riegas tres veces seguidas para que vaya más rápido. <break time="2s" /> Hay una inteligencia en saber esperar después de haber hecho lo que te correspondía.
+Imagina que plantas una semilla en una maceta. Sabes que es una buena semilla, que la tierra es adecuada, <break time="1s" /> que has puesto agua suficiente. ¿Qué haces ahora? La observas. Tal vez riegas mañana otra vez. Pero no la desentierras para comprobar si ha crecido. No la riegas tres veces seguidas para que vaya más rápido. <break time="2s" /> Hay una inteligencia en saber esperar después de haber hecho lo que te correspondía.
 ```
 
 *Silencio después: 6 s*
@@ -49,7 +49,7 @@ La impaciencia suele venir de una preocupación legítima. No es un defecto. Es 
 ## Bloque 6 · `04-paciencia_b06.mp3`
 
 ```text
-La paciencia no es pasividad. Es la habilidad de seguir caminando sin necesitar ver la cima a cada paso. Confiar en que el camino, aunque no lo veas entero, sigue existiendo más allá de la curva. <break time="2s" /> Y también es la habilidad de descansar en el camino sin culpa. De decir: Hoy no avanzo, y eso también forma parte del proceso.
+La paciencia no es pasividad. Es la habilidad de seguir caminando sin necesitar ver la cima a cada paso. Confiar en que el camino, aunque no lo veas entero, <break time="1s" /> sigue existiendo más allá de la curva. <break time="2s" /> Y también es la habilidad de descansar en el camino sin culpa. De decir: Hoy no avanzo, y eso también forma parte del proceso.
 ```
 
 *Silencio después: 6 s*
