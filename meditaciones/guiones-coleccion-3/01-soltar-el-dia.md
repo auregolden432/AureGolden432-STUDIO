@@ -1,6 +1,6 @@
 # Pista 1 — Soltar el día
 
-- **Duración estimada:** Unos 6 minutos de voz, y la música sigue
+- **Duración estimada:** Unos 4 minutos con voz y silencios, y después 2 a 5 minutos solo de música
 - **Ambiente sonoro:** Pads muy suaves en 432 Hz, sin cambios bruscos, volumen bajo y estable.
 - **Promesa editorial:** Cerrar el día con amabilidad antes de dormir.
 

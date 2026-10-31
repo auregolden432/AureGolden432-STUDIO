@@ -1,6 +1,6 @@
 # Pista 3 — La respiración del mar
 
-- **Duración estimada:** Unos 6 minutos de voz, y la música sigue
+- **Duración estimada:** Unos 4 minutos con voz y silencios, y después 2 a 5 minutos solo de música
 - **Ambiente sonoro:** Olas suaves y lejanas con un pad en 432 Hz, ritmo lento como una respiración.
 - **Promesa editorial:** Dejar que la respiración se acompase al ritmo lento de las olas.
 

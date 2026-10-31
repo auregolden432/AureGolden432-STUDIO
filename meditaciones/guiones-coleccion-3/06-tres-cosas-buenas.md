@@ -1,6 +1,6 @@
 # Pista 6 — Tres cosas buenas
 
-- **Duración estimada:** Unos 5 minutos de voz, y la música sigue
+- **Duración estimada:** Unos 4 minutos con voz y silencios, y después 2 a 5 minutos solo de música
 - **Ambiente sonoro:** Piano muy suave en 432 Hz con notas espaciadas, cálido e íntimo.
 - **Promesa editorial:** Terminar el día recordando lo que sí estuvo bien.
 

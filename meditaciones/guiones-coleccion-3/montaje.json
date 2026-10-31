@@ -3,7 +3,7 @@
   "n": 1,
   "titulo": "Soltar el día",
   "slug": "soltar-el-dia",
-  "duracion": "Unos 6 minutos de voz, y la música sigue",
+  "duracion": "Unos 4 minutos con voz y silencios, y después 2 a 5 minutos solo de música",
   "ambiente": "Pads muy suaves en 432 Hz, sin cambios bruscos, volumen bajo y estable.",
   "promesa": "Cerrar el día con amabilidad antes de dormir.",
   "bloques": [
@@ -83,7 +83,7 @@
   "n": 2,
   "titulo": "El cuerpo pesado",
   "slug": "el-cuerpo-pesado",
-  "duracion": "Unos 6 minutos de voz, y la música sigue",
+  "duracion": "Unos 4 minutos con voz y silencios, y después 2 a 5 minutos solo de música",
   "ambiente": "Drone grave y cálido en 432 Hz, como un murmullo lejano.",
   "promesa": "Soltar el cuerpo parte por parte hasta que se hunda en el descanso.",
   "bloques": [
@@ -184,7 +184,7 @@
   "n": 3,
   "titulo": "La respiración del mar",
   "slug": "la-respiracion-del-mar",
-  "duracion": "Unos 6 minutos de voz, y la música sigue",
+  "duracion": "Unos 4 minutos con voz y silencios, y después 2 a 5 minutos solo de música",
   "ambiente": "Olas suaves y lejanas con un pad en 432 Hz, ritmo lento como una respiración.",
   "promesa": "Dejar que la respiración se acompase al ritmo lento de las olas.",
   "bloques": [
@@ -278,7 +278,7 @@
   "n": 4,
   "titulo": "El jardín nocturno",
   "slug": "el-jardin-nocturno",
-  "duracion": "Unos 6 minutos de voz, y la música sigue",
+  "duracion": "Unos 4 minutos con voz y silencios, y después 2 a 5 minutos solo de música",
   "ambiente": "Grillos lejanos, viento entre hojas y arpa muy suave en 432 Hz.",
   "promesa": "Un paseo imaginario y tranquilo que prepara la mente para dormir.",
   "bloques": [
@@ -372,7 +372,7 @@
   "n": 5,
   "titulo": "Cuenta atrás hacia el sueño",
   "slug": "cuenta-atras-hacia-el-sueno",
-  "duracion": "Unos 5 minutos de voz, y la música sigue",
+  "duracion": "Unos 4 minutos con voz y silencios, y después 2 a 5 minutos solo de música",
   "ambiente": "Pad muy lento en 432 Hz con notas largas que se apagan solas.",
   "promesa": "Una cuenta atrás lenta para ir bajando, escalón a escalón, hacia el descanso.",
   "bloques": [
@@ -487,7 +487,7 @@
   "n": 6,
   "titulo": "Tres cosas buenas",
   "slug": "tres-cosas-buenas",
-  "duracion": "Unos 5 minutos de voz, y la música sigue",
+  "duracion": "Unos 4 minutos con voz y silencios, y después 2 a 5 minutos solo de música",
   "ambiente": "Piano muy suave en 432 Hz con notas espaciadas, cálido e íntimo.",
   "promesa": "Terminar el día recordando lo que sí estuvo bien.",
   "bloques": [

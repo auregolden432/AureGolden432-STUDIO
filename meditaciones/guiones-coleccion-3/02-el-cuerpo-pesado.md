@@ -1,6 +1,6 @@
 # Pista 2 — El cuerpo pesado
 
-- **Duración estimada:** Unos 6 minutos de voz, y la música sigue
+- **Duración estimada:** Unos 4 minutos con voz y silencios, y después 2 a 5 minutos solo de música
 - **Ambiente sonoro:** Drone grave y cálido en 432 Hz, como un murmullo lejano.
 - **Promesa editorial:** Soltar el cuerpo parte por parte hasta que se hunda en el descanso.
 

@@ -1,6 +1,6 @@
 # Pista 5 — Cuenta atrás hacia el sueño
 
-- **Duración estimada:** Unos 5 minutos de voz, y la música sigue
+- **Duración estimada:** Unos 4 minutos con voz y silencios, y después 2 a 5 minutos solo de música
 - **Ambiente sonoro:** Pad muy lento en 432 Hz con notas largas que se apagan solas.
 - **Promesa editorial:** Una cuenta atrás lenta para ir bajando, escalón a escalón, hacia el descanso.
 

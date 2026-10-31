@@ -1,6 +1,6 @@
 # Pista 4 — El jardín nocturno
 
-- **Duración estimada:** Unos 6 minutos de voz, y la música sigue
+- **Duración estimada:** Unos 4 minutos con voz y silencios, y después 2 a 5 minutos solo de música
 - **Ambiente sonoro:** Grillos lejanos, viento entre hojas y arpa muy suave en 432 Hz.
 - **Promesa editorial:** Un paseo imaginario y tranquilo que prepara la mente para dormir.
 
