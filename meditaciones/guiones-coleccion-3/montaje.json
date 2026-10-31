@@ -1,0 +1,573 @@
+[
+ {
+  "n": 1,
+  "titulo": "Soltar el día",
+  "slug": "soltar-el-dia",
+  "duracion": "Unos 6 minutos de voz, y la música sigue",
+  "ambiente": "Pads muy suaves en 432 Hz, sin cambios bruscos, volumen bajo y estable.",
+  "promesa": "Cerrar el día con amabilidad antes de dormir.",
+  "bloques": [
+   {
+    "texto": "Buenas noches. Bienvenida o bienvenido a este momento antes de dormir. Túmbate en la postura en la que sueles descansar. Deja que la almohada sostenga tu cabeza y que la cama sostenga todo lo demás. <break time=\"2s\" /> No tienes que hacer nada bien. Solo escuchar, y si en algún momento te duermes, perfecto.",
+    "silencio_despues": 6,
+    "archivo": "c3-01-soltar-el-dia_b01.mp3",
+    "caracteres": 308,
+    "breaks": 1
+   },
+   {
+    "texto": "Respira despacio, a tu ritmo. Nota cómo el cuerpo se va haciendo un poco más pesado con cada espiración.",
+    "silencio_despues": 12,
+    "archivo": "c3-01-soltar-el-dia_b02.mp3",
+    "caracteres": 104,
+    "breaks": 0
+   },
+   {
+    "texto": "Hoy ha sido un día con muchas cosas. Algunas fueron bien. Otras quizá no tanto. Algunas quedaron a medias. <break time=\"2s\" /> Ahora no es el momento de resolverlas. La noche no está hecha para arreglar el día, sino para descansar de él.",
+    "silencio_despues": 6,
+    "archivo": "c3-01-soltar-el-dia_b03.mp3",
+    "caracteres": 237,
+    "breaks": 1
+   },
+   {
+    "texto": "Imagina que tienes delante una caja de madera con la tapa abierta. Una por una, deja dentro las cosas que traes del día. Una conversación. Una preocupación. Una tarea pendiente.",
+    "silencio_despues": 12,
+    "archivo": "c3-01-soltar-el-dia_b04.mp3",
+    "caracteres": 177,
+    "breaks": 0
+   },
+   {
+    "texto": "No las tiras. Solo las guardas. Mañana seguirán ahí, y tú tendrás más energía para atenderlas.",
+    "silencio_despues": 6,
+    "archivo": "c3-01-soltar-el-dia_b05.mp3",
+    "caracteres": 94,
+    "breaks": 0
+   },
+   {
+    "texto": "Cuando sientas que has guardado lo suficiente, cierra la tapa despacio.",
+    "silencio_despues": 12,
+    "archivo": "c3-01-soltar-el-dia_b06.mp3",
+    "caracteres": 71,
+    "breaks": 0
+   },
+   {
+    "texto": "Ahora solo queda esta habitación, esta cama, esta respiración.",
+    "silencio_despues": 6,
+    "archivo": "c3-01-soltar-el-dia_b07.mp3",
+    "caracteres": 62,
+    "breaks": 0
+   },
+   {
+    "texto": "Deja que los pensamientos que todavía aparezcan pasen de largo, <break time=\"1s\" /> como coches lejanos en una carretera de noche. Se oyen un momento, y se van.",
+    "silencio_despues": 12,
+    "archivo": "c3-01-soltar-el-dia_b08.mp3",
+    "caracteres": 160,
+    "breaks": 1
+   },
+   {
+    "texto": "Nada más que hacer hoy. Nada más que decidir.",
+    "silencio_despues": 6,
+    "archivo": "c3-01-soltar-el-dia_b09.mp3",
+    "caracteres": 45,
+    "breaks": 0
+   },
+   {
+    "texto": "Puedes quedarte aquí, escuchando la música, dejando que el sueño llegue cuando quiera.",
+    "silencio_despues": 0,
+    "archivo": "c3-01-soltar-el-dia_b10.mp3",
+    "caracteres": 86,
+    "breaks": 0
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "titulo": "El cuerpo pesado",
+  "slug": "el-cuerpo-pesado",
+  "duracion": "Unos 6 minutos de voz, y la música sigue",
+  "ambiente": "Drone grave y cálido en 432 Hz, como un murmullo lejano.",
+  "promesa": "Soltar el cuerpo parte por parte hasta que se hunda en el descanso.",
+  "bloques": [
+   {
+    "texto": "Buenas noches. Acomódate en la cama, en la postura que te resulte más cómoda. Deja los brazos sueltos, a los lados del cuerpo o sobre el abdomen. Que nada tenga que sostenerse solo.",
+    "silencio_despues": 6,
+    "archivo": "c3-02-el-cuerpo-pesado_b01.mp3",
+    "caracteres": 181,
+    "breaks": 0
+   },
+   {
+    "texto": "Vamos a recorrer el cuerpo despacio, dejando que cada parte se vuelva pesada, <break time=\"1s\" /> como si se hundiera un poco en el colchón.",
+    "silencio_despues": 6,
+    "archivo": "c3-02-el-cuerpo-pesado_b02.mp3",
+    "caracteres": 140,
+    "breaks": 1
+   },
+   {
+    "texto": "Empieza por los pies. Imagina que pesan un poco más. Que se relajan los dedos, las plantas, los talones.",
+    "silencio_despues": 6,
+    "archivo": "c3-02-el-cuerpo-pesado_b03.mp3",
+    "caracteres": 104,
+    "breaks": 0
+   },
+   {
+    "texto": "Las piernas. Las pantorrillas se aflojan. Las rodillas se sueltan. Los muslos se hunden en la cama, pesados y tranquilos.",
+    "silencio_despues": 12,
+    "archivo": "c3-02-el-cuerpo-pesado_b04.mp3",
+    "caracteres": 121,
+    "breaks": 0
+   },
+   {
+    "texto": "Las caderas y la parte baja de la espalda. Deja que todo ese peso descanse. Ya no tienes que sostener nada.",
+    "silencio_despues": 6,
+    "archivo": "c3-02-el-cuerpo-pesado_b05.mp3",
+    "caracteres": 107,
+    "breaks": 0
+   },
+   {
+    "texto": "El abdomen sube y baja despacio. No lo dirijas. Solo nota ese vaivén tranquilo.",
+    "silencio_despues": 12,
+    "archivo": "c3-02-el-cuerpo-pesado_b06.mp3",
+    "caracteres": 79,
+    "breaks": 0
+   },
+   {
+    "texto": "El pecho. Los hombros. Imagina que los hombros se alejan un poco de las orejas y se dejan caer hacia la cama.",
+    "silencio_despues": 6,
+    "archivo": "c3-02-el-cuerpo-pesado_b07.mp3",
+    "caracteres": 109,
+    "breaks": 0
+   },
+   {
+    "texto": "Los brazos. Los codos. Las manos. Las manos pesadas y abiertas, sin agarrar nada.",
+    "silencio_despues": 12,
+    "archivo": "c3-02-el-cuerpo-pesado_b08.mp3",
+    "caracteres": 81,
+    "breaks": 0
+   },
+   {
+    "texto": "El cuello. La nuca apoyada en la almohada. La mandíbula suelta. La lengua descansando.",
+    "silencio_despues": 6,
+    "archivo": "c3-02-el-cuerpo-pesado_b09.mp3",
+    "caracteres": 86,
+    "breaks": 0
+   },
+   {
+    "texto": "La cara. Los párpados pesados. La frente lisa. Todo tu rostro, en calma.",
+    "silencio_despues": 12,
+    "archivo": "c3-02-el-cuerpo-pesado_b10.mp3",
+    "caracteres": 72,
+    "breaks": 0
+   },
+   {
+    "texto": "Ahora todo el cuerpo a la vez. Pesado. Tibio. Sostenido.",
+    "silencio_despues": 12,
+    "archivo": "c3-02-el-cuerpo-pesado_b11.mp3",
+    "caracteres": 56,
+    "breaks": 0
+   },
+   {
+    "texto": "No hay nada que tengas que hacer. El cuerpo sabe descansar solo.",
+    "silencio_despues": 6,
+    "archivo": "c3-02-el-cuerpo-pesado_b12.mp3",
+    "caracteres": 64,
+    "breaks": 0
+   },
+   {
+    "texto": "Déjate llevar por la música, y deja que el sueño llegue cuando quiera.",
+    "silencio_despues": 0,
+    "archivo": "c3-02-el-cuerpo-pesado_b13.mp3",
+    "caracteres": 70,
+    "breaks": 0
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "titulo": "La respiración del mar",
+  "slug": "la-respiracion-del-mar",
+  "duracion": "Unos 6 minutos de voz, y la música sigue",
+  "ambiente": "Olas suaves y lejanas con un pad en 432 Hz, ritmo lento como una respiración.",
+  "promesa": "Dejar que la respiración se acompase al ritmo lento de las olas.",
+  "bloques": [
+   {
+    "texto": "Buenas noches. Túmbate y deja que el cuerpo se acomode.",
+    "silencio_despues": 6,
+    "archivo": "c3-03-la-respiracion-del-mar_b01.mp3",
+    "caracteres": 55,
+    "breaks": 0
+   },
+   {
+    "texto": "Imagina que descansas en una playa tranquila, al anochecer. La arena todavía conserva un poco del calor del día. El cielo se va oscureciendo despacio.",
+    "silencio_despues": 12,
+    "archivo": "c3-03-la-respiracion-del-mar_b02.mp3",
+    "caracteres": 150,
+    "breaks": 0
+   },
+   {
+    "texto": "A lo lejos, el mar. Las olas llegan a la orilla, y se retiran. Llegan, y se retiran. Sin prisa. Siempre al mismo ritmo.",
+    "silencio_despues": 6,
+    "archivo": "c3-03-la-respiracion-del-mar_b03.mp3",
+    "caracteres": 119,
+    "breaks": 0
+   },
+   {
+    "texto": "Deja que tu respiración se parezca a esas olas. Al inhalar, la ola llega. Al espirar, la ola se retira, un poco más despacio.",
+    "silencio_despues": 12,
+    "archivo": "c3-03-la-respiracion-del-mar_b04.mp3",
+    "caracteres": 125,
+    "breaks": 0
+   },
+   {
+    "texto": "No hace falta contar ni forzar nada. Solo deja que la espiración sea un poco más larga, <break time=\"1s\" /> como el agua que tarda en volver al mar.",
+    "silencio_despues": 12,
+    "archivo": "c3-03-la-respiracion-del-mar_b05.mp3",
+    "caracteres": 148,
+    "breaks": 1
+   },
+   {
+    "texto": "Llega la ola. Se retira. Llega. Se retira.",
+    "silencio_despues": 12,
+    "archivo": "c3-03-la-respiracion-del-mar_b06.mp3",
+    "caracteres": 42,
+    "breaks": 0
+   },
+   {
+    "texto": "Con cada ola que se va, algo del día se va con ella. Una tensión. Un pensamiento. Un cansancio.",
+    "silencio_despues": 6,
+    "archivo": "c3-03-la-respiracion-del-mar_b07.mp3",
+    "caracteres": 95,
+    "breaks": 0
+   },
+   {
+    "texto": "El mar no tiene prisa. Lleva haciendo esto miles de años, noche tras noche.",
+    "silencio_despues": 12,
+    "archivo": "c3-03-la-respiracion-del-mar_b08.mp3",
+    "caracteres": 75,
+    "breaks": 0
+   },
+   {
+    "texto": "Las primeras estrellas aparecen sobre el agua. Una. Otra. Muchas.",
+    "silencio_despues": 6,
+    "archivo": "c3-03-la-respiracion-del-mar_b09.mp3",
+    "caracteres": 65,
+    "breaks": 0
+   },
+   {
+    "texto": "La brisa es suave. La arena te sostiene. Las olas siguen llegando.",
+    "silencio_despues": 12,
+    "archivo": "c3-03-la-respiracion-del-mar_b10.mp3",
+    "caracteres": 66,
+    "breaks": 0
+   },
+   {
+    "texto": "No tienes que ir a ninguna parte. No tienes que hacer nada.",
+    "silencio_despues": 6,
+    "archivo": "c3-03-la-respiracion-del-mar_b11.mp3",
+    "caracteres": 59,
+    "breaks": 0
+   },
+   {
+    "texto": "Quédate aquí, con el sonido del mar, <break time=\"1s\" /> y deja que el sueño llegue con la próxima ola.",
+    "silencio_despues": 0,
+    "archivo": "c3-03-la-respiracion-del-mar_b12.mp3",
+    "caracteres": 103,
+    "breaks": 1
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "titulo": "El jardín nocturno",
+  "slug": "el-jardin-nocturno",
+  "duracion": "Unos 6 minutos de voz, y la música sigue",
+  "ambiente": "Grillos lejanos, viento entre hojas y arpa muy suave en 432 Hz.",
+  "promesa": "Un paseo imaginario y tranquilo que prepara la mente para dormir.",
+  "bloques": [
+   {
+    "texto": "Buenas noches. Acomódate y cierra los ojos.",
+    "silencio_despues": 6,
+    "archivo": "c3-04-el-jardin-nocturno_b01.mp3",
+    "caracteres": 43,
+    "breaks": 0
+   },
+   {
+    "texto": "Imagina que sales por una puerta de madera a un jardín, de noche. El aire es fresco y huele a tierra húmeda y a hierba.",
+    "silencio_despues": 12,
+    "archivo": "c3-04-el-jardin-nocturno_b02.mp3",
+    "caracteres": 119,
+    "breaks": 0
+   },
+   {
+    "texto": "Hay un camino de piedras planas que se pierde entre los árboles. Lo recorres despacio, sin prisa, sintiendo cada piedra bajo tus pies.",
+    "silencio_despues": 6,
+    "archivo": "c3-04-el-jardin-nocturno_b03.mp3",
+    "caracteres": 134,
+    "breaks": 0
+   },
+   {
+    "texto": "La luna ilumina el jardín con una luz plateada. Puedes ver las siluetas de las hojas, un banco de piedra, un pequeño estanque.",
+    "silencio_despues": 12,
+    "archivo": "c3-04-el-jardin-nocturno_b04.mp3",
+    "caracteres": 126,
+    "breaks": 0
+   },
+   {
+    "texto": "Te acercas al estanque. El agua está quieta. En su superficie se refleja la luna, redonda y tranquila.",
+    "silencio_despues": 6,
+    "archivo": "c3-04-el-jardin-nocturno_b05.mp3",
+    "caracteres": 102,
+    "breaks": 0
+   },
+   {
+    "texto": "Te sientas en el borde. Escuchas los grillos a lo lejos. El viento mueve las hojas con suavidad.",
+    "silencio_despues": 12,
+    "archivo": "c3-04-el-jardin-nocturno_b06.mp3",
+    "caracteres": 96,
+    "breaks": 0
+   },
+   {
+    "texto": "Si te apetece, imagina que dejas caer en el agua una pequeña piedra. Mira cómo se forman los círculos, cada vez más amplios, <break time=\"1s\" /> cada vez más suaves, hasta que el agua vuelve a quedar quieta.",
+    "silencio_despues": 12,
+    "archivo": "c3-04-el-jardin-nocturno_b07.mp3",
+    "caracteres": 207,
+    "breaks": 1
+   },
+   {
+    "texto": "Tu mente puede hacer lo mismo. Los pensamientos se mueven un momento, y luego se aquietan.",
+    "silencio_despues": 6,
+    "archivo": "c3-04-el-jardin-nocturno_b08.mp3",
+    "caracteres": 90,
+    "breaks": 0
+   },
+   {
+    "texto": "Junto al estanque hay una hamaca tendida entre dos árboles. Te tumbas en ella. Se mece muy despacio.",
+    "silencio_despues": 12,
+    "archivo": "c3-04-el-jardin-nocturno_b09.mp3",
+    "caracteres": 100,
+    "breaks": 0
+   },
+   {
+    "texto": "Sobre ti, entre las ramas, se ven las estrellas. El jardín entero descansa.",
+    "silencio_despues": 6,
+    "archivo": "c3-04-el-jardin-nocturno_b10.mp3",
+    "caracteres": 75,
+    "breaks": 0
+   },
+   {
+    "texto": "Y tú también.",
+    "silencio_despues": 12,
+    "archivo": "c3-04-el-jardin-nocturno_b11.mp3",
+    "caracteres": 13,
+    "breaks": 0
+   },
+   {
+    "texto": "Quédate aquí, meciéndote, mientras el jardín duerme a tu alrededor.",
+    "silencio_despues": 0,
+    "archivo": "c3-04-el-jardin-nocturno_b12.mp3",
+    "caracteres": 67,
+    "breaks": 0
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "titulo": "Cuenta atrás hacia el sueño",
+  "slug": "cuenta-atras-hacia-el-sueno",
+  "duracion": "Unos 5 minutos de voz, y la música sigue",
+  "ambiente": "Pad muy lento en 432 Hz con notas largas que se apagan solas.",
+  "promesa": "Una cuenta atrás lenta para ir bajando, escalón a escalón, hacia el descanso.",
+  "bloques": [
+   {
+    "texto": "Buenas noches. Túmbate y deja que el cuerpo pese.",
+    "silencio_despues": 6,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b01.mp3",
+    "caracteres": 49,
+    "breaks": 0
+   },
+   {
+    "texto": "Vamos a bajar juntos una escalera imaginaria. Una escalera ancha, de madera cálida, con una luz suave. Al final de la escalera hay un lugar de descanso profundo. <break time=\"2s\" /> Con cada número, bajarás un escalón y sentirás un poco más de calma. No tienes que esforzarte. Si pierdes la cuenta, no pasa nada.",
+    "silencio_despues": 6,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b02.mp3",
+    "caracteres": 312,
+    "breaks": 1
+   },
+   {
+    "texto": "Diez. Bajas el primer escalón. Los hombros se sueltan.",
+    "silencio_despues": 6,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b03.mp3",
+    "caracteres": 54,
+    "breaks": 0
+   },
+   {
+    "texto": "Nueve. La respiración se hace más lenta.",
+    "silencio_despues": 6,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b04.mp3",
+    "caracteres": 40,
+    "breaks": 0
+   },
+   {
+    "texto": "Ocho. Las manos descansan, pesadas.",
+    "silencio_despues": 6,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b05.mp3",
+    "caracteres": 35,
+    "breaks": 0
+   },
+   {
+    "texto": "Siete. La cara se relaja. Los párpados pesan.",
+    "silencio_despues": 6,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b06.mp3",
+    "caracteres": 45,
+    "breaks": 0
+   },
+   {
+    "texto": "Seis. Cada escalón te lleva un poco más hacia dentro.",
+    "silencio_despues": 6,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b07.mp3",
+    "caracteres": 53,
+    "breaks": 0
+   },
+   {
+    "texto": "Cinco. A mitad de camino. Todo es más silencioso.",
+    "silencio_despues": 12,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b08.mp3",
+    "caracteres": 49,
+    "breaks": 0
+   },
+   {
+    "texto": "Cuatro. Las piernas se hunden en la cama.",
+    "silencio_despues": 6,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b09.mp3",
+    "caracteres": 41,
+    "breaks": 0
+   },
+   {
+    "texto": "Tres. Los pensamientos se alejan, como voces en otra habitación.",
+    "silencio_despues": 6,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b10.mp3",
+    "caracteres": 64,
+    "breaks": 0
+   },
+   {
+    "texto": "Dos. Casi has llegado. Todo está en calma.",
+    "silencio_despues": 6,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b11.mp3",
+    "caracteres": 42,
+    "breaks": 0
+   },
+   {
+    "texto": "Uno. Llegas al último escalón.",
+    "silencio_despues": 12,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b12.mp3",
+    "caracteres": 30,
+    "breaks": 0
+   },
+   {
+    "texto": "Aquí abajo hay una habitación tranquila, en penumbra, <break time=\"1s\" /> con una cama amplia y una manta suave. Es tu lugar de descanso.",
+    "silencio_despues": 6,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b13.mp3",
+    "caracteres": 137,
+    "breaks": 1
+   },
+   {
+    "texto": "Te tumbas. La manta te cubre. Todo está bien.",
+    "silencio_despues": 12,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b14.mp3",
+    "caracteres": 45,
+    "breaks": 0
+   },
+   {
+    "texto": "Quédate aquí. No hay nada más que hacer esta noche.",
+    "silencio_despues": 0,
+    "archivo": "c3-05-cuenta-atras-hacia-el-sueno_b15.mp3",
+    "caracteres": 51,
+    "breaks": 0
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "titulo": "Tres cosas buenas",
+  "slug": "tres-cosas-buenas",
+  "duracion": "Unos 5 minutos de voz, y la música sigue",
+  "ambiente": "Piano muy suave en 432 Hz con notas espaciadas, cálido e íntimo.",
+  "promesa": "Terminar el día recordando lo que sí estuvo bien.",
+  "bloques": [
+   {
+    "texto": "Buenas noches. Acomódate en la cama y respira despacio.",
+    "silencio_despues": 6,
+    "archivo": "c3-06-tres-cosas-buenas_b01.mp3",
+    "caracteres": 55,
+    "breaks": 0
+   },
+   {
+    "texto": "Antes de dormir, te propongo un pequeño ejercicio. Muy sencillo. Recordar tres cosas buenas del día de hoy. <break time=\"2s\" /> No tienen que ser grandes. A menudo las mejores son las pequeñas. Y si hoy ha sido un día difícil, basta con algo mínimo.",
+    "silencio_despues": 6,
+    "archivo": "c3-06-tres-cosas-buenas_b02.mp3",
+    "caracteres": 249,
+    "breaks": 1
+   },
+   {
+    "texto": "Piensa en la primera. Quizá una comida que te gustó. Un momento de calma. Una conversación. Algo que hiciste bien.",
+    "silencio_despues": 12,
+    "archivo": "c3-06-tres-cosas-buenas_b03.mp3",
+    "caracteres": 114,
+    "breaks": 0
+   },
+   {
+    "texto": "Quédate un momento con ese recuerdo. No lo analices. Solo vuelve a sentirlo un instante.",
+    "silencio_despues": 6,
+    "archivo": "c3-06-tres-cosas-buenas_b04.mp3",
+    "caracteres": 88,
+    "breaks": 0
+   },
+   {
+    "texto": "Ahora la segunda. Quizá alguien que fue amable contigo. O tú con alguien. Un gesto pequeño.",
+    "silencio_despues": 12,
+    "archivo": "c3-06-tres-cosas-buenas_b05.mp3",
+    "caracteres": 91,
+    "breaks": 0
+   },
+   {
+    "texto": "Y la tercera. Algo que viste, que oíste o que aprendiste. Una luz, una canción, una idea.",
+    "silencio_despues": 12,
+    "archivo": "c3-06-tres-cosas-buenas_b06.mp3",
+    "caracteres": 89,
+    "breaks": 0
+   },
+   {
+    "texto": "No se trata de ignorar lo difícil. Lo difícil también ha estado ahí, y mañana podrás atenderlo. Pero esta noche eliges quedarte con esto.",
+    "silencio_despues": 6,
+    "archivo": "c3-06-tres-cosas-buenas_b07.mp3",
+    "caracteres": 137,
+    "breaks": 0
+   },
+   {
+    "texto": "Tres cosas buenas. Guárdalas como quien guarda tres piedras pequeñas y suaves en el bolsillo.",
+    "silencio_despues": 12,
+    "archivo": "c3-06-tres-cosas-buenas_b08.mp3",
+    "caracteres": 93,
+    "breaks": 0
+   },
+   {
+    "texto": "Deja que el cuerpo se haga pesado. Que la respiración se haga lenta.",
+    "silencio_despues": 6,
+    "archivo": "c3-06-tres-cosas-buenas_b09.mp3",
+    "caracteres": 68,
+    "breaks": 0
+   },
+   {
+    "texto": "Hoy ha sido suficiente. Tú has sido suficiente.",
+    "silencio_despues": 12,
+    "archivo": "c3-06-tres-cosas-buenas_b10.mp3",
+    "caracteres": 47,
+    "breaks": 0
+   },
+   {
+    "texto": "Descansa. Mañana será otro día.",
+    "silencio_despues": 0,
+    "archivo": "c3-06-tres-cosas-buenas_b11.mp3",
+    "caracteres": 31,
+    "breaks": 0
+   }
+  ]
+ }
+]
