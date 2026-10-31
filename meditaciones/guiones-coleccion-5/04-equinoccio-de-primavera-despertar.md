@@ -1,6 +1,6 @@
 # Pista 4 — Equinoccio de primavera: despertar
 
-- **Duración estimada:** Unos 4 minutos con los silencios
+- **Duración estimada:** Unos 3 minutos con los silencios
 - **Ambiente sonoro:** Flauta y arpa en 432 Hz con pájaros suaves al fondo, sensación de mañana fresca.
 - **Promesa editorial:** Acompañar el despertar de la primavera con atención a lo que empieza a crecer.
 

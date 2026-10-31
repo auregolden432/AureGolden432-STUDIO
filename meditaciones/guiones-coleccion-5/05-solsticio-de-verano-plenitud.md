@@ -1,6 +1,6 @@
 # Pista 5 — Solsticio de verano: plenitud
 
-- **Duración estimada:** Unos 4 minutos con los silencios
+- **Duración estimada:** Unos 3 minutos con los silencios
 - **Ambiente sonoro:** Cuerdas cálidas y luminosas en 432 Hz, cigarras lejanas, sensación de tarde larga de verano.
 - **Promesa editorial:** Celebrar la luz y disfrutar de lo que ya está en flor.
 

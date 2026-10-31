@@ -1,6 +1,6 @@
 # Pista 6 — Equinoccio de otoño: cosechar
 
-- **Duración estimada:** Unos 4 minutos con los silencios
+- **Duración estimada:** Unos 3 minutos con los silencios
 - **Ambiente sonoro:** Guitarra suave y viento entre hojas secas en 432 Hz, tonos cálidos y ocres.
 - **Promesa editorial:** Agradecer lo cosechado y prepararse para un ritmo más lento.
 

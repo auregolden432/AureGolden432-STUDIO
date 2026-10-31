@@ -1,6 +1,6 @@
 # Pista 2 — Luna nueva: sembrar
 
-- **Duración estimada:** Unos 4 minutos con los silencios
+- **Duración estimada:** Unos 3 minutos con los silencios
 - **Ambiente sonoro:** Drone oscuro y suave en 432 Hz, sonidos nocturnos lejanos, mucha calma.
 - **Promesa editorial:** Usar la luna nueva como símbolo para empezar algo pequeño.
 

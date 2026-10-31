@@ -1,6 +1,6 @@
 # Pista 7 — Solsticio de invierno: la luz que vuelve
 
-- **Duración estimada:** Unos 4 minutos con los silencios
+- **Duración estimada:** Unos 3 minutos con los silencios
 - **Ambiente sonoro:** Piano lento y campanas lejanas en 432 Hz, sensación de recogimiento y calidez interior.
 - **Promesa editorial:** Descansar en la noche más larga y recibir la luz que empieza a volver.
 

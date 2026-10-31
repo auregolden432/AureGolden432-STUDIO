@@ -1,6 +1,6 @@
 # Pista 3 — Luna llena: soltar
 
-- **Duración estimada:** Unos 4 minutos con los silencios
+- **Duración estimada:** Unos 3 minutos con los silencios
 - **Ambiente sonoro:** Pads luminosos en 432 Hz, sensación de claridad nocturna y espacio abierto.
 - **Promesa editorial:** Usar la luna llena como símbolo para reconocer lo vivido y soltar lo que pesa.
 

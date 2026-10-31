@@ -1,6 +1,6 @@
 # Pista 1 — Año nuevo: una intención sencilla
 
-- **Duración estimada:** Unos 4 minutos con los silencios
+- **Duración estimada:** Unos 3 minutos con los silencios
 - **Ambiente sonoro:** Campanas suaves y cuencos en 432 Hz, sensación de comienzo y de amplitud.
 - **Promesa editorial:** Empezar el año con una intención amable en lugar de una lista de exigencias.
 
