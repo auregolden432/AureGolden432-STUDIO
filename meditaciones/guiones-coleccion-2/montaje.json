@@ -1,0 +1,541 @@
+[
+ {
+  "n": 1,
+  "titulo": "El sonido que te habita",
+  "slug": "el-sonido-que-te-habita",
+  "duracion": "Unos 5 minutos con los silencios",
+  "ambiente": "Cuenco suave afinado en 432 Hz al inicio y al final, drone cálido y continuo.",
+  "promesa": "Usar la escucha y un murmullo sencillo como puerta de vuelta al cuerpo. Acompaña al Vol. I, El Poder del Sonido Sagrado.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Esta meditación acompaña al primer volumen de la Colección Áurea, El Poder del Sonido Sagrado. Busca una postura cómoda, con la espalda sostenida y los hombros sueltos. Si te apetece, cierra los ojos. <break time=\"2s\" /> Respira a tu ritmo. No hay nada que hacer todavía. Solo llegar.",
+    "silencio_despues": 6,
+    "archivo": "c2-01-el-sonido-que-te-habita_b01.mp3",
+    "caracteres": 309,
+    "breaks": 1
+   },
+   {
+    "texto": "Hoy vamos a escuchar. Parece sencillo, pero casi nunca lo hacemos de verdad. Oímos todo el día, sí. Escuchar es otra cosa: es prestar atención al sonido sin ponerle nombre de inmediato. <break time=\"2s\" /> Empieza por el sonido más lejano que puedas percibir. Puede ser la calle, el viento, una voz al otro lado de una pared. No lo juzgues. Solo nota que está ahí.",
+    "silencio_despues": 6,
+    "archivo": "c2-01-el-sonido-que-te-habita_b02.mp3",
+    "caracteres": 364,
+    "breaks": 1
+   },
+   {
+    "texto": "Ahora acerca la atención. Busca un sonido más próximo: la música de fondo, <break time=\"1s\" /> el aire de la habitación, quizá el leve rumor de tu propia respiración.",
+    "silencio_despues": 6,
+    "archivo": "c2-01-el-sonido-que-te-habita_b03.mp3",
+    "caracteres": 166,
+    "breaks": 1
+   },
+   {
+    "texto": "Y ahora, más cerca todavía. Hay un sonido que te acompaña siempre y que rara vez escuchas: el de tu propio cuerpo. El aire entrando por la nariz. El pequeño silencio entre una respiración y la siguiente.",
+    "silencio_despues": 12,
+    "archivo": "c2-01-el-sonido-que-te-habita_b04.mp3",
+    "caracteres": 203,
+    "breaks": 0
+   },
+   {
+    "texto": "Durante miles de años, muchas culturas han usado la voz para serenarse: cantos, mantras, nanas. Hoy te propongo algo muy sencillo. En tu próxima espiración, con la boca cerrada, <break time=\"1s\" /> deja salir un murmullo suave, como una eme larga. Sin esforzarte. Sin buscar una nota concreta.",
+    "silencio_despues": 6,
+    "archivo": "c2-01-el-sonido-que-te-habita_b05.mp3",
+    "caracteres": 293,
+    "breaks": 1
+   },
+   {
+    "texto": "Nota dónde vibra ese sonido. Quizá en los labios. Quizá en la nariz, en el pecho, en la cabeza. No hay una respuesta correcta. Solo observa. <break time=\"2s\" /> Repítelo dos o tres veces más, a tu ritmo. Deja que cada murmullo dure un poco más que el anterior, sin forzar.",
+    "silencio_despues": 12,
+    "archivo": "c2-01-el-sonido-que-te-habita_b06.mp3",
+    "caracteres": 272,
+    "breaks": 1
+   },
+   {
+    "texto": "Al alargar la espiración de esta manera, <break time=\"1s\" /> a muchas personas les resulta más fácil bajar el ritmo y soltar tensión. No es magia. Es tu cuerpo respondiendo a un gesto sencillo y antiguo. <break time=\"2s\" /> Ahora vuelve al silencio. Escucha cómo suena el espacio después del murmullo. A veces, el silencio que llega después de un sonido es más profundo que el de antes.",
+    "silencio_despues": 6,
+    "archivo": "c2-01-el-sonido-que-te-habita_b07.mp3",
+    "caracteres": 386,
+    "breaks": 2
+   },
+   {
+    "texto": "Quédate un momento en ese silencio. No tienes que llenarlo de nada.",
+    "silencio_despues": 12,
+    "archivo": "c2-01-el-sonido-que-te-habita_b08.mp3",
+    "caracteres": 67,
+    "breaks": 0
+   },
+   {
+    "texto": "Poco a poco, vuelve a abrir la escucha hacia fuera: los sonidos cercanos, <break time=\"1s\" /> los lejanos, el lugar donde estás. <break time=\"2s\" /> Mueve suavemente las manos y los pies. Cuando quieras, abre los ojos. <break time=\"2s\" /> Llévate este gesto sencillo: cuando el día se acelere, <break time=\"1s\" /> una espiración larga y un murmullo suave pueden ser tu manera de volver. Gracias por escuchar.",
+    "silencio_despues": 0,
+    "archivo": "c2-01-el-sonido-que-te-habita_b09.mp3",
+    "caracteres": 408,
+    "breaks": 4
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "titulo": "La espiral áurea",
+  "slug": "la-espiral-aurea",
+  "duracion": "Unos 5 minutos con los silencios",
+  "ambiente": "Arpa y cuerdas en 432 Hz con un motivo que crece poco a poco, sensación de apertura.",
+  "promesa": "Descubrir el orden y la belleza de las formas que crecen en armonía. Acompaña al Vol. II, Geometría del Cosmos.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Esta meditación acompaña al segundo volumen de la Colección Áurea, Geometría del Cosmos. Acomódate. Deja que tu respiración encuentre su propio ritmo, sin dirigirla.",
+    "silencio_despues": 6,
+    "archivo": "c2-02-la-espiral-aurea_b01.mp3",
+    "caracteres": 190,
+    "breaks": 0
+   },
+   {
+    "texto": "Hoy vamos a mirar formas. No con los ojos, sino con la imaginación. <break time=\"2s\" /> Imagina que tienes entre las manos una caracola. Siente su peso, su superficie fresca y lisa. Recorre su forma con la mirada: una curva que empieza muy pequeña en el centro y se va abriendo, <break time=\"1s\" /> vuelta a vuelta, sin romperse nunca.",
+    "silencio_despues": 6,
+    "archivo": "c2-02-la-espiral-aurea_b02.mp3",
+    "caracteres": 335,
+    "breaks": 2
+   },
+   {
+    "texto": "Esa forma, una espiral que crece sin cambiar de figura, <break time=\"1s\" /> aparece en muchos lugares de la naturaleza. En algunas conchas. En la disposición de las semillas de un girasol. En la manera en que ciertas plantas colocan sus hojas para recibir la luz. <break time=\"2s\" /> Los matemáticos la relacionan con una proporción muy antigua, <break time=\"1s\" /> la proporción áurea, de aproximadamente uno coma seis. No hace falta recordar el número. Basta con quedarse con la idea: crecer manteniendo la armonía.",
+    "silencio_despues": 12,
+    "archivo": "c2-02-la-espiral-aurea_b03.mp3",
+    "caracteres": 517,
+    "breaks": 3
+   },
+   {
+    "texto": "Ahora imagina que esa espiral empieza en el centro de tu pecho, <break time=\"1s\" /> como un punto de luz dorada muy pequeño. <break time=\"2s\" /> Con cada espiración, la espiral da una vuelta más y se abre un poco. Sin prisa. Cada vuelta, un poco más amplia que la anterior.",
+    "silencio_despues": 6,
+    "archivo": "c2-02-la-espiral-aurea_b04.mp3",
+    "caracteres": 273,
+    "breaks": 2
+   },
+   {
+    "texto": "Deja que llegue hasta los hombros. Hasta los brazos. Hasta las manos.",
+    "silencio_despues": 6,
+    "archivo": "c2-02-la-espiral-aurea_b05.mp3",
+    "caracteres": 69,
+    "breaks": 0
+   },
+   {
+    "texto": "Y ahora hacia abajo: el abdomen, las caderas, las piernas, los pies. Una espiral dorada que te envuelve con suavidad, sin apretar.",
+    "silencio_despues": 12,
+    "archivo": "c2-02-la-espiral-aurea_b06.mp3",
+    "caracteres": 130,
+    "breaks": 0
+   },
+   {
+    "texto": "Hay algo tranquilizador en las formas que crecen así. No crecen a saltos ni a la fuerza. Cada vuelta se apoya en la anterior. Quizá tu propio crecimiento funciona de ese modo: poco a poco, <break time=\"1s\" /> apoyándose en todo lo que ya has vivido.",
+    "silencio_despues": 6,
+    "archivo": "c2-02-la-espiral-aurea_b07.mp3",
+    "caracteres": 249,
+    "breaks": 1
+   },
+   {
+    "texto": "Ahora deja que la espiral se recoja despacio, vuelta a vuelta, <break time=\"1s\" /> hasta convertirse de nuevo en un pequeño punto de luz en el centro de tu pecho.",
+    "silencio_despues": 6,
+    "archivo": "c2-02-la-espiral-aurea_b08.mp3",
+    "caracteres": 162,
+    "breaks": 1
+   },
+   {
+    "texto": "Quédate un momento con ese punto. Pequeño, tranquilo, presente.",
+    "silencio_despues": 12,
+    "archivo": "c2-02-la-espiral-aurea_b09.mp3",
+    "caracteres": 63,
+    "breaks": 0
+   },
+   {
+    "texto": "Poco a poco, vuelve al lugar donde estás. Nota el contacto de tu cuerpo con la superficie que te sostiene. <break time=\"2s\" /> Cuando salgas hoy, si ves una hoja, una flor o una concha, <break time=\"1s\" /> mírala un segundo más de lo habitual. Gracias por estos minutos.",
+    "silencio_despues": 0,
+    "archivo": "c2-02-la-espiral-aurea_b10.mp3",
+    "caracteres": 270,
+    "breaks": 2
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "titulo": "Observar la mente",
+  "slug": "observar-la-mente",
+  "duracion": "Unos 5 minutos con los silencios",
+  "ambiente": "Pads muy espaciosos en 432 Hz, casi inmóviles, con mucho aire entre las notas.",
+  "promesa": "Mirar los pensamientos sin quedarse atrapado en ellos. Acompaña al Vol. III, Mapas de la Consciencia.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Esta meditación acompaña al tercer volumen de la Colección Áurea, Mapas de la Consciencia. Busca una postura en la que puedas estar despierto y cómodo a la vez. Ni rígido ni desplomado. Si quieres, cierra los ojos. <break time=\"2s\" /> Deja que la respiración vaya sola.",
+    "silencio_despues": 6,
+    "archivo": "c2-03-observar-la-mente_b01.mp3",
+    "caracteres": 294,
+    "breaks": 1
+   },
+   {
+    "texto": "Hoy vamos a hacer algo que parece muy simple: mirar lo que pasa en la mente. No para controlarlo. Solo para conocerlo un poco mejor. <break time=\"2s\" /> Durante unos momentos, simplemente observa. Es muy probable que aparezcan pensamientos. Un recuerdo, una tarea pendiente, una conversación, una imagen. Es lo normal. La mente piensa igual que el corazón late.",
+    "silencio_despues": 6,
+    "archivo": "c2-03-observar-la-mente_b02.mp3",
+    "caracteres": 361,
+    "breaks": 1
+   },
+   {
+    "texto": "Te propongo un pequeño juego. Cada vez que notes algo, ponle una etiqueta sencilla, en silencio. Si es un pensamiento, di para ti: pensando. Si es un sonido: oyendo. Si es una sensación del cuerpo: sintiendo. <break time=\"2s\" /> No hace falta acertar. La etiqueta es solo una forma de dar un paso atrás.",
+    "silencio_despues": 12,
+    "archivo": "c2-03-observar-la-mente_b03.mp3",
+    "caracteres": 303,
+    "breaks": 1
+   },
+   {
+    "texto": "Quizá notes que, al nombrar un pensamiento, pierde un poco de fuerza. Sigue ahí, pero ya no te arrastra igual. Es como pasar de estar dentro de una película a verla desde la butaca.",
+    "silencio_despues": 6,
+    "archivo": "c2-03-observar-la-mente_b04.mp3",
+    "caracteres": 181,
+    "breaks": 0
+   },
+   {
+    "texto": "Imagina ahora que tu mente es un cielo amplio. Los pensamientos son pájaros que lo cruzan. Algunos pasan rápido. Otros dan vueltas. Algunos se posan un momento. Tú no eres los pájaros. Eres el cielo que los deja pasar.",
+    "silencio_despues": 12,
+    "archivo": "c2-03-observar-la-mente_b05.mp3",
+    "caracteres": 218,
+    "breaks": 0
+   },
+   {
+    "texto": "A veces te darás cuenta de que llevas un rato perdido en un pensamiento. Eso no es un error. Ese momento de darte cuenta es, precisamente, la práctica. Cada vez que vuelves, entrenas la atención.",
+    "silencio_despues": 6,
+    "archivo": "c2-03-observar-la-mente_b06.mp3",
+    "caracteres": 195,
+    "breaks": 0
+   },
+   {
+    "texto": "Las tradiciones contemplativas y la investigación actual coinciden en algo modesto pero importante: la atención se puede entrenar, <break time=\"1s\" /> como cualquier otra habilidad, con paciencia y repetición. <break time=\"2s\" /> Hoy no necesitas lograr una mente en blanco. Solo necesitas mirar.",
+    "silencio_despues": 12,
+    "archivo": "c2-03-observar-la-mente_b07.mp3",
+    "caracteres": 296,
+    "breaks": 2
+   },
+   {
+    "texto": "Poco a poco, deja de etiquetar. Vuelve a sentir el cuerpo entero, aquí. <break time=\"2s\" /> Nota los sonidos del lugar. La luz detrás de los párpados. <break time=\"2s\" /> Cuando quieras, abre los ojos. Llévate contigo un poco de ese cielo amplio. Gracias por tu atención.",
+    "silencio_despues": 0,
+    "archivo": "c2-03-observar-la-mente_b08.mp3",
+    "caracteres": 271,
+    "breaks": 2
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "titulo": "La mirada desde lo alto",
+  "slug": "la-mirada-desde-lo-alto",
+  "duracion": "Unos 5 minutos con los silencios",
+  "ambiente": "Flauta suave y drone grave en 432 Hz, sensación de amplitud y de altura.",
+  "promesa": "Ganar perspectiva con un ejercicio de la filosofía antigua. Acompaña al Vol. IV, Sabiduría Antigua.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Esta meditación acompaña al cuarto volumen de la Colección Áurea, Sabiduría Antigua. Acomódate y deja que el cuerpo se asiente. Respira sin prisa.",
+    "silencio_despues": 6,
+    "archivo": "c2-04-la-mirada-desde-lo-alto_b01.mp3",
+    "caracteres": 171,
+    "breaks": 0
+   },
+   {
+    "texto": "Los filósofos de la Antigüedad no solo escribían teorías. También practicaban ejercicios para vivir mejor. Uno de ellos, que el historiador Pierre Hadot llamó la mirada desde lo alto, <break time=\"1s\" /> consistía en imaginar el mundo visto desde arriba. <break time=\"2s\" /> Vamos a practicarlo juntos.",
+    "silencio_despues": 6,
+    "archivo": "c2-04-la-mirada-desde-lo-alto_b02.mp3",
+    "caracteres": 302,
+    "breaks": 2
+   },
+   {
+    "texto": "Imagina el lugar exacto donde estás ahora. La habitación, tu cuerpo, los objetos a tu alrededor. Visualízalo con calma.",
+    "silencio_despues": 6,
+    "archivo": "c2-04-la-mirada-desde-lo-alto_b03.mp3",
+    "caracteres": 119,
+    "breaks": 0
+   },
+   {
+    "texto": "Ahora imagina que te elevas despacio, unos metros por encima del techo. Ves el edificio, la calle, quizá algunos árboles y personas caminando.",
+    "silencio_despues": 6,
+    "archivo": "c2-04-la-mirada-desde-lo-alto_b04.mp3",
+    "caracteres": 142,
+    "breaks": 0
+   },
+   {
+    "texto": "Sigue subiendo. Ahora ves el barrio entero. Las calles se cruzan como líneas finas. Hay luces, tejados, plazas. En cada casa hay alguien con sus propias preocupaciones, sus alegrías, sus días.",
+    "silencio_despues": 12,
+    "archivo": "c2-04-la-mirada-desde-lo-alto_b05.mp3",
+    "caracteres": 192,
+    "breaks": 0
+   },
+   {
+    "texto": "Sube un poco más. La ciudad se convierte en un mosaico de formas y colores. Los ríos, los campos, las montañas. Las nubes pasan por debajo de ti.",
+    "silencio_despues": 6,
+    "archivo": "c2-04-la-mirada-desde-lo-alto_b06.mp3",
+    "caracteres": 145,
+    "breaks": 0
+   },
+   {
+    "texto": "Y más arriba todavía. Ves la curva del planeta, azul y blanco, suspendido en la oscuridad. Todo lo que conoces está ahí abajo.",
+    "silencio_despues": 12,
+    "archivo": "c2-04-la-mirada-desde-lo-alto_b07.mp3",
+    "caracteres": 126,
+    "breaks": 0
+   },
+   {
+    "texto": "Desde aquí, piensa en algo que te preocupe estos días. No para resolverlo. Solo para mirarlo desde esta distancia. <break time=\"2s\" /> Quizá sigue siendo importante. Muchas cosas lo son. Pero tal vez ocupa un poco menos de espacio que antes. Tal vez ahora ves que forma parte de algo mucho más grande.",
+    "silencio_despues": 12,
+    "archivo": "c2-04-la-mirada-desde-lo-alto_b08.mp3",
+    "caracteres": 301,
+    "breaks": 1
+   },
+   {
+    "texto": "Los antiguos no usaban este ejercicio para despreciar la vida cotidiana, <break time=\"1s\" /> sino para volver a ella con más calma y con más claridad sobre lo que de verdad importa.",
+    "silencio_despues": 6,
+    "archivo": "c2-04-la-mirada-desde-lo-alto_b09.mp3",
+    "caracteres": 181,
+    "breaks": 1
+   },
+   {
+    "texto": "Ahora, despacio, empieza a descender. El planeta. Las nubes. La ciudad. Tu calle. Tu casa. La habitación.",
+    "silencio_despues": 6,
+    "archivo": "c2-04-la-mirada-desde-lo-alto_b10.mp3",
+    "caracteres": 105,
+    "breaks": 0
+   },
+   {
+    "texto": "Y tu cuerpo, aquí, respirando. <break time=\"2s\" /> Mueve suavemente las manos. Cuando quieras, abre los ojos. Llévate algo de esa perspectiva al resto de tu día. Gracias por acompañarme.",
+    "silencio_despues": 0,
+    "archivo": "c2-04-la-mirada-desde-lo-alto_b11.mp3",
+    "caracteres": 186,
+    "breaks": 1
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "titulo": "Escuchar el cuerpo",
+  "slug": "escuchar-el-cuerpo",
+  "duracion": "Unos 5 minutos con los silencios",
+  "ambiente": "Piano lento y pads cálidos en 432 Hz, ritmo muy pausado.",
+  "promesa": "Recorrer el cuerpo con atención amable, sin juzgar lo que encuentres. Acompaña al Vol. V, Bienestar Integral.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Esta meditación acompaña al quinto volumen de la Colección Áurea, Bienestar Integral. Si puedes, túmbate o siéntate de forma que el cuerpo quede bien apoyado. Cierra los ojos si te resulta cómodo. <break time=\"2s\" /> Respira con naturalidad.",
+    "silencio_despues": 6,
+    "archivo": "c2-05-escuchar-el-cuerpo_b01.mp3",
+    "caracteres": 266,
+    "breaks": 1
+   },
+   {
+    "texto": "Hoy vamos a recorrer el cuerpo con la atención, de los pies a la cabeza. No buscamos cambiar nada. Solo notar. A esta capacidad de sentir el interior del cuerpo se la llama interocepción y, <break time=\"1s\" /> como la atención, también se puede cultivar.",
+    "silencio_despues": 6,
+    "archivo": "c2-05-escuchar-el-cuerpo_b02.mp3",
+    "caracteres": 254,
+    "breaks": 1
+   },
+   {
+    "texto": "Empieza por los pies. Nota su temperatura. El contacto con el suelo, con la cama o con el calzado. Quizá notes hormigueo, presión, o casi nada. Cualquier cosa vale.",
+    "silencio_despues": 6,
+    "archivo": "c2-05-escuchar-el-cuerpo_b03.mp3",
+    "caracteres": 164,
+    "breaks": 0
+   },
+   {
+    "texto": "Sube a las piernas. Las pantorrillas, las rodillas, los muslos. Nota si hay tensión o si están sueltas. Si encuentras tensión, no la empujes. Solo respira cerca de ella.",
+    "silencio_despues": 6,
+    "archivo": "c2-05-escuchar-el-cuerpo_b04.mp3",
+    "caracteres": 169,
+    "breaks": 0
+   },
+   {
+    "texto": "Ahora la pelvis y la parte baja de la espalda. Siente el peso del cuerpo apoyado. Deja que la superficie te sostenga un poco más.",
+    "silencio_despues": 6,
+    "archivo": "c2-05-escuchar-el-cuerpo_b05.mp3",
+    "caracteres": 129,
+    "breaks": 0
+   },
+   {
+    "texto": "El abdomen. Observa cómo sube y baja con la respiración, sin que tengas que hacer nada.",
+    "silencio_despues": 12,
+    "archivo": "c2-05-escuchar-el-cuerpo_b06.mp3",
+    "caracteres": 87,
+    "breaks": 0
+   },
+   {
+    "texto": "El pecho. Los hombros. Muchas veces guardamos aquí las prisas del día. Si te apetece, deja caer los hombros un centímetro, lo justo para notar la diferencia.",
+    "silencio_despues": 6,
+    "archivo": "c2-05-escuchar-el-cuerpo_b07.mp3",
+    "caracteres": 157,
+    "breaks": 0
+   },
+   {
+    "texto": "Los brazos, los codos, las manos. Nota los dedos uno a uno, desde el pulgar hasta el meñique.",
+    "silencio_despues": 6,
+    "archivo": "c2-05-escuchar-el-cuerpo_b08.mp3",
+    "caracteres": 93,
+    "breaks": 0
+   },
+   {
+    "texto": "El cuello. La mandíbula. A menudo apretamos los dientes sin darnos cuenta. Deja que la mandíbula se afloje, con los labios apenas juntos.",
+    "silencio_despues": 6,
+    "archivo": "c2-05-escuchar-el-cuerpo_b09.mp3",
+    "caracteres": 137,
+    "breaks": 0
+   },
+   {
+    "texto": "La cara. Los ojos, la frente, el cuero cabelludo. Imagina que toda la cara se suaviza, como al recibir un poco de sol.",
+    "silencio_despues": 12,
+    "archivo": "c2-05-escuchar-el-cuerpo_b10.mp3",
+    "caracteres": 118,
+    "breaks": 0
+   },
+   {
+    "texto": "Ahora siente el cuerpo entero a la vez, como un todo que respira. No una lista de partes, sino un solo organismo vivo, aquí. <break time=\"2s\" /> Tu cuerpo te habla todo el día con señales pequeñas: cansancio, hambre, tensión, alivio. Escucharlo no sustituye el cuidado médico cuando hace falta, <break time=\"1s\" /> pero sí te ayuda a darte cuenta antes de lo que necesitas.",
+    "silencio_despues": 12,
+    "archivo": "c2-05-escuchar-el-cuerpo_b11.mp3",
+    "caracteres": 373,
+    "breaks": 2
+   },
+   {
+    "texto": "Poco a poco, empieza a mover suavemente los dedos de las manos y de los pies. Estira lo que te pida estirarse. <break time=\"2s\" /> Cuando quieras, abre los ojos. Gracias por dedicarte este tiempo.",
+    "silencio_despues": 0,
+    "archivo": "c2-05-escuchar-el-cuerpo_b12.mp3",
+    "caracteres": 196,
+    "breaks": 1
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "titulo": "Volver",
+  "slug": "volver",
+  "duracion": "Unos 5 minutos con los silencios",
+  "ambiente": "Cuenco en 432 Hz al inicio y al final, silencio amplio sostenido por un drone muy suave.",
+  "promesa": "Descubrir que meditar no es no distraerse, sino volver una y otra vez. Acompaña al Vol. VI, El Arte de Meditar.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Esta meditación acompaña al sexto volumen de la Colección Áurea, El Arte de Meditar. Siéntate con la espalda erguida pero sin rigidez, como una montaña tranquila. Apoya las manos donde estén cómodas. Si quieres, cierra los ojos.",
+    "silencio_despues": 6,
+    "archivo": "c2-06-volver_b01.mp3",
+    "caracteres": 253,
+    "breaks": 0
+   },
+   {
+    "texto": "Lleva la atención a la respiración, <break time=\"1s\" /> en el lugar donde la notes con más claridad: la nariz, el pecho o el abdomen. <break time=\"2s\" /> Vamos a usar una ayuda muy antigua: contar. Al espirar, cuenta en silencio uno. En la siguiente espiración, dos. Así hasta diez. Y después vuelve a empezar por uno.",
+    "silencio_despues": 12,
+    "archivo": "c2-06-volver_b02.mp3",
+    "caracteres": 318,
+    "breaks": 2
+   },
+   {
+    "texto": "Es muy probable que en algún momento pierdas la cuenta, <break time=\"1s\" /> o que llegues a quince sin darte cuenta. No pasa nada. Cuando lo notes, simplemente vuelve a uno.",
+    "silencio_despues": 12,
+    "archivo": "c2-06-volver_b03.mp3",
+    "caracteres": 173,
+    "breaks": 1
+   },
+   {
+    "texto": "Esto es lo que casi nadie cuenta sobre la meditación: no consiste en no distraerse. Consiste en volver. La mente se va, tú te das cuenta, y vuelves. Ese gesto, repetido mil veces, es la práctica.",
+    "silencio_despues": 6,
+    "archivo": "c2-06-volver_b04.mp3",
+    "caracteres": 195,
+    "breaks": 0
+   },
+   {
+    "texto": "Cada vez que vuelves, hazlo con amabilidad, <break time=\"1s\" /> como quien llama por su nombre a alguien querido que se ha alejado unos pasos. Sin reñir. Sin prisa.",
+    "silencio_despues": 12,
+    "archivo": "c2-06-volver_b05.mp3",
+    "caracteres": 164,
+    "breaks": 1
+   },
+   {
+    "texto": "Ahora, si te apetece, deja de contar. Quédate solo con la respiración, tal como es.",
+    "silencio_despues": 12,
+    "archivo": "c2-06-volver_b06.mp3",
+    "caracteres": 83,
+    "breaks": 0
+   },
+   {
+    "texto": "Y ahora suelta también la respiración como apoyo. Simplemente quédate aquí. Respirando. Escuchando. Sin hacer nada especial.",
+    "silencio_despues": 12,
+    "archivo": "c2-06-volver_b07.mp3",
+    "caracteres": 124,
+    "breaks": 0
+   },
+   {
+    "texto": "En la tradición zen se dice que sentarse a meditar es solo sentarse. Nada más. Ni conseguir un estado especial, ni alcanzar una meta. Solo estar presente con lo que hay.",
+    "silencio_despues": 6,
+    "archivo": "c2-06-volver_b08.mp3",
+    "caracteres": 169,
+    "breaks": 0
+   },
+   {
+    "texto": "Si en algún momento tu mente vuelve a irse, ya sabes lo que hacer. Volver.",
+    "silencio_despues": 12,
+    "archivo": "c2-06-volver_b09.mp3",
+    "caracteres": 74,
+    "breaks": 0
+   },
+   {
+    "texto": "Poco a poco, amplía la atención. Nota todo el cuerpo, los sonidos, el lugar. <break time=\"2s\" /> Mueve suavemente los hombros y el cuello. Cuando quieras, abre los ojos. <break time=\"2s\" /> Recuerda: cada vez que te das cuenta de que te has ido y vuelves, <break time=\"1s\" /> estás meditando. Gracias por practicar hoy.",
+    "silencio_despues": 0,
+    "archivo": "c2-06-volver_b10.mp3",
+    "caracteres": 319,
+    "breaks": 3
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "titulo": "Piezas de marca",
+  "slug": "piezas-de-marca",
+  "duracion": "7 piezas cortas, de 5 a 20 segundos",
+  "ambiente": "Sin música al generarlas. Se usan como intro, cierre y voz para Reels, Shorts y TikTok.",
+  "promesa": "Frases reutilizables con tu voz para todo el universo AureGolden432.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido a AureGolden432. Música y meditación en cuatrocientos treinta y dos hercios, para hacer una pausa.",
+    "silencio_despues": 0,
+    "archivo": "c2-marca_intro.mp3",
+    "caracteres": 122,
+    "breaks": 0
+   },
+   {
+    "texto": "Gracias por compartir este espacio con AureGolden432. Si esta pausa te ha servido, vuelve cuando lo necesites.",
+    "silencio_despues": 0,
+    "archivo": "c2-marca_cierre.mp3",
+    "caracteres": 110,
+    "breaks": 0
+   },
+   {
+    "texto": "Si quieres profundizar, encontrarás los seis libros de la Colección Áurea en auregolden cuatro tres dos punto com.",
+    "silencio_despues": 0,
+    "archivo": "c2-marca_libros-web.mp3",
+    "caracteres": 114,
+    "breaks": 0
+   },
+   {
+    "texto": "Treinta segundos para ti. Cierra los ojos. Respira. Y escucha el sonido más lejano que puedas oír.",
+    "silencio_despues": 0,
+    "archivo": "c2-marca_reel-30-segundos.mp3",
+    "caracteres": 98,
+    "breaks": 0
+   },
+   {
+    "texto": "En el siglo diecinueve, Giuseppe Verdi defendió una afinación de cuatrocientos treinta y dos hercios para cuidar la voz de los cantantes.",
+    "silencio_despues": 0,
+    "archivo": "c2-marca_reel-verdi.mp3",
+    "caracteres": 137,
+    "breaks": 0
+   },
+   {
+    "texto": "La abundancia empieza en la atención: en notar lo que ya existe, <break time=\"1s\" /> antes de buscar lo que falta.",
+    "silencio_despues": 0,
+    "archivo": "c2-marca_reel-abundancia.mp3",
+    "caracteres": 114,
+    "breaks": 1
+   },
+   {
+    "texto": "Meditar no es dejar la mente en blanco. Es darte cuenta de que te has ido, y volver.",
+    "silencio_despues": 0,
+    "archivo": "c2-marca_reel-volver.mp3",
+    "caracteres": 84,
+    "breaks": 0
+   }
+  ]
+ }
+]
