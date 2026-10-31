@@ -1,0 +1,481 @@
+[
+ {
+  "n": 1,
+  "titulo": "Siete notas, siete colores",
+  "slug": "siete-notas-siete-colores",
+  "duracion": "Unos 3 minutos",
+  "ambiente": "Escala de Do a Si en 432 Hz, muy lenta, una nota cada pocos segundos, sobre un drone suave.",
+  "promesa": "Presentar la colección y su enfoque honesto: un mapa simbólico para llevar la atención al cuerpo.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido a esta colección de AureGolden432: siete notas, siete colores. En la tradición del yoga se habla de los chakras, <break time=\"1s\" /> centros situados a lo largo de la columna, desde la base hasta la coronilla. No son órganos que se puedan ver en una radiografía. Son un mapa simbólico, muy antiguo, para recorrer el cuerpo con la atención. <break time=\"2s\" /> En tiempos más recientes, algunas corrientes han asociado a cada uno de esos centros un color del arcoíris y una nota de la escala musical: do, re, mi, fa, sol, la, si. Es una correspondencia moderna, no una ley de la naturaleza. Pero es una manera bonita de unir sonido, color y cuerpo.",
+    "silencio_despues": 6,
+    "archivo": "c4-01-siete-notas-siete-colores_b01.mp3",
+    "caracteres": 671,
+    "breaks": 2
+   },
+   {
+    "texto": "En cada meditación de esta colección escucharás una nota, <break time=\"1s\" /> imaginarás un color y llevarás la atención a una zona del cuerpo. No hace falta creer en nada. Solo escuchar, imaginar y notar. <break time=\"2s\" /> Puedes escucharlas en orden, de la primera a la séptima, <break time=\"1s\" /> como un recorrido de abajo arriba. O elegir cada día la que más te llame.",
+    "silencio_despues": 6,
+    "archivo": "c4-01-siete-notas-siete-colores_b02.mp3",
+    "caracteres": 376,
+    "breaks": 3
+   },
+   {
+    "texto": "Busca un lugar tranquilo, una postura cómoda y, cuando quieras, empezamos.",
+    "silencio_despues": 0,
+    "archivo": "c4-01-siete-notas-siete-colores_b03.mp3",
+    "caracteres": 74,
+    "breaks": 0
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "titulo": "Raíz · Do · Rojo",
+  "slug": "raiz-do-rojo",
+  "duracion": "Unos 5 minutos",
+  "ambiente": "Nota Do sostenida (unos 257 Hz en afinación de 432) con drone grave, cálido y estable.",
+  "promesa": "Sentir el apoyo y la estabilidad. Primer centro: raíz, nota Do, color rojo.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Esta es la primera nota del recorrido: do. El color, rojo. El lugar, la base del cuerpo. Siéntate con los dos pies apoyados en el suelo, o túmbate si lo prefieres. Cierra los ojos si te resulta cómodo.",
+    "silencio_despues": 6,
+    "archivo": "c4-02-raiz-do-rojo_b01.mp3",
+    "caracteres": 226,
+    "breaks": 0
+   },
+   {
+    "texto": "Lleva la atención a la parte más baja del cuerpo. Los pies. Las piernas. La pelvis apoyada en la silla o en el suelo. <break time=\"2s\" /> Nota el peso. La sensación de que algo firme te sostiene. La tierra, el suelo, la silla. No tienes que sostenerte solo.",
+    "silencio_despues": 12,
+    "archivo": "c4-02-raiz-do-rojo_b02.mp3",
+    "caracteres": 257,
+    "breaks": 1
+   },
+   {
+    "texto": "Escucha la nota do que suena de fondo. Una nota grave, estable, que no tiene prisa.",
+    "silencio_despues": 6,
+    "archivo": "c4-02-raiz-do-rojo_b03.mp3",
+    "caracteres": 83,
+    "breaks": 0
+   },
+   {
+    "texto": "Imagina ahora un color rojo, profundo y cálido, como las brasas de una chimenea. Imagina que ese color se asienta en la base de tu columna, tranquilo, sin quemar.",
+    "silencio_despues": 12,
+    "archivo": "c4-02-raiz-do-rojo_b04.mp3",
+    "caracteres": 162,
+    "breaks": 0
+   },
+   {
+    "texto": "En la tradición, este centro se relaciona con la seguridad, <break time=\"1s\" /> con sentir que tienes un lugar en el mundo. Quizá hoy te sientes firme. Quizá no tanto. Las dos cosas están bien. <break time=\"2s\" /> Solo nota qué te sostiene en tu vida ahora mismo. Una persona. Un lugar. Una costumbre. Una parte de ti.",
+    "silencio_despues": 12,
+    "archivo": "c4-02-raiz-do-rojo_b05.mp3",
+    "caracteres": 318,
+    "breaks": 2
+   },
+   {
+    "texto": "Respira hacia abajo, como si el aire llegara hasta los pies. Siente cómo el cuerpo se asienta un poco más con cada espiración.",
+    "silencio_despues": 12,
+    "archivo": "c4-02-raiz-do-rojo_b06.mp3",
+    "caracteres": 126,
+    "breaks": 0
+   },
+   {
+    "texto": "Poco a poco, deja que el color rojo se quede ahí, <break time=\"1s\" /> en la base, como un fuego pequeño y tranquilo. <break time=\"2s\" /> Cuando quieras, abre los ojos y apoya bien los pies. Gracias por empezar el recorrido.",
+    "silencio_despues": 0,
+    "archivo": "c4-02-raiz-do-rojo_b07.mp3",
+    "caracteres": 223,
+    "breaks": 2
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "titulo": "Sacro · Re · Naranja",
+  "slug": "sacro-re-naranja",
+  "duracion": "Unos 5 minutos",
+  "ambiente": "Nota Re sostenida (unos 288 Hz en afinación de 432), con texturas de agua suave.",
+  "promesa": "Conectar con el fluir y la creatividad. Segundo centro: sacro, nota Re, color naranja.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Segunda nota del recorrido: re. El color, naranja. El lugar, la parte baja del abdomen. Acomódate. Deja que la respiración vaya a su ritmo.",
+    "silencio_despues": 6,
+    "archivo": "c4-03-sacro-re-naranja_b01.mp3",
+    "caracteres": 164,
+    "breaks": 0
+   },
+   {
+    "texto": "Lleva la atención a la zona que queda un poco por debajo del ombligo. Nota cómo se mueve suavemente al respirar.",
+    "silencio_despues": 12,
+    "archivo": "c4-03-sacro-re-naranja_b02.mp3",
+    "caracteres": 112,
+    "breaks": 0
+   },
+   {
+    "texto": "Escucha la nota re. Un poco más alta que la anterior, como un paso hacia arriba en la escalera.",
+    "silencio_despues": 6,
+    "archivo": "c4-03-sacro-re-naranja_b03.mp3",
+    "caracteres": 95,
+    "breaks": 0
+   },
+   {
+    "texto": "Imagina un color naranja, como la luz del atardecer reflejada en el agua. Imagina que ese color se mueve despacio en tu abdomen, <break time=\"1s\" /> como un agua tibia que fluye.",
+    "silencio_despues": 12,
+    "archivo": "c4-03-sacro-re-naranja_b04.mp3",
+    "caracteres": 178,
+    "breaks": 1
+   },
+   {
+    "texto": "En la tradición, este centro se asocia con el movimiento, <break time=\"1s\" /> el placer sencillo y la creatividad. Con la capacidad de fluir en lugar de forzar. <break time=\"2s\" /> Piensa en algo que disfrutas haciendo sin que nadie te lo pida. Cantar, cocinar, caminar, dibujar, tocar un instrumento. Algo que te hace perder la noción del tiempo.",
+    "silencio_despues": 12,
+    "archivo": "c4-03-sacro-re-naranja_b05.mp3",
+    "caracteres": 347,
+    "breaks": 2
+   },
+   {
+    "texto": "Si quieres, mueve un poco las caderas, en círculos muy pequeños, <break time=\"1s\" /> como el agua que se balancea en un recipiente. Sin esfuerzo.",
+    "silencio_despues": 6,
+    "archivo": "c4-03-sacro-re-naranja_b06.mp3",
+    "caracteres": 145,
+    "breaks": 1
+   },
+   {
+    "texto": "Deja que la respiración sea como una ola tranquila en esa zona.",
+    "silencio_despues": 12,
+    "archivo": "c4-03-sacro-re-naranja_b07.mp3",
+    "caracteres": 63,
+    "breaks": 0
+   },
+   {
+    "texto": "Poco a poco, deja que el color naranja se quede ahí, suave, en movimiento. <break time=\"2s\" /> Cuando quieras, vuelve al lugar donde estás. Gracias por estos minutos.",
+    "silencio_despues": 0,
+    "archivo": "c4-03-sacro-re-naranja_b08.mp3",
+    "caracteres": 166,
+    "breaks": 1
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "titulo": "Plexo solar · Mi · Amarillo",
+  "slug": "plexo-solar-mi-amarillo",
+  "duracion": "Unos 5 minutos",
+  "ambiente": "Nota Mi sostenida (unos 324 Hz en afinación de 432), luminosa, con un pulso muy lento.",
+  "promesa": "Encontrar la fuerza tranquila de la propia voluntad. Tercer centro: plexo solar, nota Mi, color amarillo.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Tercera nota: mi. El color, amarillo. El lugar, la boca del estómago, justo por encima del ombligo. Siéntate con la espalda erguida pero sin rigidez.",
+    "silencio_despues": 6,
+    "archivo": "c4-04-plexo-solar-mi-amarillo_b01.mp3",
+    "caracteres": 174,
+    "breaks": 0
+   },
+   {
+    "texto": "Lleva una mano a la zona entre el ombligo y el esternón, si te apetece. Nota cómo sube y baja con la respiración.",
+    "silencio_despues": 12,
+    "archivo": "c4-04-plexo-solar-mi-amarillo_b02.mp3",
+    "caracteres": 113,
+    "breaks": 0
+   },
+   {
+    "texto": "Escucha la nota mi. Clara, luminosa.",
+    "silencio_despues": 6,
+    "archivo": "c4-04-plexo-solar-mi-amarillo_b03.mp3",
+    "caracteres": 36,
+    "breaks": 0
+   },
+   {
+    "texto": "Imagina un pequeño sol amarillo en ese punto. No un sol que quema, sino uno que calienta, <break time=\"1s\" /> como el de una mañana de primavera.",
+    "silencio_despues": 12,
+    "archivo": "c4-04-plexo-solar-mi-amarillo_b04.mp3",
+    "caracteres": 145,
+    "breaks": 1
+   },
+   {
+    "texto": "En la tradición, este centro se relaciona con la fuerza personal y la confianza para actuar. No la fuerza que empuja a los demás, <break time=\"1s\" /> sino la que te permite dar un paso aunque tengas dudas. <break time=\"2s\" /> Piensa en una pequeña decisión que tengas pendiente. No necesitas tomarla ahora. Solo imagina cómo te sentirías al dar el primer paso.",
+    "silencio_despues": 12,
+    "archivo": "c4-04-plexo-solar-mi-amarillo_b05.mp3",
+    "caracteres": 360,
+    "breaks": 2
+   },
+   {
+    "texto": "Muchas veces guardamos tensión en esta zona: un nudo en el estómago cuando algo nos preocupa. Respira hacia ahí con suavidad, sin intentar deshacer el nudo a la fuerza.",
+    "silencio_despues": 12,
+    "archivo": "c4-04-plexo-solar-mi-amarillo_b06.mp3",
+    "caracteres": 168,
+    "breaks": 0
+   },
+   {
+    "texto": "Deja que el pequeño sol siga brillando, tranquilo, en el centro de tu cuerpo. <break time=\"2s\" /> Cuando quieras, abre los ojos. Llévate un poco de esa luz al resto del día. Gracias.",
+    "silencio_despues": 0,
+    "archivo": "c4-04-plexo-solar-mi-amarillo_b07.mp3",
+    "caracteres": 182,
+    "breaks": 1
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "titulo": "Corazón · Fa · Verde",
+  "slug": "corazon-fa-verde",
+  "duracion": "Unos 5 minutos",
+  "ambiente": "Nota Fa sostenida (unos 343 Hz en afinación de 432), con cuerdas cálidas y abiertas.",
+  "promesa": "Abrir espacio a la amabilidad, hacia los demás y hacia uno mismo. Cuarto centro: corazón, nota Fa, color verde.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Cuarta nota, justo en el centro de la escala: fa. El color, verde. El lugar, el centro del pecho. Acomódate. Si quieres, apoya una mano sobre el pecho.",
+    "silencio_despues": 6,
+    "archivo": "c4-05-corazon-fa-verde_b01.mp3",
+    "caracteres": 176,
+    "breaks": 0
+   },
+   {
+    "texto": "Siente cómo el pecho se expande al inhalar y se recoge al espirar. Quizá notes también el latido, suave, constante.",
+    "silencio_despues": 12,
+    "archivo": "c4-05-corazon-fa-verde_b02.mp3",
+    "caracteres": 115,
+    "breaks": 0
+   },
+   {
+    "texto": "Escucha la nota fa. Está en el centro del recorrido: tres notas por debajo, tres por encima. Como el corazón, en el centro.",
+    "silencio_despues": 6,
+    "archivo": "c4-05-corazon-fa-verde_b03.mp3",
+    "caracteres": 123,
+    "breaks": 0
+   },
+   {
+    "texto": "Imagina un color verde, como el de las hojas nuevas en primavera. Un verde fresco y vivo que se extiende por el pecho.",
+    "silencio_despues": 12,
+    "archivo": "c4-05-corazon-fa-verde_b04.mp3",
+    "caracteres": 118,
+    "breaks": 0
+   },
+   {
+    "texto": "En la tradición, este centro se asocia con el amor, <break time=\"1s\" /> la compasión y la conexión con los demás. <break time=\"2s\" /> Piensa en una persona a la que quieres. Visualiza su cara. Y en silencio, deséale algo sencillo: que esté bien. Que tenga un buen día.",
+    "silencio_despues": 12,
+    "archivo": "c4-05-corazon-fa-verde_b05.mp3",
+    "caracteres": 268,
+    "breaks": 2
+   },
+   {
+    "texto": "Ahora, si te resulta posible, dirige ese mismo deseo hacia ti. Que yo esté bien. Que me trate con amabilidad. A veces es lo más difícil, y por eso merece la pena practicarlo.",
+    "silencio_despues": 12,
+    "archivo": "c4-05-corazon-fa-verde_b06.mp3",
+    "caracteres": 174,
+    "breaks": 0
+   },
+   {
+    "texto": "Deja que el verde llene el pecho con cada respiración.",
+    "silencio_despues": 6,
+    "archivo": "c4-05-corazon-fa-verde_b07.mp3",
+    "caracteres": 54,
+    "breaks": 0
+   },
+   {
+    "texto": "Poco a poco, vuelve al lugar donde estás, <break time=\"1s\" /> con la mano todavía en el pecho si lo deseas. <break time=\"2s\" /> Cuando quieras, abre los ojos. Gracias por este momento de amabilidad.",
+    "silencio_despues": 0,
+    "archivo": "c4-05-corazon-fa-verde_b08.mp3",
+    "caracteres": 198,
+    "breaks": 2
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "titulo": "Garganta · Sol · Azul",
+  "slug": "garganta-sol-azul",
+  "duracion": "Unos 5 minutos",
+  "ambiente": "Nota Sol sostenida (unos 385 Hz en afinación de 432), con un coro suave sin palabras.",
+  "promesa": "Cuidar la propia voz y la manera de expresarse. Quinto centro: garganta, nota Sol, color azul.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Quinta nota: sol. El color, azul. El lugar, la garganta. Siéntate con comodidad, con el cuello largo y los hombros sueltos.",
+    "silencio_despues": 6,
+    "archivo": "c4-06-garganta-sol-azul_b01.mp3",
+    "caracteres": 148,
+    "breaks": 0
+   },
+   {
+    "texto": "Lleva la atención a la garganta. Nota el aire que pasa por ella al respirar, fresco al entrar, tibio al salir.",
+    "silencio_despues": 12,
+    "archivo": "c4-06-garganta-sol-azul_b02.mp3",
+    "caracteres": 110,
+    "breaks": 0
+   },
+   {
+    "texto": "Escucha la nota sol. Brillante y clara, como una voz que se abre.",
+    "silencio_despues": 6,
+    "archivo": "c4-06-garganta-sol-azul_b03.mp3",
+    "caracteres": 65,
+    "breaks": 0
+   },
+   {
+    "texto": "Imagina un color azul, como un cielo despejado de mediodía. Imagina que ese azul envuelve tu garganta y la suaviza.",
+    "silencio_despues": 12,
+    "archivo": "c4-06-garganta-sol-azul_b04.mp3",
+    "caracteres": 115,
+    "breaks": 0
+   },
+   {
+    "texto": "En la tradición, este centro se relaciona con la expresión: decir lo que piensas y sientes, <break time=\"1s\" /> con honestidad y con cuidado. <break time=\"2s\" /> Piensa en algo que te gustaría decir y que todavía no has dicho. A alguien, o a ti mismo. No tienes que decirlo hoy. Solo reconoce que está ahí.",
+    "silencio_despues": 12,
+    "archivo": "c4-06-garganta-sol-azul_b05.mp3",
+    "caracteres": 306,
+    "breaks": 2
+   },
+   {
+    "texto": "Si te apetece, en tu próxima espiración, deja salir un sonido suave, <break time=\"1s\" /> una a abierta y tranquila, sin preocuparte por cómo suena. Repítelo una o dos veces.",
+    "silencio_despues": 12,
+    "archivo": "c4-06-garganta-sol-azul_b06.mp3",
+    "caracteres": 173,
+    "breaks": 1
+   },
+   {
+    "texto": "Nota cómo vibra la garganta. Tu voz es tuya. Merece ser escuchada, también por ti.",
+    "silencio_despues": 6,
+    "archivo": "c4-06-garganta-sol-azul_b07.mp3",
+    "caracteres": 82,
+    "breaks": 0
+   },
+   {
+    "texto": "Deja que el azul se quede ahí, claro y tranquilo. <break time=\"2s\" /> Cuando quieras, abre los ojos. Gracias por escuchar tu voz.",
+    "silencio_despues": 0,
+    "archivo": "c4-06-garganta-sol-azul_b08.mp3",
+    "caracteres": 129,
+    "breaks": 1
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "titulo": "Entrecejo · La · Añil",
+  "slug": "entrecejo-la-anil",
+  "duracion": "Unos 5 minutos",
+  "ambiente": "Nota La sostenida (432 Hz exactos), con pads profundos y espaciosos.",
+  "promesa": "Hacer espacio a la claridad y a la intuición. Sexto centro: entrecejo, nota La, color añil.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Sexta nota: la. Y no una nota cualquiera: es la que da nombre a este proyecto, <break time=\"1s\" /> el la de cuatrocientos treinta y dos hercios. El color, añil. El lugar, el entrecejo. Cierra los ojos y deja que la cara se relaje.",
+    "silencio_despues": 6,
+    "archivo": "c4-07-entrecejo-la-anil_b01.mp3",
+    "caracteres": 255,
+    "breaks": 1
+   },
+   {
+    "texto": "Lleva la atención al espacio entre las cejas. Nota si hay tensión en la frente, y deja que se suavice.",
+    "silencio_despues": 12,
+    "archivo": "c4-07-entrecejo-la-anil_b02.mp3",
+    "caracteres": 102,
+    "breaks": 0
+   },
+   {
+    "texto": "Escucha la nota la. Es la nota con la que los músicos se afinan antes de tocar juntos.",
+    "silencio_despues": 6,
+    "archivo": "c4-07-entrecejo-la-anil_b03.mp3",
+    "caracteres": 86,
+    "breaks": 0
+   },
+   {
+    "texto": "Imagina un color añil, el azul profundo del cielo justo después del atardecer, <break time=\"1s\" /> cuando aparecen las primeras estrellas.",
+    "silencio_despues": 12,
+    "archivo": "c4-07-entrecejo-la-anil_b04.mp3",
+    "caracteres": 138,
+    "breaks": 1
+   },
+   {
+    "texto": "En la tradición, este centro se asocia con la intuición y la claridad. Esa forma de saber algo antes de poder explicarlo. <break time=\"2s\" /> No se trata de adivinar el futuro. Se trata de hacer silencio suficiente para escuchar lo que ya sabes.",
+    "silencio_despues": 12,
+    "archivo": "c4-07-entrecejo-la-anil_b05.mp3",
+    "caracteres": 245,
+    "breaks": 1
+   },
+   {
+    "texto": "Piensa en una pregunta que te ronda estos días. No busques la respuesta. Solo sostenla, con calma, en ese espacio azul profundo.",
+    "silencio_despues": 12,
+    "archivo": "c4-07-entrecejo-la-anil_b06.mp3",
+    "caracteres": 128,
+    "breaks": 0
+   },
+   {
+    "texto": "A veces la claridad llega así: no cuando la persigues, sino cuando dejas de empujar.",
+    "silencio_despues": 6,
+    "archivo": "c4-07-entrecejo-la-anil_b07.mp3",
+    "caracteres": 84,
+    "breaks": 0
+   },
+   {
+    "texto": "Poco a poco, deja que el añil se disuelva despacio. <break time=\"2s\" /> Cuando quieras, abre los ojos. Gracias por este silencio.",
+    "silencio_despues": 0,
+    "archivo": "c4-07-entrecejo-la-anil_b08.mp3",
+    "caracteres": 129,
+    "breaks": 1
+   }
+  ]
+ },
+ {
+  "n": 8,
+  "titulo": "Coronilla · Si · Violeta",
+  "slug": "coronilla-si-violeta",
+  "duracion": "Unos 5 minutos",
+  "ambiente": "Nota Si sostenida (unos 485 Hz en afinación de 432) que al final resuelve en el Do de la octava superior.",
+  "promesa": "Cerrar el recorrido con apertura y presencia. Séptimo centro: coronilla, nota Si, color violeta.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Séptima y última nota del recorrido: si. El color, violeta. El lugar, la coronilla, la parte más alta de la cabeza. Siéntate con la espalda larga, <break time=\"1s\" /> como si un hilo muy fino tirara suavemente de tu coronilla hacia arriba.",
+    "silencio_despues": 6,
+    "archivo": "c4-08-coronilla-si-violeta_b01.mp3",
+    "caracteres": 264,
+    "breaks": 1
+   },
+   {
+    "texto": "Lleva la atención a lo alto de la cabeza. Nota la sensación del aire, del pelo, de la piel.",
+    "silencio_despues": 12,
+    "archivo": "c4-08-coronilla-si-violeta_b02.mp3",
+    "caracteres": 91,
+    "breaks": 0
+   },
+   {
+    "texto": "Escucha la nota si. Es la última de la escala, la que deja una pequeña tensión, <break time=\"1s\" /> como una pregunta, esperando volver al do.",
+    "silencio_despues": 6,
+    "archivo": "c4-08-coronilla-si-violeta_b03.mp3",
+    "caracteres": 142,
+    "breaks": 1
+   },
+   {
+    "texto": "Imagina un color violeta, suave y luminoso, <break time=\"1s\" /> como una luz que se posa sobre la cabeza y se abre hacia arriba.",
+    "silencio_despues": 12,
+    "archivo": "c4-08-coronilla-si-violeta_b04.mp3",
+    "caracteres": 128,
+    "breaks": 1
+   },
+   {
+    "texto": "En la tradición, este centro se relaciona con la sensación de formar parte de algo más grande. Cada persona le da su propio nombre: naturaleza, vida, universo, silencio. <break time=\"2s\" /> No hace falta ponerle nombre. Solo nota, por un momento, que no vives separado de todo lo demás. El aire que respiras es el mismo que respiran los árboles y las personas a tu alrededor.",
+    "silencio_despues": 12,
+    "archivo": "c4-08-coronilla-si-violeta_b05.mp3",
+    "caracteres": 375,
+    "breaks": 1
+   },
+   {
+    "texto": "Ahora recorre el camino entero, de abajo arriba: el rojo de la raíz, el naranja del abdomen, el amarillo del estómago, <break time=\"1s\" /> el verde del pecho, el azul de la garganta, el añil del entrecejo, el violeta de la coronilla.",
+    "silencio_despues": 12,
+    "archivo": "c4-08-coronilla-si-violeta_b06.mp3",
+    "caracteres": 233,
+    "breaks": 1
+   },
+   {
+    "texto": "Siete notas. Siete colores. Un solo cuerpo, respirando.",
+    "silencio_despues": 6,
+    "archivo": "c4-08-coronilla-si-violeta_b07.mp3",
+    "caracteres": 55,
+    "breaks": 0
+   },
+   {
+    "texto": "Escucha cómo la última nota encuentra de nuevo el do, una octava más arriba. El recorrido termina donde empezó, pero un poco más alto. <break time=\"2s\" /> Cuando quieras, abre los ojos. Gracias por recorrer conmigo las siete notas.",
+    "silencio_despues": 0,
+    "archivo": "c4-08-coronilla-si-violeta_b08.mp3",
+    "caracteres": 231,
+    "breaks": 1
+   }
+  ]
+ }
+]
