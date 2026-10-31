@@ -1,6 +1,6 @@
 # Pista 7 — Entrecejo · La · Añil
 
-- **Duración estimada:** Unos 5 minutos
+- **Duración estimada:** Unos 3–4 minutos con los silencios
 - **Ambiente sonoro:** Nota La sostenida (432 Hz exactos), con pads profundos y espaciosos.
 - **Promesa editorial:** Hacer espacio a la claridad y a la intuición. Sexto centro: entrecejo, nota La, color añil.
 

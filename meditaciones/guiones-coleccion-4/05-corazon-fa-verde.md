@@ -1,6 +1,6 @@
 # Pista 5 — Corazón · Fa · Verde
 
-- **Duración estimada:** Unos 5 minutos
+- **Duración estimada:** Unos 3–4 minutos con los silencios
 - **Ambiente sonoro:** Nota Fa sostenida (unos 343 Hz en afinación de 432), con cuerdas cálidas y abiertas.
 - **Promesa editorial:** Abrir espacio a la amabilidad, hacia los demás y hacia uno mismo. Cuarto centro: corazón, nota Fa, color verde.
 

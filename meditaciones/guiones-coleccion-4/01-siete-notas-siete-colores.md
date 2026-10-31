@@ -1,6 +1,6 @@
 # Pista 1 — Siete notas, siete colores
 
-- **Duración estimada:** Unos 3 minutos
+- **Duración estimada:** Unos 2 minutos
 - **Ambiente sonoro:** Escala de Do a Si en 432 Hz, muy lenta, una nota cada pocos segundos, sobre un drone suave.
 - **Promesa editorial:** Presentar la colección y su enfoque honesto: un mapa simbólico para llevar la atención al cuerpo.
 

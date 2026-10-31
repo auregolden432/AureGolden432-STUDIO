@@ -1,6 +1,6 @@
 # Pista 2 — Raíz · Do · Rojo
 
-- **Duración estimada:** Unos 5 minutos
+- **Duración estimada:** Unos 3–4 minutos con los silencios
 - **Ambiente sonoro:** Nota Do sostenida (unos 257 Hz en afinación de 432) con drone grave, cálido y estable.
 - **Promesa editorial:** Sentir el apoyo y la estabilidad. Primer centro: raíz, nota Do, color rojo.
 

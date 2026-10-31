@@ -1,6 +1,6 @@
 # Pista 6 — Garganta · Sol · Azul
 
-- **Duración estimada:** Unos 5 minutos
+- **Duración estimada:** Unos 3–4 minutos con los silencios
 - **Ambiente sonoro:** Nota Sol sostenida (unos 385 Hz en afinación de 432), con un coro suave sin palabras.
 - **Promesa editorial:** Cuidar la propia voz y la manera de expresarse. Quinto centro: garganta, nota Sol, color azul.
 

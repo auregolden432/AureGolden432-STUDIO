@@ -1,6 +1,6 @@
 # Pista 4 — Plexo solar · Mi · Amarillo
 
-- **Duración estimada:** Unos 5 minutos
+- **Duración estimada:** Unos 3–4 minutos con los silencios
 - **Ambiente sonoro:** Nota Mi sostenida (unos 324 Hz en afinación de 432), luminosa, con un pulso muy lento.
 - **Promesa editorial:** Encontrar la fuerza tranquila de la propia voluntad. Tercer centro: plexo solar, nota Mi, color amarillo.
 

@@ -1,6 +1,6 @@
 Pista 1 — Siete notas, siete colores
 
-Duración estimada: Unos 3 minutos
+Duración estimada: Unos 2 minutos
 Ambiente sonoro: Escala de Do a Si en 432 Hz, muy lenta, una nota cada pocos segundos, sobre un drone suave.
 Promesa editorial: Presentar la colección y su enfoque honesto: un mapa simbólico para llevar la atención al cuerpo.
 
@@ -26,7 +26,7 @@ Busca un lugar tranquilo, una postura cómoda y, cuando quieras, empezamos.
 
 Pista 2 — Raíz · Do · Rojo
 
-Duración estimada: Unos 5 minutos
+Duración estimada: Unos 3–4 minutos con los silencios
 Ambiente sonoro: Nota Do sostenida (unos 257 Hz en afinación de 432) con drone grave, cálido y estable.
 Promesa editorial: Sentir el apoyo y la estabilidad. Primer centro: raíz, nota Do, color rojo.
 
@@ -72,7 +72,7 @@ Cuando quieras, abre los ojos y apoya bien los pies. Gracias por empezar el reco
 
 Pista 3 — Sacro · Re · Naranja
 
-Duración estimada: Unos 5 minutos
+Duración estimada: Unos 3–4 minutos con los silencios
 Ambiente sonoro: Nota Re sostenida (unos 288 Hz en afinación de 432), con texturas de agua suave.
 Promesa editorial: Conectar con el fluir y la creatividad. Segundo centro: sacro, nota Re, color naranja.
 
@@ -118,7 +118,7 @@ Cuando quieras, vuelve al lugar donde estás. Gracias por estos minutos.
 
 Pista 4 — Plexo solar · Mi · Amarillo
 
-Duración estimada: Unos 5 minutos
+Duración estimada: Unos 3–4 minutos con los silencios
 Ambiente sonoro: Nota Mi sostenida (unos 324 Hz en afinación de 432), luminosa, con un pulso muy lento.
 Promesa editorial: Encontrar la fuerza tranquila de la propia voluntad. Tercer centro: plexo solar, nota Mi, color amarillo.
 
@@ -160,7 +160,7 @@ Cuando quieras, abre los ojos. Llévate un poco de esa luz al resto del día. Gr
 
 Pista 5 — Corazón · Fa · Verde
 
-Duración estimada: Unos 5 minutos
+Duración estimada: Unos 3–4 minutos con los silencios
 Ambiente sonoro: Nota Fa sostenida (unos 343 Hz en afinación de 432), con cuerdas cálidas y abiertas.
 Promesa editorial: Abrir espacio a la amabilidad, hacia los demás y hacia uno mismo. Cuarto centro: corazón, nota Fa, color verde.
 
@@ -206,7 +206,7 @@ Cuando quieras, abre los ojos. Gracias por este momento de amabilidad.
 
 Pista 6 — Garganta · Sol · Azul
 
-Duración estimada: Unos 5 minutos
+Duración estimada: Unos 3–4 minutos con los silencios
 Ambiente sonoro: Nota Sol sostenida (unos 385 Hz en afinación de 432), con un coro suave sin palabras.
 Promesa editorial: Cuidar la propia voz y la manera de expresarse. Quinto centro: garganta, nota Sol, color azul.
 
@@ -252,7 +252,7 @@ Cuando quieras, abre los ojos. Gracias por escuchar tu voz.
 
 Pista 7 — Entrecejo · La · Añil
 
-Duración estimada: Unos 5 minutos
+Duración estimada: Unos 3–4 minutos con los silencios
 Ambiente sonoro: Nota La sostenida (432 Hz exactos), con pads profundos y espaciosos.
 Promesa editorial: Hacer espacio a la claridad y a la intuición. Sexto centro: entrecejo, nota La, color añil.
 
@@ -298,7 +298,7 @@ Cuando quieras, abre los ojos. Gracias por este silencio.
 
 Pista 8 — Coronilla · Si · Violeta
 
-Duración estimada: Unos 5 minutos
+Duración estimada: Unos 3–4 minutos con los silencios
 Ambiente sonoro: Nota Si sostenida (unos 485 Hz en afinación de 432) que al final resuelve en el Do de la octava superior.
 Promesa editorial: Cerrar el recorrido con apertura y presencia. Séptimo centro: coronilla, nota Si, color violeta.
 

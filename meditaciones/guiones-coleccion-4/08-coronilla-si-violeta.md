@@ -1,6 +1,6 @@
 # Pista 8 — Coronilla · Si · Violeta
 
-- **Duración estimada:** Unos 5 minutos
+- **Duración estimada:** Unos 3–4 minutos con los silencios
 - **Ambiente sonoro:** Nota Si sostenida (unos 485 Hz en afinación de 432) que al final resuelve en el Do de la octava superior.
 - **Promesa editorial:** Cerrar el recorrido con apertura y presencia. Séptimo centro: coronilla, nota Si, color violeta.
 

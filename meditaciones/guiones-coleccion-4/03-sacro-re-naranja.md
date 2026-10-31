@@ -1,6 +1,6 @@
 # Pista 3 — Sacro · Re · Naranja
 
-- **Duración estimada:** Unos 5 minutos
+- **Duración estimada:** Unos 3–4 minutos con los silencios
 - **Ambiente sonoro:** Nota Re sostenida (unos 288 Hz en afinación de 432), con texturas de agua suave.
 - **Promesa editorial:** Conectar con el fluir y la creatividad. Segundo centro: sacro, nota Re, color naranja.
 

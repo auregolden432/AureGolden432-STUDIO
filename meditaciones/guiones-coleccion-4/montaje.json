@@ -3,7 +3,7 @@
   "n": 1,
   "titulo": "Siete notas, siete colores",
   "slug": "siete-notas-siete-colores",
-  "duracion": "Unos 3 minutos",
+  "duracion": "Unos 2 minutos",
   "ambiente": "Escala de Do a Si en 432 Hz, muy lenta, una nota cada pocos segundos, sobre un drone suave.",
   "promesa": "Presentar la colección y su enfoque honesto: un mapa simbólico para llevar la atención al cuerpo.",
   "bloques": [
@@ -34,7 +34,7 @@
   "n": 2,
   "titulo": "Raíz · Do · Rojo",
   "slug": "raiz-do-rojo",
-  "duracion": "Unos 5 minutos",
+  "duracion": "Unos 3–4 minutos con los silencios",
   "ambiente": "Nota Do sostenida (unos 257 Hz en afinación de 432) con drone grave, cálido y estable.",
   "promesa": "Sentir el apoyo y la estabilidad. Primer centro: raíz, nota Do, color rojo.",
   "bloques": [
@@ -93,7 +93,7 @@
   "n": 3,
   "titulo": "Sacro · Re · Naranja",
   "slug": "sacro-re-naranja",
-  "duracion": "Unos 5 minutos",
+  "duracion": "Unos 3–4 minutos con los silencios",
   "ambiente": "Nota Re sostenida (unos 288 Hz en afinación de 432), con texturas de agua suave.",
   "promesa": "Conectar con el fluir y la creatividad. Segundo centro: sacro, nota Re, color naranja.",
   "bloques": [
@@ -159,7 +159,7 @@
   "n": 4,
   "titulo": "Plexo solar · Mi · Amarillo",
   "slug": "plexo-solar-mi-amarillo",
-  "duracion": "Unos 5 minutos",
+  "duracion": "Unos 3–4 minutos con los silencios",
   "ambiente": "Nota Mi sostenida (unos 324 Hz en afinación de 432), luminosa, con un pulso muy lento.",
   "promesa": "Encontrar la fuerza tranquila de la propia voluntad. Tercer centro: plexo solar, nota Mi, color amarillo.",
   "bloques": [
@@ -218,7 +218,7 @@
   "n": 5,
   "titulo": "Corazón · Fa · Verde",
   "slug": "corazon-fa-verde",
-  "duracion": "Unos 5 minutos",
+  "duracion": "Unos 3–4 minutos con los silencios",
   "ambiente": "Nota Fa sostenida (unos 343 Hz en afinación de 432), con cuerdas cálidas y abiertas.",
   "promesa": "Abrir espacio a la amabilidad, hacia los demás y hacia uno mismo. Cuarto centro: corazón, nota Fa, color verde.",
   "bloques": [
@@ -284,7 +284,7 @@
   "n": 6,
   "titulo": "Garganta · Sol · Azul",
   "slug": "garganta-sol-azul",
-  "duracion": "Unos 5 minutos",
+  "duracion": "Unos 3–4 minutos con los silencios",
   "ambiente": "Nota Sol sostenida (unos 385 Hz en afinación de 432), con un coro suave sin palabras.",
   "promesa": "Cuidar la propia voz y la manera de expresarse. Quinto centro: garganta, nota Sol, color azul.",
   "bloques": [
@@ -350,7 +350,7 @@
   "n": 7,
   "titulo": "Entrecejo · La · Añil",
   "slug": "entrecejo-la-anil",
-  "duracion": "Unos 5 minutos",
+  "duracion": "Unos 3–4 minutos con los silencios",
   "ambiente": "Nota La sostenida (432 Hz exactos), con pads profundos y espaciosos.",
   "promesa": "Hacer espacio a la claridad y a la intuición. Sexto centro: entrecejo, nota La, color añil.",
   "bloques": [
@@ -416,7 +416,7 @@
   "n": 8,
   "titulo": "Coronilla · Si · Violeta",
   "slug": "coronilla-si-violeta",
-  "duracion": "Unos 5 minutos",
+  "duracion": "Unos 3–4 minutos con los silencios",
   "ambiente": "Nota Si sostenida (unos 485 Hz en afinación de 432) que al final resuelve en el Do de la octava superior.",
   "promesa": "Cerrar el recorrido con apertura y presencia. Séptimo centro: coronilla, nota Si, color violeta.",
   "bloques": [
