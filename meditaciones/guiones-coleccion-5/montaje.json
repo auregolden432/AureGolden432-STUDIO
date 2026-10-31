@@ -1,0 +1,457 @@
+[
+ {
+  "n": 1,
+  "titulo": "Año nuevo: una intención sencilla",
+  "slug": "ano-nuevo-una-intencion-sencilla",
+  "duracion": "Unos 4 minutos con los silencios",
+  "ambiente": "Campanas suaves y cuencos en 432 Hz, sensación de comienzo y de amplitud.",
+  "promesa": "Empezar el año con una intención amable en lugar de una lista de exigencias.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Empieza un año nuevo, y con él, una página en blanco. Busca una postura cómoda y deja que la respiración se calme.",
+    "silencio_despues": 6,
+    "archivo": "c5-01-ano-nuevo-una-intencion-sencilla_b01.mp3",
+    "caracteres": 139,
+    "breaks": 0
+   },
+   {
+    "texto": "En estas fechas es fácil llenarse de propósitos: más ejercicio, más orden, más logros. A menudo llegan con prisa y con un poco de culpa. Hoy te propongo algo distinto. <break time=\"2s\" /> Antes de mirar hacia delante, mira un momento hacia atrás. Piensa en el año que termina. ¿Qué aprendiste? ¿Qué te sostuvo? ¿Qué puedes dejar atrás?",
+    "silencio_despues": 12,
+    "archivo": "c5-01-ano-nuevo-una-intencion-sencilla_b02.mp3",
+    "caracteres": 335,
+    "breaks": 1
+   },
+   {
+    "texto": "Agradece lo que te enseñó, incluso lo difícil. Y suelta, en una espiración larga, lo que ya no necesitas llevar contigo.",
+    "silencio_despues": 6,
+    "archivo": "c5-01-ano-nuevo-una-intencion-sencilla_b03.mp3",
+    "caracteres": 120,
+    "breaks": 0
+   },
+   {
+    "texto": "Ahora, en lugar de una lista de metas, elige una sola palabra para este año. Una palabra que describa cómo quieres vivirlo. Calma. Presencia. Valentía. Cuidado. Ligereza. La que sea tuya.",
+    "silencio_despues": 12,
+    "archivo": "c5-01-ano-nuevo-una-intencion-sencilla_b04.mp3",
+    "caracteres": 187,
+    "breaks": 0
+   },
+   {
+    "texto": "Repite esa palabra en silencio, despacio, tres veces.",
+    "silencio_despues": 12,
+    "archivo": "c5-01-ano-nuevo-una-intencion-sencilla_b05.mp3",
+    "caracteres": 53,
+    "breaks": 0
+   },
+   {
+    "texto": "Una intención no es una obligación. Es una brújula. Habrá días en los que te alejes de ella, y no pasa nada. Siempre puedes volver a mirarla.",
+    "silencio_despues": 6,
+    "archivo": "c5-01-ano-nuevo-una-intencion-sencilla_b06.mp3",
+    "caracteres": 141,
+    "breaks": 0
+   },
+   {
+    "texto": "Imagina un día cualquiera de este año vivido desde esa palabra. No un día perfecto. Un martes normal, con esa cualidad un poco más presente.",
+    "silencio_despues": 12,
+    "archivo": "c5-01-ano-nuevo-una-intencion-sencilla_b07.mp3",
+    "caracteres": 140,
+    "breaks": 0
+   },
+   {
+    "texto": "Guarda tu palabra en un lugar cercano. Escríbela, si quieres, en un papel que veas a menudo. <break time=\"2s\" /> Cuando quieras, abre los ojos. Feliz año nuevo, y gracias por empezarlo con calma.",
+    "silencio_despues": 0,
+    "archivo": "c5-01-ano-nuevo-una-intencion-sencilla_b08.mp3",
+    "caracteres": 195,
+    "breaks": 1
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "titulo": "Luna nueva: sembrar",
+  "slug": "luna-nueva-sembrar",
+  "duracion": "Unos 4 minutos con los silencios",
+  "ambiente": "Drone oscuro y suave en 432 Hz, sonidos nocturnos lejanos, mucha calma.",
+  "promesa": "Usar la luna nueva como símbolo para empezar algo pequeño.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Esta meditación está pensada para las noches de luna nueva, <break time=\"1s\" /> cuando el cielo está más oscuro. Acomódate y respira con calma.",
+    "silencio_despues": 6,
+    "archivo": "c5-02-luna-nueva-sembrar_b01.mp3",
+    "caracteres": 168,
+    "breaks": 1
+   },
+   {
+    "texto": "Durante miles de años, muchas culturas han usado los ciclos de la luna para ordenar el tiempo: sembrar, cosechar, descansar. Hoy no vamos a pedirle nada a la luna. Solo vamos a usar su ritmo como un recordatorio. <break time=\"2s\" /> La luna nueva es el comienzo del ciclo. El momento en que no se ve, pero ya está empezando a crecer.",
+    "silencio_despues": 12,
+    "archivo": "c5-02-luna-nueva-sembrar_b02.mp3",
+    "caracteres": 333,
+    "breaks": 1
+   },
+   {
+    "texto": "Imagina que tienes en la mano una semilla pequeña. Esa semilla representa algo que quieres empezar: un hábito, <break time=\"1s\" /> un proyecto, una forma distinta de tratarte.",
+    "silencio_despues": 6,
+    "archivo": "c5-02-luna-nueva-sembrar_b03.mp3",
+    "caracteres": 175,
+    "breaks": 1
+   },
+   {
+    "texto": "Piensa con calma qué es. Algo pequeño y posible. No hace falta que sea grande.",
+    "silencio_despues": 12,
+    "archivo": "c5-02-luna-nueva-sembrar_b04.mp3",
+    "caracteres": 78,
+    "breaks": 0
+   },
+   {
+    "texto": "Ahora imagina que la entierras con cuidado en una tierra oscura y húmeda. La cubres. La riegas un poco.",
+    "silencio_despues": 6,
+    "archivo": "c5-02-luna-nueva-sembrar_b05.mp3",
+    "caracteres": 103,
+    "breaks": 0
+   },
+   {
+    "texto": "Durante unos días no verás nada. Es normal. Lo importante está pasando debajo, en silencio.",
+    "silencio_despues": 12,
+    "archivo": "c5-02-luna-nueva-sembrar_b06.mp3",
+    "caracteres": 91,
+    "breaks": 0
+   },
+   {
+    "texto": "¿Cuál sería el primer gesto, muy pequeño, para cuidar esa semilla esta semana?",
+    "silencio_despues": 12,
+    "archivo": "c5-02-luna-nueva-sembrar_b07.mp3",
+    "caracteres": 78,
+    "breaks": 0
+   },
+   {
+    "texto": "Quédate con ese gesto. Es suficiente para empezar. <break time=\"2s\" /> Cuando quieras, vuelve al lugar donde estás. Gracias por sembrar en silencio.",
+    "silencio_despues": 0,
+    "archivo": "c5-02-luna-nueva-sembrar_b08.mp3",
+    "caracteres": 148,
+    "breaks": 1
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "titulo": "Luna llena: soltar",
+  "slug": "luna-llena-soltar",
+  "duracion": "Unos 4 minutos con los silencios",
+  "ambiente": "Pads luminosos en 432 Hz, sensación de claridad nocturna y espacio abierto.",
+  "promesa": "Usar la luna llena como símbolo para reconocer lo vivido y soltar lo que pesa.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Esta meditación está pensada para las noches de luna llena, cuando el cielo se ilumina. Acomódate, y si puedes, imagina que estás bajo esa luz plateada.",
+    "silencio_despues": 6,
+    "archivo": "c5-03-luna-llena-soltar_b01.mp3",
+    "caracteres": 177,
+    "breaks": 0
+   },
+   {
+    "texto": "La luna llena es el momento más visible del ciclo. Todo se ve con más claridad, también lo que llevamos encima. <break time=\"2s\" /> Mira, con esa luz suave, las últimas semanas. ¿Qué ha crecido en tu vida? ¿Qué ha ido bien, aunque sea un poco?",
+    "silencio_despues": 12,
+    "archivo": "c5-03-luna-llena-soltar_b02.mp3",
+    "caracteres": 243,
+    "breaks": 1
+   },
+   {
+    "texto": "Reconócelo. Date un momento para valorar lo que has hecho, sin quitarle importancia.",
+    "silencio_despues": 6,
+    "archivo": "c5-03-luna-llena-soltar_b03.mp3",
+    "caracteres": 84,
+    "breaks": 0
+   },
+   {
+    "texto": "Ahora mira también lo que pesa. Una preocupación que arrastras. Una exigencia que ya no te sirve. Un resentimiento pequeño.",
+    "silencio_despues": 12,
+    "archivo": "c5-03-luna-llena-soltar_b04.mp3",
+    "caracteres": 123,
+    "breaks": 0
+   },
+   {
+    "texto": "Imagina que lo dejas sobre una hoja de papel, y que esa hoja se vuelve ligera, <break time=\"1s\" /> tan ligera que la luz de la luna la levanta y se la lleva despacio.",
+    "silencio_despues": 12,
+    "archivo": "c5-03-luna-llena-soltar_b05.mp3",
+    "caracteres": 166,
+    "breaks": 1
+   },
+   {
+    "texto": "No tienes que olvidar nada. Solo dejar de cargarlo un rato.",
+    "silencio_despues": 6,
+    "archivo": "c5-03-luna-llena-soltar_b06.mp3",
+    "caracteres": 59,
+    "breaks": 0
+   },
+   {
+    "texto": "Respira hondo. Siente el espacio que queda después de soltar.",
+    "silencio_despues": 12,
+    "archivo": "c5-03-luna-llena-soltar_b07.mp3",
+    "caracteres": 61,
+    "breaks": 0
+   },
+   {
+    "texto": "La luna seguirá su ciclo. Menguará, desaparecerá y volverá. Tú también tienes derecho a tus propios ciclos. <break time=\"2s\" /> Cuando quieras, abre los ojos. Gracias por esta noche de luz.",
+    "silencio_despues": 0,
+    "archivo": "c5-03-luna-llena-soltar_b08.mp3",
+    "caracteres": 189,
+    "breaks": 1
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "titulo": "Equinoccio de primavera: despertar",
+  "slug": "equinoccio-de-primavera-despertar",
+  "duracion": "Unos 4 minutos con los silencios",
+  "ambiente": "Flauta y arpa en 432 Hz con pájaros suaves al fondo, sensación de mañana fresca.",
+  "promesa": "Acompañar el despertar de la primavera con atención a lo que empieza a crecer.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Llega el equinoccio de primavera: el día y la noche duran casi lo mismo, <break time=\"1s\" /> y a partir de ahora, la luz empieza a ganar terreno. Siéntate o túmbate con comodidad, y respira despacio.",
+    "silencio_despues": 6,
+    "archivo": "c5-04-equinoccio-de-primavera-despertar_b01.mp3",
+    "caracteres": 224,
+    "breaks": 1
+   },
+   {
+    "texto": "Imagina que sales a un campo a primera hora de la mañana. El aire es fresco. La hierba está húmeda de rocío. Los árboles, que parecían dormidos, tienen pequeños brotes verdes.",
+    "silencio_despues": 12,
+    "archivo": "c5-04-equinoccio-de-primavera-despertar_b02.mp3",
+    "caracteres": 175,
+    "breaks": 0
+   },
+   {
+    "texto": "La naturaleza no despierta de golpe. Despierta poco a poco: un brote, una flor, un pájaro que vuelve.",
+    "silencio_despues": 6,
+    "archivo": "c5-04-equinoccio-de-primavera-despertar_b03.mp3",
+    "caracteres": 101,
+    "breaks": 0
+   },
+   {
+    "texto": "Piensa en algo de tu vida que también empieza a despertar. Un interés nuevo, una energía distinta, una relación que florece.",
+    "silencio_despues": 12,
+    "archivo": "c5-04-equinoccio-de-primavera-despertar_b04.mp3",
+    "caracteres": 124,
+    "breaks": 0
+   },
+   {
+    "texto": "El equinoccio habla de equilibrio: tanta luz como oscuridad. Quizá también te invita a buscar un poco de equilibrio entre lo que haces y lo que descansas.",
+    "silencio_despues": 6,
+    "archivo": "c5-04-equinoccio-de-primavera-despertar_b05.mp3",
+    "caracteres": 154,
+    "breaks": 0
+   },
+   {
+    "texto": "Respira el aire fresco de esa mañana imaginaria. Siente cómo el cuerpo se despereza, sin prisa.",
+    "silencio_despues": 12,
+    "archivo": "c5-04-equinoccio-de-primavera-despertar_b06.mp3",
+    "caracteres": 95,
+    "breaks": 0
+   },
+   {
+    "texto": "Si quieres, estira los brazos hacia arriba, despacio, como una planta que busca la luz.",
+    "silencio_despues": 6,
+    "archivo": "c5-04-equinoccio-de-primavera-despertar_b07.mp3",
+    "caracteres": 87,
+    "breaks": 0
+   },
+   {
+    "texto": "Cuando quieras, abre los ojos. Feliz primavera.",
+    "silencio_despues": 0,
+    "archivo": "c5-04-equinoccio-de-primavera-despertar_b08.mp3",
+    "caracteres": 47,
+    "breaks": 0
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "titulo": "Solsticio de verano: plenitud",
+  "slug": "solsticio-de-verano-plenitud",
+  "duracion": "Unos 4 minutos con los silencios",
+  "ambiente": "Cuerdas cálidas y luminosas en 432 Hz, cigarras lejanas, sensación de tarde larga de verano.",
+  "promesa": "Celebrar la luz y disfrutar de lo que ya está en flor.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Llega el solsticio de verano, el día más largo del año, la noche más corta. Acomódate y deja que el cuerpo se relaje, como en una tarde cálida.",
+    "silencio_despues": 6,
+    "archivo": "c5-05-solsticio-de-verano-plenitud_b01.mp3",
+    "caracteres": 168,
+    "breaks": 0
+   },
+   {
+    "texto": "Imagina una tarde de verano que no termina nunca. La luz es dorada. Hace calor, pero corre una brisa suave. Huele a hierba seca y a fruta madura.",
+    "silencio_despues": 12,
+    "archivo": "c5-05-solsticio-de-verano-plenitud_b02.mp3",
+    "caracteres": 145,
+    "breaks": 0
+   },
+   {
+    "texto": "En muchas culturas, esta noche se celebraba con hogueras: para honrar la luz y para quemar simbólicamente lo viejo.",
+    "silencio_despues": 6,
+    "archivo": "c5-05-solsticio-de-verano-plenitud_b03.mp3",
+    "caracteres": 115,
+    "breaks": 0
+   },
+   {
+    "texto": "Hoy te propongo una celebración más tranquila. Piensa en lo que está en flor en tu vida ahora mismo. Algo que ha crecido. Algo que disfrutas. Alguien a quien quieres.",
+    "silencio_despues": 12,
+    "archivo": "c5-05-solsticio-de-verano-plenitud_b04.mp3",
+    "caracteres": 166,
+    "breaks": 0
+   },
+   {
+    "texto": "No lo dejes pasar sin mirarlo. A veces estamos tan ocupados planeando lo siguiente que no disfrutamos lo que ya ha llegado.",
+    "silencio_despues": 6,
+    "archivo": "c5-05-solsticio-de-verano-plenitud_b05.mp3",
+    "caracteres": 123,
+    "breaks": 0
+   },
+   {
+    "texto": "Siente el calor de esa luz imaginaria sobre la cara, sobre los brazos. Deja que te llene.",
+    "silencio_despues": 12,
+    "archivo": "c5-05-solsticio-de-verano-plenitud_b06.mp3",
+    "caracteres": 89,
+    "breaks": 0
+   },
+   {
+    "texto": "A partir de mañana, los días empezarán a acortarse, muy poco a poco. No hay prisa. Hoy solo toca disfrutar de la luz. <break time=\"2s\" /> Cuando quieras, abre los ojos. Feliz verano.",
+    "silencio_despues": 0,
+    "archivo": "c5-05-solsticio-de-verano-plenitud_b07.mp3",
+    "caracteres": 182,
+    "breaks": 1
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "titulo": "Equinoccio de otoño: cosechar",
+  "slug": "equinoccio-de-otono-cosechar",
+  "duracion": "Unos 4 minutos con los silencios",
+  "ambiente": "Guitarra suave y viento entre hojas secas en 432 Hz, tonos cálidos y ocres.",
+  "promesa": "Agradecer lo cosechado y prepararse para un ritmo más lento.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Llega el equinoccio de otoño. De nuevo, el día y la noche se equilibran, <break time=\"1s\" /> y a partir de ahora las noches se alargan. Acomódate y respira con calma.",
+    "silencio_despues": 6,
+    "archivo": "c5-06-equinoccio-de-otono-cosechar_b01.mp3",
+    "caracteres": 191,
+    "breaks": 1
+   },
+   {
+    "texto": "Imagina un camino entre árboles de hojas amarillas, naranjas y rojizas. Al caminar, las hojas crujen bajo tus pies. El aire huele a tierra y a lluvia reciente.",
+    "silencio_despues": 12,
+    "archivo": "c5-06-equinoccio-de-otono-cosechar_b02.mp3",
+    "caracteres": 159,
+    "breaks": 0
+   },
+   {
+    "texto": "El otoño es el tiempo de la cosecha. Se recoge lo que se sembró en primavera y se cuidó en verano.",
+    "silencio_despues": 6,
+    "archivo": "c5-06-equinoccio-de-otono-cosechar_b03.mp3",
+    "caracteres": 98,
+    "breaks": 0
+   },
+   {
+    "texto": "Piensa en lo que has cosechado este año. Un aprendizaje. Un logro pequeño. Una relación más profunda. Algo que hoy sabes y antes no sabías.",
+    "silencio_despues": 12,
+    "archivo": "c5-06-equinoccio-de-otono-cosechar_b04.mp3",
+    "caracteres": 139,
+    "breaks": 0
+   },
+   {
+    "texto": "Agradécelo. Aunque la cosecha no haya sido perfecta, es tuya.",
+    "silencio_despues": 6,
+    "archivo": "c5-06-equinoccio-de-otono-cosechar_b05.mp3",
+    "caracteres": 61,
+    "breaks": 0
+   },
+   {
+    "texto": "Los árboles sueltan sus hojas sin drama. No se aferran. Saben que necesitan descansar para volver a florecer. <break time=\"2s\" /> ¿Qué podrías soltar tú, para tener más espacio en los meses que vienen?",
+    "silencio_despues": 12,
+    "archivo": "c5-06-equinoccio-de-otono-cosechar_b06.mp3",
+    "caracteres": 201,
+    "breaks": 1
+   },
+   {
+    "texto": "Deja que el cuerpo baje un poco el ritmo, como la propia estación.",
+    "silencio_despues": 6,
+    "archivo": "c5-06-equinoccio-de-otono-cosechar_b07.mp3",
+    "caracteres": 66,
+    "breaks": 0
+   },
+   {
+    "texto": "Cuando quieras, abre los ojos. Feliz otoño.",
+    "silencio_despues": 0,
+    "archivo": "c5-06-equinoccio-de-otono-cosechar_b08.mp3",
+    "caracteres": 43,
+    "breaks": 0
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "titulo": "Solsticio de invierno: la luz que vuelve",
+  "slug": "solsticio-de-invierno-la-luz-que-vuelve",
+  "duracion": "Unos 4 minutos con los silencios",
+  "ambiente": "Piano lento y campanas lejanas en 432 Hz, sensación de recogimiento y calidez interior.",
+  "promesa": "Descansar en la noche más larga y recibir la luz que empieza a volver.",
+  "bloques": [
+   {
+    "texto": "Bienvenida o bienvenido. Llega el solsticio de invierno: la noche más larga del año. Busca un lugar cálido. Si puedes, tápate con una manta. Respira despacio.",
+    "silencio_despues": 6,
+    "archivo": "c5-07-solsticio-de-invierno-la-luz-que-vuelve_b01.mp3",
+    "caracteres": 158,
+    "breaks": 0
+   },
+   {
+    "texto": "Durante siglos, en esta fecha, muchas culturas encendían velas y hogueras. No para negar la oscuridad, sino para acompañarla y recordar que la luz volvería.",
+    "silencio_despues": 12,
+    "archivo": "c5-07-solsticio-de-invierno-la-luz-que-vuelve_b02.mp3",
+    "caracteres": 156,
+    "breaks": 0
+   },
+   {
+    "texto": "Imagina una habitación en penumbra. En el centro, una sola vela encendida. Su llama es pequeña, pero suficiente para iluminar lo que está cerca.",
+    "silencio_despues": 6,
+    "archivo": "c5-07-solsticio-de-invierno-la-luz-que-vuelve_b03.mp3",
+    "caracteres": 144,
+    "breaks": 0
+   },
+   {
+    "texto": "El invierno invita a recogerse. A descansar. A no exigir a la tierra que florezca todo el año. <break time=\"2s\" /> Quizá tú también necesitas unos días más lentos. Está bien. El descanso también es parte del ciclo.",
+    "silencio_despues": 12,
+    "archivo": "c5-07-solsticio-de-invierno-la-luz-que-vuelve_b04.mp3",
+    "caracteres": 214,
+    "breaks": 1
+   },
+   {
+    "texto": "Mira esa llama y piensa en lo que te ha dado calor este año. Una persona. Un lugar. Un momento.",
+    "silencio_despues": 12,
+    "archivo": "c5-07-solsticio-de-invierno-la-luz-que-vuelve_b05.mp3",
+    "caracteres": 95,
+    "breaks": 0
+   },
+   {
+    "texto": "A partir de mañana, cada día tendrá unos minutos más de luz. Casi no se nota al principio. Pero está ocurriendo.",
+    "silencio_despues": 6,
+    "archivo": "c5-07-solsticio-de-invierno-la-luz-que-vuelve_b06.mp3",
+    "caracteres": 112,
+    "breaks": 0
+   },
+   {
+    "texto": "Así suelen ser los cambios importantes: lentos, silenciosos, constantes.",
+    "silencio_despues": 12,
+    "archivo": "c5-07-solsticio-de-invierno-la-luz-que-vuelve_b07.mp3",
+    "caracteres": 72,
+    "breaks": 0
+   },
+   {
+    "texto": "Quédate un momento más con la vela, en calma. <break time=\"2s\" /> Cuando quieras, abre los ojos. Que la luz que vuelve te encuentre en calma y en paz.",
+    "silencio_despues": 0,
+    "archivo": "c5-07-solsticio-de-invierno-la-luz-que-vuelve_b08.mp3",
+    "caracteres": 150,
+    "breaks": 1
+   }
+  ]
+ }
+]
